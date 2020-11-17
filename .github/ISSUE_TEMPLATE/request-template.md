@@ -1,7 +1,7 @@
 ---
 name: Request Template
 about: 音源データの修正、追加リクエスト
-title: ''
+title: 音源データ修正・追加のリクエスト
 labels: ''
 assignees: ''
 
