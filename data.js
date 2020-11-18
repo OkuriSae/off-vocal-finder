@@ -9,7 +9,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "シャルル / バルーン feat.flower",
-    "note": "ボカロカラオケランキング1位 at 2020/10/8",
+    "note": "ボカロカラオケランキング1位",
     "updated_at": "2020/11/17"
   },
   {
@@ -22,7 +22,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "ロキ / みきとP feat.鏡音リン",
-    "note": "ボカロカラオケランキング2位 at 2020/10/8",
+    "note": "ボカロカラオケランキング2位",
     "updated_at": "2020/11/17"
   },
   {
@@ -35,7 +35,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ボッカデラベリタ / 柊キライ feat.flower",
-    "note": "ボカロカラオケランキング3位 at 2020/10/8",
+    "note": "ボカロカラオケランキング3位",
     "updated_at": "2020/11/17"
   },
   {
@@ -48,7 +48,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/edogawa_sampo/status/1251884315664805889?s=20",
     "credit": "ヴィラン / てにをはP feat.flower",
-    "note": "ボカロカラオケランキング4位 at 2020/10/8",
+    "note": "ボカロカラオケランキング4位",
     "updated_at": "2020/11/17"
   },
   {
@@ -61,7 +61,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ブリキノダンス / 日向電工 feat.初音ミク",
-    "note": "ボカロカラオケランキング5位 at 2020/10/8",
+    "note": "ボカロカラオケランキング5位",
     "updated_at": "2020/11/17"
   },
   {
@@ -74,7 +74,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "天ノ弱 / 164 feat.GUMI",
-    "note": "ボカロカラオケランキング6位 at 2020/10/8",
+    "note": "ボカロカラオケランキング6位",
     "updated_at": "2020/11/17"
   },
   {
@@ -87,7 +87,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "命に嫌われている / カンザキイオリ",
-    "note": "ボカロカラオケランキング7位 at 2020/10/8",
+    "note": "ボカロカラオケランキング7位",
     "updated_at": "2020/11/17"
   },
   {
@@ -100,7 +100,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アスノヨゾラ哨戒班 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング8位 at 2020/10/8",
+    "note": "ボカロカラオケランキング8位",
     "updated_at": "2020/11/17"
   },
   {
@@ -113,7 +113,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドラマツルギー / Eve",
-    "note": "ボカロカラオケランキング9位 at 2020/10/8",
+    "note": "ボカロカラオケランキング9位",
     "updated_at": "2020/11/17"
   },
   {
@@ -126,7 +126,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "乙女解剖 / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング10位 at 2020/10/8",
+    "note": "ボカロカラオケランキング10位",
     "updated_at": "2020/11/17"
   },
   {
@@ -139,7 +139,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ベノム / かいりきベア feat.flower",
-    "note": "ボカロカラオケランキング11位 at 2020/10/8",
+    "note": "ボカロカラオケランキング11位",
     "updated_at": "2020/11/17"
   },
   {
@@ -152,7 +152,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ヒバナ / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング12位 at 2020/10/8",
+    "note": "ボカロカラオケランキング12位",
     "updated_at": "2020/11/17"
   },
   {
@@ -165,7 +165,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "からくりピエロ / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング13位 at 2020/10/8",
+    "note": "ボカロカラオケランキング13位",
     "updated_at": "2020/11/17"
   },
   {
@@ -178,7 +178,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "コールボーイ / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング14位 at 2020/10/8",
+    "note": "ボカロカラオケランキング14位",
     "updated_at": "2020/11/17"
   },
   {
@@ -191,7 +191,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドーナツホール（COVER） / 米津 玄師",
-    "note": "ボカロカラオケランキング15位 at 2020/10/8",
+    "note": "ボカロカラオケランキング15位",
     "updated_at": "2020/11/17"
   },
   {
@@ -204,7 +204,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "千本桜 / 黒うさP feat.初音ミク",
-    "note": "ボカロカラオケランキング16位 at 2020/10/8",
+    "note": "ボカロカラオケランキング16位",
     "updated_at": "2020/11/17"
   },
   {
@@ -217,7 +217,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジャンキーナイトタウンオーケストラ / すりぃ feat.鏡音レン",
-    "note": "ボカロカラオケランキング17位 at 2020/10/8",
+    "note": "ボカロカラオケランキング17位",
     "updated_at": "2020/11/17"
   },
   {
@@ -230,7 +230,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ゴーストルール / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング18位 at 2020/10/8",
+    "note": "ボカロカラオケランキング18位",
     "updated_at": "2020/11/17"
   },
   {
@@ -243,7 +243,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マトリョシカ / ハチ feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング19位 at 2020/10/8",
+    "note": "ボカロカラオケランキング19位",
     "updated_at": "2020/11/17"
   },
   {
@@ -256,7 +256,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "太陽系デスコ / ナユタン星人",
-    "note": "ボカロカラオケランキング20位 at 2020/10/8",
+    "note": "ボカロカラオケランキング20位",
     "updated_at": "2020/11/17"
   },
   {
@@ -269,7 +269,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ロミオとシンデレラ / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング21位 at 2020/10/8",
+    "note": "ボカロカラオケランキング21位",
     "updated_at": "2020/11/17"
   },
   {
@@ -282,7 +282,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "六兆年と一夜物語 / kemu feat.IA",
-    "note": "ボカロカラオケランキング22位 at 2020/10/8",
+    "note": "ボカロカラオケランキング22位",
     "updated_at": "2020/11/17"
   },
   {
@@ -295,7 +295,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "東京テディベア / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング23位 at 2020/10/8",
+    "note": "ボカロカラオケランキング23位",
     "updated_at": "2020/11/17"
   },
   {
@@ -308,7 +308,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "メルト / supercell",
-    "note": "ボカロカラオケランキング24位 at 2020/10/8",
+    "note": "ボカロカラオケランキング24位",
     "updated_at": "2020/11/17"
   },
   {
@@ -321,7 +321,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "千本桜 / WhiteFlame feat.初音ミク",
-    "note": "ボカロカラオケランキング25位 at 2020/10/8",
+    "note": "ボカロカラオケランキング25位",
     "updated_at": "2020/11/17"
   },
   {
@@ -334,7 +334,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "エバ / 柊キライ feat.flower",
-    "note": "ボカロカラオケランキング26位 at 2020/10/8",
+    "note": "ボカロカラオケランキング26位",
     "updated_at": "2020/11/17"
   },
   {
@@ -347,7 +347,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/hachi_08/status/212231267989729284",
     "credit": "砂の惑星 / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング27位 at 2020/10/8",
+    "note": "ボカロカラオケランキング27位",
     "updated_at": "2020/11/17"
   },
   {
@@ -360,7 +360,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "妄想感傷代償連盟 / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング28位 at 2020/10/8",
+    "note": "ボカロカラオケランキング28位",
     "updated_at": "2020/11/17"
   },
   {
@@ -373,7 +373,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ロストワンの号哭 / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング29位 at 2020/10/8",
+    "note": "ボカロカラオケランキング29位",
     "updated_at": "2020/11/17"
   },
   {
@@ -386,7 +386,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "脳漿炸裂ガール / れるりり feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング30位 at 2020/10/8",
+    "note": "ボカロカラオケランキング30位",
     "updated_at": "2020/11/17"
   },
   {
@@ -399,7 +399,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "フィクサー / ぬゆり feat.flower",
-    "note": "ボカロカラオケランキング31位 at 2020/10/8",
+    "note": "ボカロカラオケランキング31位",
     "updated_at": "2020/11/17"
   },
   {
@@ -412,7 +412,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "吉原ラメント / 亜沙 feat.重音テト",
-    "note": "ボカロカラオケランキング32位 at 2020/10/8",
+    "note": "ボカロカラオケランキング32位",
     "updated_at": "2020/11/17"
   },
   {
@@ -425,7 +425,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "少女レイ / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング33位 at 2020/10/8",
+    "note": "ボカロカラオケランキング33位",
     "updated_at": "2020/11/17"
   },
   {
@@ -438,7 +438,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パンダヒーロー / ハチ feat.GUMI",
-    "note": "ボカロカラオケランキング34位 at 2020/10/8",
+    "note": "ボカロカラオケランキング34位",
     "updated_at": "2020/11/17"
   },
   {
@@ -451,7 +451,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "恋愛裁判 / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング35位 at 2020/10/8",
+    "note": "ボカロカラオケランキング35位",
     "updated_at": "2020/11/17"
   },
   {
@@ -464,7 +464,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "いーあるふぁんくらぶ / みきとP feat.GUMI/鏡音リン",
-    "note": "ボカロカラオケランキング36位 at 2020/10/8",
+    "note": "ボカロカラオケランキング36位",
     "updated_at": "2020/11/17"
   },
   {
@@ -477,7 +477,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "magnet / minato（流星P）feat.初音ミク/巡音ルカ",
-    "note": "ボカロカラオケランキング37位 at 2020/10/8",
+    "note": "ボカロカラオケランキング37位",
     "updated_at": "2020/11/17"
   },
   {
@@ -490,7 +490,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "裏表ラバーズ / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング38位 at 2020/10/8",
+    "note": "ボカロカラオケランキング38位",
     "updated_at": "2020/11/17"
   },
   {
@@ -503,7 +503,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "オートファジー / 柊キライ feat.flower",
-    "note": "ボカロカラオケランキング39位 at 2020/10/8",
+    "note": "ボカロカラオケランキング39位",
     "updated_at": "2020/11/17"
   },
   {
@@ -516,7 +516,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "エイリアンエイリアン / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング40位 at 2020/10/8",
+    "note": "ボカロカラオケランキング40位",
     "updated_at": "2020/11/17"
   },
   {
@@ -529,7 +529,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "心做し / 蝶々P feat.GUMI",
-    "note": "ボカロカラオケランキング41位 at 2020/10/8",
+    "note": "ボカロカラオケランキング41位",
     "updated_at": "2020/11/17"
   },
   {
@@ -542,7 +542,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "だれかの心臓になれたなら / ユリイ・カノン feat.GUMI",
-    "note": "ボカロカラオケランキング42位 at 2020/10/8",
+    "note": "ボカロカラオケランキング42位",
     "updated_at": "2020/11/17"
   },
   {
@@ -555,7 +555,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "KING / Kanaria",
-    "note": "ボカロカラオケランキング43位 at 2020/10/8",
+    "note": "ボカロカラオケランキング43位",
     "updated_at": "2020/11/17"
   },
   {
@@ -568,7 +568,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "エンヴィキャットウォーク / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング44位 at 2020/10/8",
+    "note": "ボカロカラオケランキング44位",
     "updated_at": "2020/11/17"
   },
   {
@@ -581,7 +581,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メランコリック / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング45位 at 2020/10/8",
+    "note": "ボカロカラオケランキング45位",
     "updated_at": "2020/11/17"
   },
   {
@@ -594,7 +594,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "サマータイムレコード / じん feat.IA",
-    "note": "ボカロカラオケランキング46位 at 2020/10/8",
+    "note": "ボカロカラオケランキング46位",
     "updated_at": "2020/11/17"
   },
   {
@@ -607,7 +607,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "独りんぼエンヴィー / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング47位 at 2020/10/8",
+    "note": "ボカロカラオケランキング47位",
     "updated_at": "2020/11/17"
   },
   {
@@ -620,7 +620,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夜明けと蛍 / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング48位 at 2020/10/8",
+    "note": "ボカロカラオケランキング48位",
     "updated_at": "2020/11/17"
   },
   {
@@ -633,7 +633,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "劣等上等 / ギガP feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング49位 at 2020/10/8",
+    "note": "ボカロカラオケランキング49位",
     "updated_at": "2020/11/17"
   },
   {
@@ -646,7 +646,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://blog.piapro.net/2011/03/post-442.html",
     "credit": "ワールズエンド・ダンスホール / wowaka feat.初音ミク/巡音ルカ",
-    "note": "ボカロカラオケランキング50位 at 2020/10/8",
+    "note": "ボカロカラオケランキング50位",
     "updated_at": "2020/11/17"
   },
   {
@@ -659,7 +659,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "妄想税 / DECO*27",
-    "note": "ボカロカラオケランキング51位 at 2020/10/8",
+    "note": "ボカロカラオケランキング51位",
     "updated_at": "2020/11/17"
   },
   {
@@ -672,7 +672,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "テレキャスタービーボーイ / すりぃ feat.鏡音レン",
-    "note": "ボカロカラオケランキング52位 at 2020/10/8",
+    "note": "ボカロカラオケランキング52位",
     "updated_at": "2020/11/17"
   },
   {
@@ -685,7 +685,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Just Be Friends / Dixie Flatline feat.巡音ルカ",
-    "note": "ボカロカラオケランキング53位 at 2020/10/8",
+    "note": "ボカロカラオケランキング53位",
     "updated_at": "2020/11/17"
   },
   {
@@ -698,7 +698,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リンネ / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング54位 at 2020/10/8",
+    "note": "ボカロカラオケランキング54位",
     "updated_at": "2020/11/17"
   },
   {
@@ -711,7 +711,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "夜もすがら君想ふ / TOKOTOKO（西沢さんP） feat.GUMI",
-    "note": "ボカロカラオケランキング55位 at 2020/10/8",
+    "note": "ボカロカラオケランキング55位",
     "updated_at": "2020/11/17"
   },
   {
@@ -724,7 +724,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ビターチョコデコレーション / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング56位 at 2020/10/8",
+    "note": "ボカロカラオケランキング56位",
     "updated_at": "2020/11/17"
   },
   {
@@ -737,7 +737,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アンヘル / かいりきベア",
-    "note": "ボカロカラオケランキング57位 at 2020/10/8",
+    "note": "ボカロカラオケランキング57位",
     "updated_at": "2020/11/17"
   },
   {
@@ -750,7 +750,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "幽霊東京 / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング58位 at 2020/10/8",
+    "note": "ボカロカラオケランキング58位",
     "updated_at": "2020/11/17"
   },
   {
@@ -763,7 +763,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://blog.piapro.net/2011/03/post-442.html",
     "credit": "ローリンガール / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング59位 at 2020/10/8",
+    "note": "ボカロカラオケランキング59位",
     "updated_at": "2020/11/17"
   },
   {
@@ -776,7 +776,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "高音厨音域テスト / 木村わいP feat.初音ミク",
-    "note": "ボカロカラオケランキング60位 at 2020/10/8",
+    "note": "ボカロカラオケランキング60位",
     "updated_at": "2020/11/17"
   },
   {
@@ -789,7 +789,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "初音ミクの消失 / cosMo＠暴走P feat.初音ミク",
-    "note": "ボカロカラオケランキング61位 at 2020/10/8",
+    "note": "ボカロカラオケランキング61位",
     "updated_at": "2020/11/17"
   },
   {
@@ -802,7 +802,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "二息歩行 / DECO*27",
-    "note": "ボカロカラオケランキング62位 at 2020/10/8",
+    "note": "ボカロカラオケランキング62位",
     "updated_at": "2020/11/17"
   },
   {
@@ -815,7 +815,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Calc. / ジミーサムP feat.初音ミク",
-    "note": "ボカロカラオケランキング63位 at 2020/10/8",
+    "note": "ボカロカラオケランキング63位",
     "updated_at": "2020/11/17"
   },
   {
@@ -828,7 +828,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "脱法ロック / Neru feat.鏡音レン",
-    "note": "ボカロカラオケランキング64位 at 2020/10/8",
+    "note": "ボカロカラオケランキング64位",
     "updated_at": "2020/11/17"
   },
   {
@@ -841,7 +841,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "千本桜 / WhiteFlame（黒うさP） feat.初音ミク",
-    "note": "ボカロカラオケランキング65位 at 2020/10/8",
+    "note": "ボカロカラオケランキング65位",
     "updated_at": "2020/11/17"
   },
   {
@@ -854,7 +854,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "臨界ダイバー / こじろー feat.flower",
-    "note": "ボカロカラオケランキング66位 at 2020/10/8",
+    "note": "ボカロカラオケランキング66位",
     "updated_at": "2020/11/17"
   },
   {
@@ -867,7 +867,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "地球最後の告白を / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング67位 at 2020/10/8",
+    "note": "ボカロカラオケランキング67位",
     "updated_at": "2020/11/17"
   },
   {
@@ -880,7 +880,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "弱虫モンブラン / DECO*27",
-    "note": "ボカロカラオケランキング68位 at 2020/10/8",
+    "note": "ボカロカラオケランキング68位",
     "updated_at": "2020/11/17"
   },
   {
@@ -893,7 +893,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "炉心融解 / iroha（sasaki） feat.鏡音リン",
-    "note": "ボカロカラオケランキング69位 at 2020/10/8",
+    "note": "ボカロカラオケランキング69位",
     "updated_at": "2020/11/17"
   },
   {
@@ -906,7 +906,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "孤独の宗教 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング70位 at 2020/10/8",
+    "note": "ボカロカラオケランキング70位",
     "updated_at": "2020/11/17"
   },
   {
@@ -919,7 +919,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "白い雪のプリンセスは / のぼる↑feat.初音ミク",
-    "note": "ボカロカラオケランキング71位 at 2020/10/8",
+    "note": "ボカロカラオケランキング71位",
     "updated_at": "2020/11/17"
   },
   {
@@ -932,7 +932,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "え？あぁ、そう。 / 蝶々P feat.初音ミク",
-    "note": "ボカロカラオケランキング72位 at 2020/10/8",
+    "note": "ボカロカラオケランキング72位",
     "updated_at": "2020/11/17"
   },
   {
@@ -945,7 +945,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "モザイクロール / DECO*27",
-    "note": "ボカロカラオケランキング73位 at 2020/10/8",
+    "note": "ボカロカラオケランキング73位",
     "updated_at": "2020/11/17"
   },
   {
@@ -958,7 +958,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Fire◎Flower / absorb feat.鏡音レン",
-    "note": "ボカロカラオケランキング74位 at 2020/10/8",
+    "note": "ボカロカラオケランキング74位",
     "updated_at": "2020/11/17"
   },
   {
@@ -971,7 +971,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪魔の踊り方 / こんにちは谷田さん",
-    "note": "ボカロカラオケランキング75位 at 2020/10/8",
+    "note": "ボカロカラオケランキング75位",
     "updated_at": "2020/11/17"
   },
   {
@@ -984,7 +984,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "ブラック★ロックシューター / supercell",
-    "note": "ボカロカラオケランキング76位 at 2020/10/8",
+    "note": "ボカロカラオケランキング76位",
     "updated_at": "2020/11/17"
   },
   {
@@ -997,7 +997,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "ワールドイズマイン / supercell",
-    "note": "ボカロカラオケランキング77位 at 2020/10/8",
+    "note": "ボカロカラオケランキング77位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1010,7 +1010,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ナンセンス文学 / Eve",
-    "note": "ボカロカラオケランキング78位 at 2020/10/8",
+    "note": "ボカロカラオケランキング78位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1023,7 +1023,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "右肩の蝶 / のりP feat.鏡音レン",
-    "note": "ボカロカラオケランキング79位 at 2020/10/8",
+    "note": "ボカロカラオケランキング79位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1036,7 +1036,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夜咄ディセイブ / じん feat.IA",
-    "note": "ボカロカラオケランキング80位 at 2020/10/8",
+    "note": "ボカロカラオケランキング80位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1049,7 +1049,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "バレリーコ / みきとP feat.GUMI",
-    "note": "ボカロカラオケランキング81位 at 2020/10/8",
+    "note": "ボカロカラオケランキング81位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1062,7 +1062,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "デリヘル呼んだら君が来た / ナナホシ管弦楽団 feat.初音ミク、IA",
-    "note": "ボカロカラオケランキング82位 at 2020/10/8",
+    "note": "ボカロカラオケランキング82位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1075,7 +1075,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "帝国少女 / R Sound Design feat.初音ミク",
-    "note": "ボカロカラオケランキング83位 at 2020/10/8",
+    "note": "ボカロカラオケランキング83位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1088,7 +1088,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "スーサイドパレヱド / ユリイ・カノン feat.GUMI",
-    "note": "ボカロカラオケランキング84位 at 2020/10/8",
+    "note": "ボカロカラオケランキング84位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1101,7 +1101,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "邪魔 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング85位 at 2020/10/8",
+    "note": "ボカロカラオケランキング85位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1114,7 +1114,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダンスロボットダンス / ナユタン星人",
-    "note": "ボカロカラオケランキング86位 at 2020/10/8",
+    "note": "ボカロカラオケランキング86位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1127,7 +1127,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "聖槍爆裂ボーイ / れるりり/もじゃ feat.鏡音レン",
-    "note": "ボカロカラオケランキング87位 at 2020/10/8",
+    "note": "ボカロカラオケランキング87位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1140,7 +1140,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "アンノウン・マザーグース / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング88位 at 2020/10/8",
+    "note": "ボカロカラオケランキング88位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1153,7 +1153,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "おじゃま虫 / DECO*27",
-    "note": "ボカロカラオケランキング89位 at 2020/10/8",
+    "note": "ボカロカラオケランキング89位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1166,7 +1166,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "カゲロウデイズ / じん feat.初音ミク",
-    "note": "ボカロカラオケランキング90位 at 2020/10/8",
+    "note": "ボカロカラオケランキング90位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1179,7 +1179,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "1925 / 冨田 悠斗（とみー/T−POCKET） feat.初音ミク",
-    "note": "ボカロカラオケランキング91位 at 2020/10/8",
+    "note": "ボカロカラオケランキング91位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1192,7 +1192,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "花瓶に触れた / バルーン feat.flower",
-    "note": "ボカロカラオケランキング92位 at 2020/10/8",
+    "note": "ボカロカラオケランキング92位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1205,7 +1205,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "DAYBREAK FRONTLINE / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング93位 at 2020/10/8",
+    "note": "ボカロカラオケランキング93位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1218,7 +1218,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "テオ / Omoi feat.初音ミク",
-    "note": "ボカロカラオケランキング94位 at 2020/10/8",
+    "note": "ボカロカラオケランキング94位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1231,7 +1231,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メーベル / バルーン",
-    "note": "ボカロカラオケランキング95位 at 2020/10/8",
+    "note": "ボカロカラオケランキング95位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1244,7 +1244,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "雨とペトラ / バルーン",
-    "note": "ボカロカラオケランキング96位 at 2020/10/8",
+    "note": "ボカロカラオケランキング96位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1257,7 +1257,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "flos / R Sound Design feat.初音ミク",
-    "note": "ボカロカラオケランキング97位 at 2020/10/8",
+    "note": "ボカロカラオケランキング97位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1270,7 +1270,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "おちゃめ機能 / ゴジマジP feat.重音テト",
-    "note": "ボカロカラオケランキング98位 at 2020/10/8",
+    "note": "ボカロカラオケランキング98位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1283,7 +1283,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アウトサイダー / Eve feat.初音ミク",
-    "note": "ボカロカラオケランキング99位 at 2020/10/8",
+    "note": "ボカロカラオケランキング99位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1296,7 +1296,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "セツナトリップ / Last Note.feat.GUMI",
-    "note": "ボカロカラオケランキング100位 at 2020/10/8",
+    "note": "ボカロカラオケランキング100位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1309,7 +1309,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Mrs.Pumpkinの滑稽な夢 / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング101位 at 2020/10/8",
+    "note": "ボカロカラオケランキング101位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1322,7 +1322,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "サリシノハラ / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング102位 at 2020/10/8",
+    "note": "ボカロカラオケランキング102位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1335,7 +1335,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ウミユリ海底譚 / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング103位 at 2020/10/8",
+    "note": "ボカロカラオケランキング103位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1348,7 +1348,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "アンハッピーリフレイン / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング104位 at 2020/10/8",
+    "note": "ボカロカラオケランキング104位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1361,7 +1361,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "絶え間なく藍色 / 獅子志司 feat.初音ミク",
-    "note": "ボカロカラオケランキング105位 at 2020/10/8",
+    "note": "ボカロカラオケランキング105位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1374,7 +1374,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "脳漿炸裂ガール / れるりり",
-    "note": "ボカロカラオケランキング106位 at 2020/10/8",
+    "note": "ボカロカラオケランキング106位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1387,7 +1387,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アイロニ / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング107位 at 2020/10/8",
+    "note": "ボカロカラオケランキング107位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1400,7 +1400,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "君の神様になりたい / カンザキイオリ",
-    "note": "ボカロカラオケランキング108位 at 2020/10/8",
+    "note": "ボカロカラオケランキング108位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1413,7 +1413,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "チュルリラ チュルリラ ダッダッダ! / くらげP feat.結月ゆかり",
-    "note": "ボカロカラオケランキング109位 at 2020/10/8",
+    "note": "ボカロカラオケランキング109位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1426,7 +1426,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "贖罪 / 傘村トータ feat.IA/結月ゆかり/初音ミク/Fukase/Ken",
-    "note": "ボカロカラオケランキング110位 at 2020/10/8",
+    "note": "ボカロカラオケランキング110位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1439,7 +1439,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "深海少女 / ゆうゆ feat.初音ミク",
-    "note": "ボカロカラオケランキング111位 at 2020/10/8",
+    "note": "ボカロカラオケランキング111位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1452,7 +1452,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アイ情劣等生 / かいりきベア",
-    "note": "ボカロカラオケランキング112位 at 2020/10/8",
+    "note": "ボカロカラオケランキング112位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1465,7 +1465,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "愛迷エレジー / DECO*27",
-    "note": "ボカロカラオケランキング113位 at 2020/10/8",
+    "note": "ボカロカラオケランキング113位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1478,7 +1478,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ゴーゴー幽霊船 / 米津 玄師",
-    "note": "ボカロカラオケランキング114位 at 2020/10/8",
+    "note": "ボカロカラオケランキング114位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1491,7 +1491,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハッピーシンセサイザ / EasyPop feat.巡音ルカ/GUMI",
-    "note": "ボカロカラオケランキング115位 at 2020/10/8",
+    "note": "ボカロカラオケランキング115位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1504,7 +1504,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "エゴロック / すりぃ feat.鏡音レン",
-    "note": "ボカロカラオケランキング116位 at 2020/10/8",
+    "note": "ボカロカラオケランキング116位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1517,7 +1517,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "快晴 / Orangestar feat.初音ミク",
-    "note": "ボカロカラオケランキング117位 at 2020/10/8",
+    "note": "ボカロカラオケランキング117位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1530,7 +1530,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "アトラクトライト / *Luna feat.鏡音レン",
-    "note": "ボカロカラオケランキング118位 at 2020/10/8",
+    "note": "ボカロカラオケランキング118位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1543,7 +1543,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "神のまにまに / れるりり feat.初音ミク/鏡音リン/GUMI",
-    "note": "ボカロカラオケランキング119位 at 2020/10/8",
+    "note": "ボカロカラオケランキング119位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1556,7 +1556,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "いかないで / 想太 feat.歌愛ユキ",
-    "note": "ボカロカラオケランキング120位 at 2020/10/8",
+    "note": "ボカロカラオケランキング120位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1569,7 +1569,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "バビロン / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング121位 at 2020/10/8",
+    "note": "ボカロカラオケランキング121位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1582,7 +1582,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪ノ召使 / mothy＿悪ノP",
-    "note": "ボカロカラオケランキング122位 at 2020/10/8",
+    "note": "ボカロカラオケランキング122位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1595,7 +1595,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "インビジブル / kemu feat.GUMI/鏡音リン",
-    "note": "ボカロカラオケランキング123位 at 2020/10/8",
+    "note": "ボカロカラオケランキング123位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1608,7 +1608,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "あなたの夜が明けるまで / 傘村トータ feat.IA/Fukase",
-    "note": "ボカロカラオケランキング124位 at 2020/10/8",
+    "note": "ボカロカラオケランキング124位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1621,7 +1621,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/MikanseiP/status/826591461713997824?s=20",
     "credit": "Henceforth / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング125位 at 2020/10/8",
+    "note": "ボカロカラオケランキング125位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1634,7 +1634,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "拝啓ドッペルゲンガー / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング126位 at 2020/10/8",
+    "note": "ボカロカラオケランキング126位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1647,7 +1647,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジグソーパズル / まふまふ",
-    "note": "ボカロカラオケランキング127位 at 2020/10/8",
+    "note": "ボカロカラオケランキング127位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1660,7 +1660,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "よくばり / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング128位 at 2020/10/8",
+    "note": "ボカロカラオケランキング128位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1673,7 +1673,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ECHO / CIRCRUSH feat.GUMI",
-    "note": "ボカロカラオケランキング129位 at 2020/10/8",
+    "note": "ボカロカラオケランキング129位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1686,7 +1686,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "嗚呼、素晴らしきニャン生 / Nem feat.GUMI/鏡音レン",
-    "note": "ボカロカラオケランキング130位 at 2020/10/8",
+    "note": "ボカロカラオケランキング130位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1699,7 +1699,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "フラジール / ぬゆり feat.GUMI",
-    "note": "ボカロカラオケランキング131位 at 2020/10/8",
+    "note": "ボカロカラオケランキング131位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1712,7 +1712,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "シリョクケンサ / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング132位 at 2020/10/8",
+    "note": "ボカロカラオケランキング132位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1725,7 +1725,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "虎視眈々 / 梅とら feat.巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
-    "note": "ボカロカラオケランキング133位 at 2020/10/8",
+    "note": "ボカロカラオケランキング133位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1738,7 +1738,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "阿吽のビーツ / 羽生 まゐご feat.flower",
-    "note": "ボカロカラオケランキング134位 at 2020/10/8",
+    "note": "ボカロカラオケランキング134位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1751,7 +1751,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "お気に召すまま / Eve",
-    "note": "ボカロカラオケランキング135位 at 2020/10/8",
+    "note": "ボカロカラオケランキング135位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1764,7 +1764,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハッピーシンセサイザ / EasyPop feat.巡音ルカ＆GUMI",
-    "note": "ボカロカラオケランキング136位 at 2020/10/8",
+    "note": "ボカロカラオケランキング136位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1777,7 +1777,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "いろは唄 / 銀サク feat.鏡音リン",
-    "note": "ボカロカラオケランキング137位 at 2020/10/8",
+    "note": "ボカロカラオケランキング137位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1790,7 +1790,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "天才ロック / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング138位 at 2020/10/8",
+    "note": "ボカロカラオケランキング138位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1803,7 +1803,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "Gimme×Gimme / 八王子P×Giga feat.初音ミク/鏡音リン",
-    "note": "ボカロカラオケランキング139位 at 2020/10/8",
+    "note": "ボカロカラオケランキング139位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1816,7 +1816,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ギガンティックO.T.N / ギガP feat.鏡音レン",
-    "note": "ボカロカラオケランキング140位 at 2020/10/8",
+    "note": "ボカロカラオケランキング140位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1829,7 +1829,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "Alice in N.Y. / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング141位 at 2020/10/8",
+    "note": "ボカロカラオケランキング141位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1842,7 +1842,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "愛言葉3 / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング142位 at 2020/10/8",
+    "note": "ボカロカラオケランキング142位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1855,7 +1855,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "あの夏が飽和する / カンザキイオリ",
-    "note": "ボカロカラオケランキング143位 at 2020/10/8",
+    "note": "ボカロカラオケランキング143位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1868,7 +1868,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "金曜日のおはよう / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング144位 at 2020/10/8",
+    "note": "ボカロカラオケランキング144位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1881,7 +1881,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "Bad End Night / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング145位 at 2020/10/8",
+    "note": "ボカロカラオケランキング145位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1894,7 +1894,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "とても素敵な六月でした / Eight feat. 初音ミク",
-    "note": "ボカロカラオケランキング146位 at 2020/10/8",
+    "note": "ボカロカラオケランキング146位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1907,7 +1907,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "馬鹿 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング147位 at 2020/10/8",
+    "note": "ボカロカラオケランキング147位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1920,7 +1920,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "結ンデ開イテ羅刹ト骸 / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング148位 at 2020/10/8",
+    "note": "ボカロカラオケランキング148位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1933,7 +1933,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "気まぐれメルシィ / 八王子P feat.初音ミク",
-    "note": "ボカロカラオケランキング149位 at 2020/10/8",
+    "note": "ボカロカラオケランキング149位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1946,7 +1946,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "十面相 / YM feat.GUMI",
-    "note": "ボカロカラオケランキング150位 at 2020/10/8",
+    "note": "ボカロカラオケランキング150位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1959,7 +1959,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "チルドレンレコード / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング151位 at 2020/10/8",
+    "note": "ボカロカラオケランキング151位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1972,7 +1972,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "シニカルナイトプラン / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング152位 at 2020/10/8",
+    "note": "ボカロカラオケランキング152位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1985,7 +1985,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "初めての恋が終わる時 / supercell",
-    "note": "ボカロカラオケランキング153位 at 2020/10/8",
+    "note": "ボカロカラオケランキング153位",
     "updated_at": "2020/11/17"
   },
   {
@@ -1998,7 +1998,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "妄想疾患■ガール / 大柴 広己（もじゃ） feat.GUMI",
-    "note": "ボカロカラオケランキング154位 at 2020/10/8",
+    "note": "ボカロカラオケランキング154位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2011,7 +2011,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "Booo! / TOKOTOKO（西沢さんP） feat.音街ウナ",
-    "note": "ボカロカラオケランキング155位 at 2020/10/8",
+    "note": "ボカロカラオケランキング155位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2024,7 +2024,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "命ばっかり / ぬゆり feat.flower/結月ゆかり",
-    "note": "ボカロカラオケランキング156位 at 2020/10/8",
+    "note": "ボカロカラオケランキング156位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2037,7 +2037,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ラストリゾート / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング157位 at 2020/10/8",
+    "note": "ボカロカラオケランキング157位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2050,7 +2050,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ネトゲ廃人シュプレヒコール / さつき が てんこもり feat.初音ミク",
-    "note": "ボカロカラオケランキング158位 at 2020/10/8",
+    "note": "ボカロカラオケランキング158位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2063,7 +2063,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "失楽ペトリ / ナナホシ管弦楽団 feat.初音ミク",
-    "note": "ボカロカラオケランキング159位 at 2020/10/8",
+    "note": "ボカロカラオケランキング159位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2076,7 +2076,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "プロトディスコ / ぬゆり feat.flower",
-    "note": "ボカロカラオケランキング160位 at 2020/10/8",
+    "note": "ボカロカラオケランキング160位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2089,7 +2089,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "疑心暗鬼 / 梅とら",
-    "note": "ボカロカラオケランキング161位 at 2020/10/8",
+    "note": "ボカロカラオケランキング161位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2102,7 +2102,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "右肩の蝶 / のりP feat.鏡音リン",
-    "note": "ボカロカラオケランキング162位 at 2020/10/8",
+    "note": "ボカロカラオケランキング162位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2115,7 +2115,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ストリーミングハート / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング163位 at 2020/10/8",
+    "note": "ボカロカラオケランキング163位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2128,7 +2128,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サンドリヨン（Cendrillon） / Dios/シグナルP feat.初音ミク/KAITO",
-    "note": "ボカロカラオケランキング164位 at 2020/10/8",
+    "note": "ボカロカラオケランキング164位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2141,7 +2141,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ルカルカ★ナイトフィーバー（DR PV ver.） / DANCEROID",
-    "note": "ボカロカラオケランキング165位 at 2020/10/8",
+    "note": "ボカロカラオケランキング165位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2154,7 +2154,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハロ/ハワユ / ナノウ feat.初音ミク",
-    "note": "ボカロカラオケランキング166位 at 2020/10/8",
+    "note": "ボカロカラオケランキング166位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2167,7 +2167,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "ODDS＆ENDS / ryo（supercell） feat.初音ミク",
-    "note": "ボカロカラオケランキング167位 at 2020/10/8",
+    "note": "ボカロカラオケランキング167位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2180,7 +2180,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "天樂 / ゆうゆ feat.鏡音リン",
-    "note": "ボカロカラオケランキング168位 at 2020/10/8",
+    "note": "ボカロカラオケランキング168位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2193,7 +2193,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "深海少女（オリカラ） / ゆうゆ feat.初音ミク",
-    "note": "ボカロカラオケランキング169位 at 2020/10/8",
+    "note": "ボカロカラオケランキング169位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2206,7 +2206,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "彗星ハネムーン / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング170位 at 2020/10/8",
+    "note": "ボカロカラオケランキング170位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2219,7 +2219,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ジェヘナ / wotaku",
-    "note": "ボカロカラオケランキング171位 at 2020/10/8",
+    "note": "ボカロカラオケランキング171位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2232,7 +2232,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Q / 椎名 もた（ぽわぽわP） feat.鏡音リン",
-    "note": "ボカロカラオケランキング172位 at 2020/10/8",
+    "note": "ボカロカラオケランキング172位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2245,7 +2245,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "Blessing / halyosy feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO",
-    "note": "ボカロカラオケランキング173位 at 2020/10/8",
+    "note": "ボカロカラオケランキング173位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2258,7 +2258,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アルカリレットウセイ / かいりきベア",
-    "note": "ボカロカラオケランキング174位 at 2020/10/8",
+    "note": "ボカロカラオケランキング174位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2271,7 +2271,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ライアーダンス / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング175位 at 2020/10/8",
+    "note": "ボカロカラオケランキング175位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2284,7 +2284,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "再教育 / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング176位 at 2020/10/8",
+    "note": "ボカロカラオケランキング176位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2297,7 +2297,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "くるみ☆ぽんちお / まだ仔 feat.初音ミク",
-    "note": "ボカロカラオケランキング177位 at 2020/10/8",
+    "note": "ボカロカラオケランキング177位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2310,7 +2310,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "頓珍漢の宴 / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング178位 at 2020/10/8",
+    "note": "ボカロカラオケランキング178位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2323,7 +2323,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "天樂（オリカラ） / ゆうゆ feat.鏡音リン",
-    "note": "ボカロカラオケランキング179位 at 2020/10/8",
+    "note": "ボカロカラオケランキング179位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2336,7 +2336,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "林檎売りの泡沫少女 / yukkedoluce feat.GUMI",
-    "note": "ボカロカラオケランキング180位 at 2020/10/8",
+    "note": "ボカロカラオケランキング180位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2349,7 +2349,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "恋は戦争 / supercell",
-    "note": "ボカロカラオケランキング181位 at 2020/10/8",
+    "note": "ボカロカラオケランキング181位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2362,7 +2362,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "敗北の少年 / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング182位 at 2020/10/8",
+    "note": "ボカロカラオケランキング182位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2375,7 +2375,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "あわよくばきみの眷属になりたいな / Peg feat.鏡音リン",
-    "note": "ボカロカラオケランキング183位 at 2020/10/8",
+    "note": "ボカロカラオケランキング183位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2388,7 +2388,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "キリトリセン / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング184位 at 2020/10/8",
+    "note": "ボカロカラオケランキング184位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2401,7 +2401,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ロスタイムメモリー / じん feat.IA",
-    "note": "ボカロカラオケランキング185位 at 2020/10/8",
+    "note": "ボカロカラオケランキング185位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2414,7 +2414,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ペテン師が笑う頃に / 梨本 うい feat.初音ミク",
-    "note": "ボカロカラオケランキング186位 at 2020/10/8",
+    "note": "ボカロカラオケランキング186位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2427,7 +2427,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "骸骨楽団とリリア / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング187位 at 2020/10/8",
+    "note": "ボカロカラオケランキング187位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2440,7 +2440,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "イカサマライフゲイム / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング188位 at 2020/10/8",
+    "note": "ボカロカラオケランキング188位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2453,7 +2453,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "glow / keeno feat.初音ミク",
-    "note": "ボカロカラオケランキング189位 at 2020/10/8",
+    "note": "ボカロカラオケランキング189位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2466,7 +2466,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "恋愛勇者 / Last Note.feat.GUMI",
-    "note": "ボカロカラオケランキング190位 at 2020/10/8",
+    "note": "ボカロカラオケランキング190位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2479,7 +2479,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "それがあなたの幸せとしても / Heavenz feat.巡音ルカ",
-    "note": "ボカロカラオケランキング191位 at 2020/10/8",
+    "note": "ボカロカラオケランキング191位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2492,7 +2492,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "About me / 蝶々P feat.GUMI",
-    "note": "ボカロカラオケランキング192位 at 2020/10/8",
+    "note": "ボカロカラオケランキング192位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2505,7 +2505,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "from Y to Y / ジミーサムP feat.初音ミク",
-    "note": "ボカロカラオケランキング193位 at 2020/10/8",
+    "note": "ボカロカラオケランキング193位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2518,7 +2518,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "リバーシブル・キャンペーン / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング194位 at 2020/10/8",
+    "note": "ボカロカラオケランキング194位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2531,7 +2531,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ツギハギスタッカート / とあ feat.初音ミク",
-    "note": "ボカロカラオケランキング195位 at 2020/10/8",
+    "note": "ボカロカラオケランキング195位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2544,7 +2544,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "キルマー / 煮ル果実",
-    "note": "ボカロカラオケランキング196位 at 2020/10/8",
+    "note": "ボカロカラオケランキング196位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2557,7 +2557,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダブルラリアット / アゴアニキ",
-    "note": "ボカロカラオケランキング197位 at 2020/10/8",
+    "note": "ボカロカラオケランキング197位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2570,7 +2570,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "鎖の少女 / のぼる↑feat.初音ミク",
-    "note": "ボカロカラオケランキング198位 at 2020/10/8",
+    "note": "ボカロカラオケランキング198位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2583,7 +2583,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "威風堂々 / 梅とら feat.巡音ルカ＆初音ミク＆GUMI＆IA＆鏡音リン",
-    "note": "ボカロカラオケランキング199位 at 2020/10/8",
+    "note": "ボカロカラオケランキング199位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2596,7 +2596,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メリュー / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング200位 at 2020/10/8",
+    "note": "ボカロカラオケランキング200位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2609,7 +2609,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "如月アテンション / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング201位 at 2020/10/8",
+    "note": "ボカロカラオケランキング201位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2622,7 +2622,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "SNOBBISM （feat. z'5） / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング202位 at 2020/10/8",
+    "note": "ボカロカラオケランキング202位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2635,7 +2635,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "トリノコシティ / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング203位 at 2020/10/8",
+    "note": "ボカロカラオケランキング203位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2648,7 +2648,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "九龍レトロ / トーマ feat.GUMI",
-    "note": "ボカロカラオケランキング204位 at 2020/10/8",
+    "note": "ボカロカラオケランキング204位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2661,7 +2661,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ニア / 夏代 孝明",
-    "note": "ボカロカラオケランキング205位 at 2020/10/8",
+    "note": "ボカロカラオケランキング205位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2674,7 +2674,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "WAVE / niki feat.Lily",
-    "note": "ボカロカラオケランキング206位 at 2020/10/8",
+    "note": "ボカロカラオケランキング206位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2687,7 +2687,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アウターサイエンス / じん feat.IA",
-    "note": "ボカロカラオケランキング207位 at 2020/10/8",
+    "note": "ボカロカラオケランキング207位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2700,7 +2700,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "脳内革命ガール / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング208位 at 2020/10/8",
+    "note": "ボカロカラオケランキング208位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2713,7 +2713,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "すろぉもぉしょん / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング209位 at 2020/10/8",
+    "note": "ボカロカラオケランキング209位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2726,7 +2726,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハウトゥー世界征服 / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング210位 at 2020/10/8",
+    "note": "ボカロカラオケランキング210位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2739,7 +2739,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "レディーレ / バルーン feat.flower",
-    "note": "ボカロカラオケランキング211位 at 2020/10/8",
+    "note": "ボカロカラオケランキング211位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2752,7 +2752,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アディショナルメモリー / じん feat.初音ミク",
-    "note": "ボカロカラオケランキング212位 at 2020/10/8",
+    "note": "ボカロカラオケランキング212位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2765,7 +2765,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ビースト・ダンス / くらげP feat.音街ウナ",
-    "note": "ボカロカラオケランキング213位 at 2020/10/8",
+    "note": "ボカロカラオケランキング213位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2778,7 +2778,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "ライムライト / 蜂屋 ななし",
-    "note": "ボカロカラオケランキング214位 at 2020/10/8",
+    "note": "ボカロカラオケランキング214位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2791,7 +2791,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "vivi / 米津 玄師",
-    "note": "ボカロカラオケランキング215位 at 2020/10/8",
+    "note": "ボカロカラオケランキング215位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2804,7 +2804,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "オノマトペテン師 / てにをはP feat.初音ミク",
-    "note": "ボカロカラオケランキング216位 at 2020/10/8",
+    "note": "ボカロカラオケランキング216位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2817,7 +2817,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "からくりピエロ（「少年と魔法のロボット」背景） / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング217位 at 2020/10/8",
+    "note": "ボカロカラオケランキング217位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2830,7 +2830,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "トラフィック・ジャム / 煮ル果実",
-    "note": "ボカロカラオケランキング218位 at 2020/10/8",
+    "note": "ボカロカラオケランキング218位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2843,7 +2843,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "IMAGINARY LIKE THE JUSTICE / ナナホシ管弦楽団 feat.GUMI",
-    "note": "ボカロカラオケランキング219位 at 2020/10/8",
+    "note": "ボカロカラオケランキング219位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2856,7 +2856,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アンチクロロベンゼン / オワタP feat.鏡音リン",
-    "note": "ボカロカラオケランキング220位 at 2020/10/8",
+    "note": "ボカロカラオケランキング220位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2869,7 +2869,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ガランド / ピコン feat.初音ミク",
-    "note": "ボカロカラオケランキング221位 at 2020/10/8",
+    "note": "ボカロカラオケランキング221位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2882,7 +2882,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "小夜子 / ミキト（みきとP） feat.初音ミク",
-    "note": "ボカロカラオケランキング222位 at 2020/10/8",
+    "note": "ボカロカラオケランキング222位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2895,7 +2895,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "アンドロイドガール / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング223位 at 2020/10/8",
+    "note": "ボカロカラオケランキング223位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2908,7 +2908,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "透明エレジー / n−buna feat.GUMI",
-    "note": "ボカロカラオケランキング224位 at 2020/10/8",
+    "note": "ボカロカラオケランキング224位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2921,7 +2921,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヤンキーボーイ・ヤンキーガール / トーマ feat.GUMI",
-    "note": "ボカロカラオケランキング225位 at 2020/10/8",
+    "note": "ボカロカラオケランキング225位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2934,7 +2934,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スキスキ絶頂症 / koyori（電ポルP）feat.GUMI",
-    "note": "ボカロカラオケランキング226位 at 2020/10/8",
+    "note": "ボカロカラオケランキング226位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2947,7 +2947,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "ピエロ / KEI feat.初音ミク",
-    "note": "ボカロカラオケランキング227位 at 2020/10/8",
+    "note": "ボカロカラオケランキング227位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2960,7 +2960,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "バイオレンストリガー / 八王子P",
-    "note": "ボカロカラオケランキング228位 at 2020/10/8",
+    "note": "ボカロカラオケランキング228位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2973,7 +2973,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "スクランブル交際 / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング229位 at 2020/10/8",
+    "note": "ボカロカラオケランキング229位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2986,7 +2986,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪ノ娘 / mothy＿悪ノP",
-    "note": "ボカロカラオケランキング230位 at 2020/10/8",
+    "note": "ボカロカラオケランキング230位",
     "updated_at": "2020/11/17"
   },
   {
@@ -2999,7 +2999,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Tell Your World / livetune feat.初音ミク",
-    "note": "ボカロカラオケランキング231位 at 2020/10/8",
+    "note": "ボカロカラオケランキング231位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3012,7 +3012,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "うそつき / つなまる feat.初音ミク",
-    "note": "ボカロカラオケランキング232位 at 2020/10/8",
+    "note": "ボカロカラオケランキング232位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3025,7 +3025,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Dear / 19's Sound Factory feat.初音ミク",
-    "note": "ボカロカラオケランキング233位 at 2020/10/8",
+    "note": "ボカロカラオケランキング233位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3038,7 +3038,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Just a game / takamatt feat.GUMI",
-    "note": "ボカロカラオケランキング234位 at 2020/10/8",
+    "note": "ボカロカラオケランキング234位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3051,7 +3051,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハングリーニコル / 煮ル果実",
-    "note": "ボカロカラオケランキング235位 at 2020/10/8",
+    "note": "ボカロカラオケランキング235位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3064,7 +3064,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "しんでしまうとはなさけない! / じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング236位 at 2020/10/8",
+    "note": "ボカロカラオケランキング236位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3077,7 +3077,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ホシアイ / レフティーモンスターP feat.GUMI",
-    "note": "ボカロカラオケランキング237位 at 2020/10/8",
+    "note": "ボカロカラオケランキング237位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3090,7 +3090,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドクハク / MARETU",
-    "note": "ボカロカラオケランキング238位 at 2020/10/8",
+    "note": "ボカロカラオケランキング238位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3103,7 +3103,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "一触即発☆禅ガール / れるりり feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング239位 at 2020/10/8",
+    "note": "ボカロカラオケランキング239位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3116,7 +3116,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "動画内に記載",
     "credit": "撥条少女時計 / Drop/葉月 ゆら",
-    "note": "ボカロカラオケランキング240位 at 2020/10/8",
+    "note": "ボカロカラオケランキング240位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3129,7 +3129,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "グラーヴェ / niki",
-    "note": "ボカロカラオケランキング241位 at 2020/10/8",
+    "note": "ボカロカラオケランキング241位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3142,7 +3142,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "オレンジ / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング242位 at 2020/10/8",
+    "note": "ボカロカラオケランキング242位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3155,7 +3155,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "命のユースティティア / Neru feat.鏡音レン",
-    "note": "ボカロカラオケランキング243位 at 2020/10/8",
+    "note": "ボカロカラオケランキング243位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3168,7 +3168,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夏に去りし君を想フ / baker feat.初音ミク",
-    "note": "ボカロカラオケランキング244位 at 2020/10/8",
+    "note": "ボカロカラオケランキング244位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3181,7 +3181,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "繰り返し一粒 / 猫虫 feat.初音ミク",
-    "note": "ボカロカラオケランキング245位 at 2020/10/8",
+    "note": "ボカロカラオケランキング245位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3194,7 +3194,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リンちゃんなう! / オワタP feat.初音ミク/巡音ルカ",
-    "note": "ボカロカラオケランキング246位 at 2020/10/8",
+    "note": "ボカロカラオケランキング246位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3207,7 +3207,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ロミオとシンデレラ（Opening Version） / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング247位 at 2020/10/8",
+    "note": "ボカロカラオケランキング247位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3220,7 +3220,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ネコミミアーカイブ / 糞田舎P feat.初音ミク",
-    "note": "ボカロカラオケランキング248位 at 2020/10/8",
+    "note": "ボカロカラオケランキング248位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3233,7 +3233,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "紅一葉 / WhiteFlame feat.巡音ルカ",
-    "note": "ボカロカラオケランキング249位 at 2020/10/8",
+    "note": "ボカロカラオケランキング249位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3246,7 +3246,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "No Logic / ジミーサムP feat.巡音 ルカ",
-    "note": "ボカロカラオケランキング250位 at 2020/10/8",
+    "note": "ボカロカラオケランキング250位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3259,7 +3259,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "廃墟の国のアリス / まふまふ feat.初音ミク",
-    "note": "ボカロカラオケランキング251位 at 2020/10/8",
+    "note": "ボカロカラオケランキング251位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3272,7 +3272,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "指切り / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング252位 at 2020/10/8",
+    "note": "ボカロカラオケランキング252位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3285,7 +3285,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "心拍数＃0822 / 蝶々P feat.初音ミク",
-    "note": "ボカロカラオケランキング253位 at 2020/10/8",
+    "note": "ボカロカラオケランキング253位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3298,7 +3298,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "明星ギャラクティカ / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング254位 at 2020/10/8",
+    "note": "ボカロカラオケランキング254位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3311,7 +3311,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "クワガタにチョップしたらタイムスリップした / 家の裏でマンボウが死んでるP feat.GUMI",
-    "note": "ボカロカラオケランキング255位 at 2020/10/8",
+    "note": "ボカロカラオケランキング255位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3324,7 +3324,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ぼかろころしあむ / DIVELA feat.鏡音リン",
-    "note": "ボカロカラオケランキング256位 at 2020/10/8",
+    "note": "ボカロカラオケランキング256位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3337,7 +3337,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ケッペキショウ / すこっぷ feat.GUMI",
-    "note": "ボカロカラオケランキング257位 at 2020/10/8",
+    "note": "ボカロカラオケランキング257位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3350,7 +3350,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Alice in 冷凍庫 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング258位 at 2020/10/8",
+    "note": "ボカロカラオケランキング258位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3363,7 +3363,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "デッドラインサーカス / Last Note.feat.GUMI×鏡音レン×神威がくぽ",
-    "note": "ボカロカラオケランキング259位 at 2020/10/8",
+    "note": "ボカロカラオケランキング259位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3376,7 +3376,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "カンタレラ / WhiteFlame",
-    "note": "ボカロカラオケランキング260位 at 2020/10/8",
+    "note": "ボカロカラオケランキング260位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3389,7 +3389,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "深海シティアンダーグラウンド / 田中B feat.鏡音リン",
-    "note": "ボカロカラオケランキング261位 at 2020/10/8",
+    "note": "ボカロカラオケランキング261位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3402,7 +3402,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アブソリュート / YASUHIRO（康寛）",
-    "note": "ボカロカラオケランキング262位 at 2020/10/8",
+    "note": "ボカロカラオケランキング262位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3415,7 +3415,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "カミサマネジマキ / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング263位 at 2020/10/8",
+    "note": "ボカロカラオケランキング263位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3428,7 +3428,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "金星のダンス / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング264位 at 2020/10/8",
+    "note": "ボカロカラオケランキング264位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3441,7 +3441,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ray / BUMP OF CHICKEN feat. HATSUNE MIKU",
-    "note": "ボカロカラオケランキング265位 at 2020/10/8",
+    "note": "ボカロカラオケランキング265位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3454,7 +3454,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "clock lock works / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング266位 at 2020/10/8",
+    "note": "ボカロカラオケランキング266位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3467,7 +3467,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ヴィクター / めいちゃん",
-    "note": "ボカロカラオケランキング267位 at 2020/10/8",
+    "note": "ボカロカラオケランキング267位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3480,7 +3480,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マダラカルト / トーマ feat.GUMI",
-    "note": "ボカロカラオケランキング268位 at 2020/10/8",
+    "note": "ボカロカラオケランキング268位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3493,7 +3493,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "キライ・キライ・ジガヒダイ! / くらげP feat.音街ウナ",
-    "note": "ボカロカラオケランキング269位 at 2020/10/8",
+    "note": "ボカロカラオケランキング269位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3506,7 +3506,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "Happy Halloween / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング270位 at 2020/10/8",
+    "note": "ボカロカラオケランキング270位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3519,7 +3519,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "おおかみは赤ずきんに恋をした / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング271位 at 2020/10/8",
+    "note": "ボカロカラオケランキング271位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3532,7 +3532,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "懺悔参り / 羽生 まゐご feat.flower",
-    "note": "ボカロカラオケランキング272位 at 2020/10/8",
+    "note": "ボカロカラオケランキング272位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3545,7 +3545,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パラジクロロベンゼン / オワタP feat.鏡音レン",
-    "note": "ボカロカラオケランキング273位 at 2020/10/8",
+    "note": "ボカロカラオケランキング273位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3558,7 +3558,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "一騎当千 / 梅とら",
-    "note": "ボカロカラオケランキング274位 at 2020/10/8",
+    "note": "ボカロカラオケランキング274位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3571,7 +3571,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "厨病激発ボーイ / れるりり feat.鏡音レン",
-    "note": "ボカロカラオケランキング275位 at 2020/10/8",
+    "note": "ボカロカラオケランキング275位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3584,7 +3584,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "メルト（39's LIVE IN SAPPORO） / supercell",
-    "note": "ボカロカラオケランキング276位 at 2020/10/8",
+    "note": "ボカロカラオケランキング276位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3597,7 +3597,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ビーバー / すりぃ feat.初音ミク",
-    "note": "ボカロカラオケランキング277位 at 2020/10/8",
+    "note": "ボカロカラオケランキング277位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3610,7 +3610,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "結ンデ開イテ羅刹ト骸（ミクパ♪2012） / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング278位 at 2020/10/8",
+    "note": "ボカロカラオケランキング278位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3623,7 +3623,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヤンキーボーイ・ヤンキーガール / トーマ",
-    "note": "ボカロカラオケランキング279位 at 2020/10/8",
+    "note": "ボカロカラオケランキング279位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3636,7 +3636,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リモコン / じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング280位 at 2020/10/8",
+    "note": "ボカロカラオケランキング280位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3649,7 +3649,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "空想フォレスト / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング281位 at 2020/10/8",
+    "note": "ボカロカラオケランキング281位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3662,7 +3662,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "タイムマシン / 1640mP feat.初音ミク",
-    "note": "ボカロカラオケランキング282位 at 2020/10/8",
+    "note": "ボカロカラオケランキング282位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3675,7 +3675,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "クイーンオブハート / 奏音69 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング283位 at 2020/10/8",
+    "note": "ボカロカラオケランキング283位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3688,7 +3688,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "夕立のりぼん / みきとP feat.MAYU",
-    "note": "ボカロカラオケランキング284位 at 2020/10/8",
+    "note": "ボカロカラオケランキング284位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3701,7 +3701,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "深海のリトルクライ / sasakure.UK",
-    "note": "ボカロカラオケランキング285位 at 2020/10/8",
+    "note": "ボカロカラオケランキング285位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3714,7 +3714,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ELECT / niki feat.Lily",
-    "note": "ボカロカラオケランキング286位 at 2020/10/8",
+    "note": "ボカロカラオケランキング286位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3727,7 +3727,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サイバーサンダーサイダー / EZFG feat.VY1",
-    "note": "ボカロカラオケランキング287位 at 2020/10/8",
+    "note": "ボカロカラオケランキング287位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3740,7 +3740,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "IMITATION BLACK / natsu（SCL Project） feat.VanaN'Ice",
-    "note": "ボカロカラオケランキング288位 at 2020/10/8",
+    "note": "ボカロカラオケランキング288位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3753,7 +3753,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "駄菓子屋商売 / 米津 玄師",
-    "note": "ボカロカラオケランキング289位 at 2020/10/8",
+    "note": "ボカロカラオケランキング289位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3766,7 +3766,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "猛独が襲う / 一二三 feat.初音ミク",
-    "note": "ボカロカラオケランキング290位 at 2020/10/8",
+    "note": "ボカロカラオケランキング290位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3779,7 +3779,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "キャットフード / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング291位 at 2020/10/8",
+    "note": "ボカロカラオケランキング291位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3792,7 +3792,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "インタビュア / クワガタP feat.巡音ルカ",
-    "note": "ボカロカラオケランキング292位 at 2020/10/8",
+    "note": "ボカロカラオケランキング292位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3805,7 +3805,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "えれくとりっく・えんじぇぅ / ヤスオ feat.初音ミク",
-    "note": "ボカロカラオケランキング293位 at 2020/10/8",
+    "note": "ボカロカラオケランキング293位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3818,7 +3818,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "紗痲 / 煮ル果実",
-    "note": "ボカロカラオケランキング294位 at 2020/10/8",
+    "note": "ボカロカラオケランキング294位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3831,7 +3831,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヲズワルド / 煮ル果実",
-    "note": "ボカロカラオケランキング295位 at 2020/10/8",
+    "note": "ボカロカラオケランキング295位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3844,7 +3844,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "カンタレラ / WhiteFlame feat.KAITO",
-    "note": "ボカロカラオケランキング296位 at 2020/10/8",
+    "note": "ボカロカラオケランキング296位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3857,7 +3857,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "トキヲ・ファンカ / takamatt feat.GUMI",
-    "note": "ボカロカラオケランキング297位 at 2020/10/8",
+    "note": "ボカロカラオケランキング297位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3870,7 +3870,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "失敗作少女 / かいりきベア",
-    "note": "ボカロカラオケランキング298位 at 2020/10/8",
+    "note": "ボカロカラオケランキング298位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3883,7 +3883,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "オレンジ / トーマ",
-    "note": "ボカロカラオケランキング299位 at 2020/10/8",
+    "note": "ボカロカラオケランキング299位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3896,7 +3896,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "猫猫的宇宙論 / ナユタン星人",
-    "note": "ボカロカラオケランキング300位 at 2020/10/8",
+    "note": "ボカロカラオケランキング300位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3909,7 +3909,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "会いたい / Dios/シグナルP feat.GUMI",
-    "note": "ボカロカラオケランキング301位 at 2020/10/8",
+    "note": "ボカロカラオケランキング301位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3922,7 +3922,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "歌に形はないけれど / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング302位 at 2020/10/8",
+    "note": "ボカロカラオケランキング302位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3935,7 +3935,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ロケットサイダー / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング303位 at 2020/10/8",
+    "note": "ボカロカラオケランキング303位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3948,7 +3948,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "おどりゃんせ / ユリイ・カノン feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング304位 at 2020/10/8",
+    "note": "ボカロカラオケランキング304位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3961,7 +3961,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジベタトラベル / 日向電工 feat.初音ミク",
-    "note": "ボカロカラオケランキング305位 at 2020/10/8",
+    "note": "ボカロカラオケランキング305位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3974,7 +3974,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "わたしのアール / くらげP feat.初音ミク",
-    "note": "ボカロカラオケランキング306位 at 2020/10/8",
+    "note": "ボカロカラオケランキング306位",
     "updated_at": "2020/11/17"
   },
   {
@@ -3987,7 +3987,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アブストラクト・ナンセンス / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング307位 at 2020/10/8",
+    "note": "ボカロカラオケランキング307位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4000,7 +4000,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "残響 / 164",
-    "note": "ボカロカラオケランキング308位 at 2020/10/8",
+    "note": "ボカロカラオケランキング308位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4013,7 +4013,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "フリィダム ロリィタ / ねじ式 feat.結月ゆかり",
-    "note": "ボカロカラオケランキング309位 at 2020/10/8",
+    "note": "ボカロカラオケランキング309位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4026,7 +4026,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "Crazy nighT / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング310位 at 2020/10/8",
+    "note": "ボカロカラオケランキング310位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4039,7 +4039,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ワンダーランドと羊の歌 / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング311位 at 2020/10/8",
+    "note": "ボカロカラオケランキング311位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4052,7 +4052,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "トウキョウト・ロック・シティ / えこ。feat.初音ミク",
-    "note": "ボカロカラオケランキング312位 at 2020/10/8",
+    "note": "ボカロカラオケランキング312位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4065,7 +4065,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "SPiCa / とくP feat.初音ミク",
-    "note": "ボカロカラオケランキング313位 at 2020/10/8",
+    "note": "ボカロカラオケランキング313位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4078,7 +4078,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夢遊病者は此岸にて / こんにちは谷田さん",
-    "note": "ボカロカラオケランキング314位 at 2020/10/8",
+    "note": "ボカロカラオケランキング314位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4091,7 +4091,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "嗤うマネキン / MI8k feat.GUMI",
-    "note": "ボカロカラオケランキング315位 at 2020/10/8",
+    "note": "ボカロカラオケランキング315位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4104,7 +4104,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "カトラリー / 有機酸",
-    "note": "ボカロカラオケランキング316位 at 2020/10/8",
+    "note": "ボカロカラオケランキング316位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4117,7 +4117,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "番凩 / 仕事してP",
-    "note": "ボカロカラオケランキング317位 at 2020/10/8",
+    "note": "ボカロカラオケランキング317位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4130,7 +4130,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "明けない夜のリリィ / 傘村トータ feat.Fukase",
-    "note": "ボカロカラオケランキング318位 at 2020/10/8",
+    "note": "ボカロカラオケランキング318位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4143,7 +4143,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "イドラのサーカス / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング319位 at 2020/10/8",
+    "note": "ボカロカラオケランキング319位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4156,7 +4156,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダブルラリアット / アゴアニキ feat.巡音ルカ",
-    "note": "ボカロカラオケランキング320位 at 2020/10/8",
+    "note": "ボカロカラオケランキング320位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4169,7 +4169,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "プラス男子 / ギガれをる feat.鏡音レン",
-    "note": "ボカロカラオケランキング321位 at 2020/10/8",
+    "note": "ボカロカラオケランキング321位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4182,7 +4182,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "人生リセットボタン / kemu feat.GUMI",
-    "note": "ボカロカラオケランキング322位 at 2020/10/8",
+    "note": "ボカロカラオケランキング322位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4195,7 +4195,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "グリーンライツ・セレナーデ / Omoi feat.初音ミク",
-    "note": "ボカロカラオケランキング323位 at 2020/10/8",
+    "note": "ボカロカラオケランキング323位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4208,7 +4208,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "愛して愛して愛して / きくお",
-    "note": "ボカロカラオケランキング324位 at 2020/10/8",
+    "note": "ボカロカラオケランキング324位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4221,7 +4221,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "スイートマジック / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング325位 at 2020/10/8",
+    "note": "ボカロカラオケランキング325位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4234,7 +4234,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "Hello，Worker / KEI feat.巡音ルカ",
-    "note": "ボカロカラオケランキング326位 at 2020/10/8",
+    "note": "ボカロカラオケランキング326位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4247,7 +4247,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪ノ娘 / mothy＿悪ノP feat.鏡音リン",
-    "note": "ボカロカラオケランキング327位 at 2020/10/8",
+    "note": "ボカロカラオケランキング327位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4260,7 +4260,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ゴーストヒバナ / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング328位 at 2020/10/8",
+    "note": "ボカロカラオケランキング328位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4273,7 +4273,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "キレキャリオン / ポリスピカデリー",
-    "note": "ボカロカラオケランキング329位 at 2020/10/8",
+    "note": "ボカロカラオケランキング329位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4286,7 +4286,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "シザーハンズ / Nem feat.初音ミク",
-    "note": "ボカロカラオケランキング330位 at 2020/10/8",
+    "note": "ボカロカラオケランキング330位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4299,7 +4299,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドナーソング AlbumVersion / れるりり/もじゃ feat.GUMI",
-    "note": "ボカロカラオケランキング331位 at 2020/10/8",
+    "note": "ボカロカラオケランキング331位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4312,7 +4312,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夕景イエスタデイ / じん feat.IA",
-    "note": "ボカロカラオケランキング332位 at 2020/10/8",
+    "note": "ボカロカラオケランキング332位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4325,7 +4325,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "威風堂々 / 梅とら feat.巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
-    "note": "ボカロカラオケランキング333位 at 2020/10/8",
+    "note": "ボカロカラオケランキング333位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4338,7 +4338,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "カンタレラ / 黒うさP feat.KAITO＆初音ミク",
-    "note": "ボカロカラオケランキング334位 at 2020/10/8",
+    "note": "ボカロカラオケランキング334位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4351,7 +4351,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アンチテーゼ貴様 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング335位 at 2020/10/8",
+    "note": "ボカロカラオケランキング335位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4364,7 +4364,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ハイドアンド・シーク / 19−iku− feat.初音ミク",
-    "note": "ボカロカラオケランキング336位 at 2020/10/8",
+    "note": "ボカロカラオケランキング336位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4377,7 +4377,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "死ぬとき死ねばいい / カンザキイオリ",
-    "note": "ボカロカラオケランキング337位 at 2020/10/8",
+    "note": "ボカロカラオケランキング337位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4390,7 +4390,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パラレルレイヤー / lumo",
-    "note": "ボカロカラオケランキング338位 at 2020/10/8",
+    "note": "ボカロカラオケランキング338位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4403,7 +4403,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "心象カスケード / koyori（電ポルP） feat.flower",
-    "note": "ボカロカラオケランキング339位 at 2020/10/8",
+    "note": "ボカロカラオケランキング339位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4416,7 +4416,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://com.nicovideo.jp/community/co212608",
     "credit": "M.S.S.Planet / M.S.S Project feat.初音ミク＆GUMI",
-    "note": "ボカロカラオケランキング340位 at 2020/10/8",
+    "note": "ボカロカラオケランキング340位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4429,7 +4429,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "スキキライ / HoneyWorks",
-    "note": "ボカロカラオケランキング341位 at 2020/10/8",
+    "note": "ボカロカラオケランキング341位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4442,7 +4442,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "曖昧劣情 Lover / koyori（電ポルP） feat.flower",
-    "note": "ボカロカラオケランキング342位 at 2020/10/8",
+    "note": "ボカロカラオケランキング342位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4455,7 +4455,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "バケモノダンスフロア / 日向電工",
-    "note": "ボカロカラオケランキング343位 at 2020/10/8",
+    "note": "ボカロカラオケランキング343位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4468,7 +4468,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "KILLER B / 梅とら",
-    "note": "ボカロカラオケランキング344位 at 2020/10/8",
+    "note": "ボカロカラオケランキング344位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4481,7 +4481,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "放課後ストライド / Last Note.feat.GUMI",
-    "note": "ボカロカラオケランキング345位 at 2020/10/8",
+    "note": "ボカロカラオケランキング345位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4494,7 +4494,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ピニャコラーダ / ねじ式 feat.結月ゆかり/IA",
-    "note": "ボカロカラオケランキング346位 at 2020/10/8",
+    "note": "ボカロカラオケランキング346位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4507,7 +4507,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ラプンツェル / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング347位 at 2020/10/8",
+    "note": "ボカロカラオケランキング347位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4520,7 +4520,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夜撫でるメノウ / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング348位 at 2020/10/8",
+    "note": "ボカロカラオケランキング348位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4533,7 +4533,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "上弦の月 / WhiteFlame feat.KAITO",
-    "note": "ボカロカラオケランキング349位 at 2020/10/8",
+    "note": "ボカロカラオケランキング349位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4546,7 +4546,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "深海少女（マジカルミライ2013） / ゆうゆ feat.初音ミク",
-    "note": "ボカロカラオケランキング350位 at 2020/10/8",
+    "note": "ボカロカラオケランキング350位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4559,7 +4559,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "腐れ外道とチョコレゐト / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング351位 at 2020/10/8",
+    "note": "ボカロカラオケランキング351位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4572,7 +4572,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "＝−ERROR / niki feat.Lily",
-    "note": "ボカロカラオケランキング352位 at 2020/10/8",
+    "note": "ボカロカラオケランキング352位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4585,7 +4585,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "繰り返し一粒 / 猫虫 feat.鏡音リン",
-    "note": "ボカロカラオケランキング353位 at 2020/10/8",
+    "note": "ボカロカラオケランキング353位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4598,7 +4598,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドレミファロンド / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング354位 at 2020/10/8",
+    "note": "ボカロカラオケランキング354位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4611,7 +4611,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "オツキミリサイタル / じん feat.IA",
-    "note": "ボカロカラオケランキング355位 at 2020/10/8",
+    "note": "ボカロカラオケランキング355位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4624,7 +4624,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://note.com/kamitsubaki/n/n7f07becbb7e7",
     "credit": "死んでしまったのだろうか / Guiano feat.flower",
-    "note": "ボカロカラオケランキング356位 at 2020/10/8",
+    "note": "ボカロカラオケランキング356位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4637,7 +4637,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "Masked bitcH / ギガP feat.GUMI",
-    "note": "ボカロカラオケランキング357位 at 2020/10/8",
+    "note": "ボカロカラオケランキング357位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4650,7 +4650,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "空奏列車 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング358位 at 2020/10/8",
+    "note": "ボカロカラオケランキング358位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4663,7 +4663,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ちがう!!! / カルロス袴田（サイゼP）",
-    "note": "ボカロカラオケランキング359位 at 2020/10/8",
+    "note": "ボカロカラオケランキング359位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4676,7 +4676,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ルカルカ★ナイトフィーバー −DANCEROID PV Ver.− / DANCEROID",
-    "note": "ボカロカラオケランキング360位 at 2020/10/8",
+    "note": "ボカロカラオケランキング360位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4689,7 +4689,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "君色に染まる / TOKOTOKO（西沢さんP）",
-    "note": "ボカロカラオケランキング361位 at 2020/10/8",
+    "note": "ボカロカラオケランキング361位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4702,7 +4702,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "乱躁滅裂ガール / れるりり feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング362位 at 2020/10/8",
+    "note": "ボカロカラオケランキング362位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4715,7 +4715,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "チェチェ・チェック・ワンツー ! / くらげP feat.結月ゆかり",
-    "note": "ボカロカラオケランキング363位 at 2020/10/8",
+    "note": "ボカロカラオケランキング363位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4728,7 +4728,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "あのこどこのこ / ナナホシ管弦楽団 feat.GUMI",
-    "note": "ボカロカラオケランキング364位 at 2020/10/8",
+    "note": "ボカロカラオケランキング364位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4741,7 +4741,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "Leia / ゆよゆっぺ feat.巡音ルカ",
-    "note": "ボカロカラオケランキング365位 at 2020/10/8",
+    "note": "ボカロカラオケランキング365位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4754,7 +4754,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "世界寿命と最後の一日 / スズム feat.GUMI",
-    "note": "ボカロカラオケランキング366位 at 2020/10/8",
+    "note": "ボカロカラオケランキング366位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4767,7 +4767,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "東京テディベア（マジカルミライ2013） / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング367位 at 2020/10/8",
+    "note": "ボカロカラオケランキング367位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4780,7 +4780,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハッピーヒロインスナイパー / じょるじん",
-    "note": "ボカロカラオケランキング368位 at 2020/10/8",
+    "note": "ボカロカラオケランキング368位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4793,7 +4793,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "被害妄想携帯女子（笑） / ギガP×スズム feat.GUMI",
-    "note": "ボカロカラオケランキング369位 at 2020/10/8",
+    "note": "ボカロカラオケランキング369位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4806,7 +4806,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "くたばれPTA / 梨本 うい feat.初音ミク",
-    "note": "ボカロカラオケランキング370位 at 2020/10/8",
+    "note": "ボカロカラオケランキング370位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4819,7 +4819,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "しわ / buzzG feat.GUMI",
-    "note": "ボカロカラオケランキング371位 at 2020/10/8",
+    "note": "ボカロカラオケランキング371位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4832,7 +4832,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "The Beast. / スペクタクルP feat.初音ミク",
-    "note": "ボカロカラオケランキング372位 at 2020/10/8",
+    "note": "ボカロカラオケランキング372位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4845,7 +4845,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "FREELY TOMORROW / Mitchie M feat.初音ミク",
-    "note": "ボカロカラオケランキング373位 at 2020/10/8",
+    "note": "ボカロカラオケランキング373位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4858,7 +4858,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "桜前線異常ナシ / ワタルP feat.初音ミク",
-    "note": "ボカロカラオケランキング374位 at 2020/10/8",
+    "note": "ボカロカラオケランキング374位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4871,7 +4871,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "晴天を穿つ / 傘村トータ feat.Mew",
-    "note": "ボカロカラオケランキング375位 at 2020/10/8",
+    "note": "ボカロカラオケランキング375位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4884,7 +4884,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ルカルカ★ナイトフィーバー / SAM",
-    "note": "ボカロカラオケランキング376位 at 2020/10/8",
+    "note": "ボカロカラオケランキング376位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4897,7 +4897,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リグレットメッセージ / mothy＿悪ノP",
-    "note": "ボカロカラオケランキング377位 at 2020/10/8",
+    "note": "ボカロカラオケランキング377位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4910,7 +4910,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "毒占欲 / DECO*27",
-    "note": "ボカロカラオケランキング378位 at 2020/10/8",
+    "note": "ボカロカラオケランキング378位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4923,7 +4923,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "竹取オーバーナイトセンセーション / HoneyWorks",
-    "note": "ボカロカラオケランキング379位 at 2020/10/8",
+    "note": "ボカロカラオケランキング379位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4936,7 +4936,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パケットヒーロー / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング380位 at 2020/10/8",
+    "note": "ボカロカラオケランキング380位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4949,7 +4949,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "エゴママ / DECO*27",
-    "note": "ボカロカラオケランキング381位 at 2020/10/8",
+    "note": "ボカロカラオケランキング381位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4962,7 +4962,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "火葬曲 / No.D/上野 悠仁 feat.初音ミク",
-    "note": "ボカロカラオケランキング382位 at 2020/10/8",
+    "note": "ボカロカラオケランキング382位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4975,7 +4975,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "セカイ再信仰特区 / ろくろ feat.初音ミク",
-    "note": "ボカロカラオケランキング383位 at 2020/10/8",
+    "note": "ボカロカラオケランキング383位",
     "updated_at": "2020/11/17"
   },
   {
@@ -4988,7 +4988,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "ケセラリズム / ユリイ・カノン feat.GUMI",
-    "note": "ボカロカラオケランキング384位 at 2020/10/8",
+    "note": "ボカロカラオケランキング384位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5001,7 +5001,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダブルラリアット（ミクパ♪2012） / アゴアニキ",
-    "note": "ボカロカラオケランキング385位 at 2020/10/8",
+    "note": "ボカロカラオケランキング385位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5014,7 +5014,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "朝を呑む / バルーン feat.初音ミク",
-    "note": "ボカロカラオケランキング386位 at 2020/10/8",
+    "note": "ボカロカラオケランキング386位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5027,7 +5027,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サイノウサンプラー / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング387位 at 2020/10/8",
+    "note": "ボカロカラオケランキング387位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5040,7 +5040,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "ONE OFF MIND / 蜂屋 ななし feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング388位 at 2020/10/8",
+    "note": "ボカロカラオケランキング388位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5053,7 +5053,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ねぇ、どろどろさん / YASUHIRO（康寛） feat.鏡音リン",
-    "note": "ボカロカラオケランキング389位 at 2020/10/8",
+    "note": "ボカロカラオケランキング389位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5066,7 +5066,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "幾望の月 / なきゃむりゃ feat.結月ゆかり",
-    "note": "ボカロカラオケランキング390位 at 2020/10/8",
+    "note": "ボカロカラオケランキング390位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5079,7 +5079,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "心臓デモクラシー / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング391位 at 2020/10/8",
+    "note": "ボカロカラオケランキング391位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5092,7 +5092,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "おこちゃま戦争 / ギガP feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング392位 at 2020/10/8",
+    "note": "ボカロカラオケランキング392位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5105,7 +5105,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ぼくらはみんな意味不明 / ピノキオP",
-    "note": "ボカロカラオケランキング393位 at 2020/10/8",
+    "note": "ボカロカラオケランキング393位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5118,7 +5118,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "Seyana. / GYARI（ココアシガレットP） feat.結月ゆかり/琴葉茜",
-    "note": "ボカロカラオケランキング394位 at 2020/10/8",
+    "note": "ボカロカラオケランキング394位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5131,7 +5131,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪食娘コンチータ / mothy＿悪ノP feat.MEIKO",
-    "note": "ボカロカラオケランキング395位 at 2020/10/8",
+    "note": "ボカロカラオケランキング395位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5144,7 +5144,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "影踏みエトランゼ / Substreet feat.初音ミク",
-    "note": "ボカロカラオケランキング396位 at 2020/10/8",
+    "note": "ボカロカラオケランキング396位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5157,7 +5157,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サンドリヨン / Dios/シグナルP feat.初音ミク/KAITO",
-    "note": "ボカロカラオケランキング397位 at 2020/10/8",
+    "note": "ボカロカラオケランキング397位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5170,7 +5170,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "告白予行練習 / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング398位 at 2020/10/8",
+    "note": "ボカロカラオケランキング398位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5183,7 +5183,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "右に曲ガール / はるふり feat.重音テト",
-    "note": "ボカロカラオケランキング399位 at 2020/10/8",
+    "note": "ボカロカラオケランキング399位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5196,7 +5196,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Just Be Friends（最後のミクの日感謝祭） / Dixie Flatline feat.巡音ルカ",
-    "note": "ボカロカラオケランキング400位 at 2020/10/8",
+    "note": "ボカロカラオケランキング400位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5209,7 +5209,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "エル・タンゴ・エゴイスタ / nyanyannya feat.KAITO/巡音 ルカ",
-    "note": "ボカロカラオケランキング401位 at 2020/10/8",
+    "note": "ボカロカラオケランキング401位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5222,7 +5222,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "自傷無色 / ねこぼーろ feat.初音ミク",
-    "note": "ボカロカラオケランキング402位 at 2020/10/8",
+    "note": "ボカロカラオケランキング402位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5235,7 +5235,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "シビュラ / wotaku",
-    "note": "ボカロカラオケランキング403位 at 2020/10/8",
+    "note": "ボカロカラオケランキング403位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5248,7 +5248,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "スロウダウナー / ろくろ feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング404位 at 2020/10/8",
+    "note": "ボカロカラオケランキング404位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5261,7 +5261,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "絶対にチョコミントを食べるアオイチャン / GYARI（ココアシガレットP） feat.琴葉茜/琴葉葵",
-    "note": "ボカロカラオケランキング405位 at 2020/10/8",
+    "note": "ボカロカラオケランキング405位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5274,7 +5274,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "からくりピエロ（マジカルミライ2013） / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング406位 at 2020/10/8",
+    "note": "ボカロカラオケランキング406位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5287,7 +5287,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メルティランドナイトメア / はるまきごはん feat.初音ミク",
-    "note": "ボカロカラオケランキング407位 at 2020/10/8",
+    "note": "ボカロカラオケランキング407位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5300,7 +5300,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "夢喰い白黒バク / Nem feat.鏡音レン",
-    "note": "ボカロカラオケランキング408位 at 2020/10/8",
+    "note": "ボカロカラオケランキング408位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5313,7 +5313,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "病名は愛だった（feat.z'5） / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング409位 at 2020/10/8",
+    "note": "ボカロカラオケランキング409位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5326,7 +5326,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "魔法少女幸福論 / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング410位 at 2020/10/8",
+    "note": "ボカロカラオケランキング410位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5339,7 +5339,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "レッド・パージ!!! / P.I.N.A.feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング411位 at 2020/10/8",
+    "note": "ボカロカラオケランキング411位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5352,7 +5352,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アイラ / n−buna feat.GUMI",
-    "note": "ボカロカラオケランキング412位 at 2020/10/8",
+    "note": "ボカロカラオケランキング412位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5365,7 +5365,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "magnet（最後のミクの日感謝祭） / minato（流星P）feat.初音ミク/巡音ルカ",
-    "note": "ボカロカラオケランキング413位 at 2020/10/8",
+    "note": "ボカロカラオケランキング413位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5378,7 +5378,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "秘蜜〜黒の誓い〜 / ひとしずくP feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング414位 at 2020/10/8",
+    "note": "ボカロカラオケランキング414位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5391,7 +5391,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "妄想スケッチ / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング415位 at 2020/10/8",
+    "note": "ボカロカラオケランキング415位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5404,7 +5404,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "このふざけた素晴らしき世界は、僕の為にある / n.k feat.初音ミク",
-    "note": "ボカロカラオケランキング416位 at 2020/10/8",
+    "note": "ボカロカラオケランキング416位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5417,7 +5417,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ギガンティックO.T.N / ギガP/れをる feat.鏡音レン",
-    "note": "ボカロカラオケランキング417位 at 2020/10/8",
+    "note": "ボカロカラオケランキング417位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5430,7 +5430,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "秘蜜〜黒の誓い〜 / ひとしずくP feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング418位 at 2020/10/8",
+    "note": "ボカロカラオケランキング418位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5443,7 +5443,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダンスロボットダンス / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング419位 at 2020/10/8",
+    "note": "ボカロカラオケランキング419位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5456,7 +5456,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "このピアノでお前を8759632145回ぶん殴る / SLAVE.V−V−R feat.猫村いろは",
-    "note": "ボカロカラオケランキング420位 at 2020/10/8",
+    "note": "ボカロカラオケランキング420位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5469,7 +5469,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Black Board / 蝶々P feat.初音ミク",
-    "note": "ボカロカラオケランキング421位 at 2020/10/8",
+    "note": "ボカロカラオケランキング421位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5482,7 +5482,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "い〜やい〜やい〜や / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング422位 at 2020/10/8",
+    "note": "ボカロカラオケランキング422位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5495,7 +5495,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "1/6 −out of the gravity− / ぼーかりおどP（noa） feat.初音ミク",
-    "note": "ボカロカラオケランキング423位 at 2020/10/8",
+    "note": "ボカロカラオケランキング423位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5508,7 +5508,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "下剋上（完） / 一行P feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング424位 at 2020/10/8",
+    "note": "ボカロカラオケランキング424位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5521,7 +5521,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スーパーヒーロー / Guiano feat.IA",
-    "note": "ボカロカラオケランキング425位 at 2020/10/8",
+    "note": "ボカロカラオケランキング425位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5534,7 +5534,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ネバーランドから帰ったウェンディが気づいたこと / じょるじん",
-    "note": "ボカロカラオケランキング426位 at 2020/10/8",
+    "note": "ボカロカラオケランキング426位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5547,7 +5547,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "テロル / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング427位 at 2020/10/8",
+    "note": "ボカロカラオケランキング427位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5560,7 +5560,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "PLATONIC GIRL / みきとP feat.GUMI",
-    "note": "ボカロカラオケランキング428位 at 2020/10/8",
+    "note": "ボカロカラオケランキング428位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5573,7 +5573,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "商品ページに記載",
     "credit": "マカロン / ATOLS feat.初音ミク",
-    "note": "ボカロカラオケランキング429位 at 2020/10/8",
+    "note": "ボカロカラオケランキング429位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5586,7 +5586,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "キャラバン / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング430位 at 2020/10/8",
+    "note": "ボカロカラオケランキング430位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5599,7 +5599,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アザレアの亡霊 / トーマ feat.初音ミク",
-    "note": "ボカロカラオケランキング431位 at 2020/10/8",
+    "note": "ボカロカラオケランキング431位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5612,7 +5612,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ハイスペックニート / 40mP",
-    "note": "ボカロカラオケランキング432位 at 2020/10/8",
+    "note": "ボカロカラオケランキング432位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5625,7 +5625,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "ノイローゼ / 蜂屋 ななし feat.flower",
-    "note": "ボカロカラオケランキング433位 at 2020/10/8",
+    "note": "ボカロカラオケランキング433位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5638,7 +5638,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "WORLD'S END UMBRELLA / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング434位 at 2020/10/8",
+    "note": "ボカロカラオケランキング434位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5651,7 +5651,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "共犯者 / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング435位 at 2020/10/8",
+    "note": "ボカロカラオケランキング435位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5664,7 +5664,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "バイビーベイビーサヨウナラ / saiB",
-    "note": "ボカロカラオケランキング436位 at 2020/10/8",
+    "note": "ボカロカラオケランキング436位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5677,7 +5677,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "カンケイナイトファンキー / ナナホシ管弦楽団 feat.GUMI",
-    "note": "ボカロカラオケランキング437位 at 2020/10/8",
+    "note": "ボカロカラオケランキング437位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5690,7 +5690,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "rain stops，good−bye / におP feat.初音ミク",
-    "note": "ボカロカラオケランキング438位 at 2020/10/8",
+    "note": "ボカロカラオケランキング438位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5703,7 +5703,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "なりすましゲンガー / KulfiQ feat.鏡音リン/初音ミク",
-    "note": "ボカロカラオケランキング439位 at 2020/10/8",
+    "note": "ボカロカラオケランキング439位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5716,7 +5716,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Shake it! / emon（Tes.） feat.鏡音リン/鏡音レン/初音ミク",
-    "note": "ボカロカラオケランキング440位 at 2020/10/8",
+    "note": "ボカロカラオケランキング440位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5729,7 +5729,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "回る空うさぎ / Orangestar feat.初音ミク",
-    "note": "ボカロカラオケランキング441位 at 2020/10/8",
+    "note": "ボカロカラオケランキング441位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5742,7 +5742,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ライカ / yamada feat.初音ミク",
-    "note": "ボカロカラオケランキング442位 at 2020/10/8",
+    "note": "ボカロカラオケランキング442位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5755,7 +5755,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "クラブ＝マジェスティ / nyanyannya feat.鏡音レン",
-    "note": "ボカロカラオケランキング443位 at 2020/10/8",
+    "note": "ボカロカラオケランキング443位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5768,7 +5768,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メリーバッドエンド / まふまふ feat.初音ミク",
-    "note": "ボカロカラオケランキング444位 at 2020/10/8",
+    "note": "ボカロカラオケランキング444位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5781,7 +5781,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ココロ / トラボルタ feat.鏡音リン",
-    "note": "ボカロカラオケランキング445位 at 2020/10/8",
+    "note": "ボカロカラオケランキング445位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5794,7 +5794,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ニビョウカン / MARUDARUMA feat.GUMI",
-    "note": "ボカロカラオケランキング446位 at 2020/10/8",
+    "note": "ボカロカラオケランキング446位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5807,7 +5807,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "BadBye / koma'n",
-    "note": "ボカロカラオケランキング447位 at 2020/10/8",
+    "note": "ボカロカラオケランキング447位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5820,7 +5820,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "君の体温 / クワガタP feat.初音ミク",
-    "note": "ボカロカラオケランキング448位 at 2020/10/8",
+    "note": "ボカロカラオケランキング448位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5833,7 +5833,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "少女ふぜゐ / みきとP feat.GUMI",
-    "note": "ボカロカラオケランキング449位 at 2020/10/8",
+    "note": "ボカロカラオケランキング449位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5846,7 +5846,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "きょうもハレバレ / ふわりP feat.GUMI's",
-    "note": "ボカロカラオケランキング450位 at 2020/10/8",
+    "note": "ボカロカラオケランキング450位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5859,7 +5859,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "愛言葉 / DECO*27",
-    "note": "ボカロカラオケランキング451位 at 2020/10/8",
+    "note": "ボカロカラオケランキング451位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5872,7 +5872,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スクラマイズ / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング452位 at 2020/10/8",
+    "note": "ボカロカラオケランキング452位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5885,7 +5885,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "脱獄 / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング453位 at 2020/10/8",
+    "note": "ボカロカラオケランキング453位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5898,7 +5898,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "イカサマ⇔カジノ / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング454位 at 2020/10/8",
+    "note": "ボカロカラオケランキング454位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5911,7 +5911,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "宴 / john feat.初音ミク",
-    "note": "ボカロカラオケランキング455位 at 2020/10/8",
+    "note": "ボカロカラオケランキング455位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5924,7 +5924,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ショットガン・ラヴァーズ / のぼる↑feat.初音ミク",
-    "note": "ボカロカラオケランキング456位 at 2020/10/8",
+    "note": "ボカロカラオケランキング456位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5937,7 +5937,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ギンギラ銀河 / ナユタン星人",
-    "note": "ボカロカラオケランキング457位 at 2020/10/8",
+    "note": "ボカロカラオケランキング457位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5950,7 +5950,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "愛及屋烏 / バルーン feat.初音ミク/flower",
-    "note": "ボカロカラオケランキング458位 at 2020/10/8",
+    "note": "ボカロカラオケランキング458位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5963,7 +5963,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "一心不乱 / 梅とら feat.巡音ルカ/初音ミク/GUMI",
-    "note": "ボカロカラオケランキング459位 at 2020/10/8",
+    "note": "ボカロカラオケランキング459位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5976,7 +5976,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "真夜中の微笑み / ナナホシ管弦楽団 feat.初音ミク",
-    "note": "ボカロカラオケランキング460位 at 2020/10/8",
+    "note": "ボカロカラオケランキング460位",
     "updated_at": "2020/11/17"
   },
   {
@@ -5989,7 +5989,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "きみも悪い人でよかった / ピノキオP",
-    "note": "ボカロカラオケランキング461位 at 2020/10/8",
+    "note": "ボカロカラオケランキング461位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6002,7 +6002,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "オペ / 蜂屋 ななし",
-    "note": "ボカロカラオケランキング462位 at 2020/10/8",
+    "note": "ボカロカラオケランキング462位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6015,7 +6015,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "桜の雨−standard edit− / absorb feat.初音ミク",
-    "note": "ボカロカラオケランキング463位 at 2020/10/8",
+    "note": "ボカロカラオケランキング463位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6028,7 +6028,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "アンチビート / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング464位 at 2020/10/8",
+    "note": "ボカロカラオケランキング464位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6041,7 +6041,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヘッドフォンアクター / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング465位 at 2020/10/8",
+    "note": "ボカロカラオケランキング465位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6054,7 +6054,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "イノコリ先生 / HoneyWorks",
-    "note": "ボカロカラオケランキング466位 at 2020/10/8",
+    "note": "ボカロカラオケランキング466位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6067,7 +6067,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "とある一家の御茶会議 / くるりんご feat.GUMI",
-    "note": "ボカロカラオケランキング467位 at 2020/10/8",
+    "note": "ボカロカラオケランキング467位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6080,7 +6080,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "春嵐 / john feat.初音ミク",
-    "note": "ボカロカラオケランキング468位 at 2020/10/8",
+    "note": "ボカロカラオケランキング468位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6093,7 +6093,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "コインロッカーベイビー / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング469位 at 2020/10/8",
+    "note": "ボカロカラオケランキング469位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6106,7 +6106,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "天使だと思っていたのに / 鬱P",
-    "note": "ボカロカラオケランキング470位 at 2020/10/8",
+    "note": "ボカロカラオケランキング470位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6119,7 +6119,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ポジティブ・パレード / DECO*27",
-    "note": "ボカロカラオケランキング471位 at 2020/10/8",
+    "note": "ボカロカラオケランキング471位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6132,7 +6132,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "こちら、幸福安心委員会です。 / うたたP feat.初音ミク",
-    "note": "ボカロカラオケランキング472位 at 2020/10/8",
+    "note": "ボカロカラオケランキング472位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6145,7 +6145,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アイアルの勘違い / 煮ル果実",
-    "note": "ボカロカラオケランキング473位 at 2020/10/8",
+    "note": "ボカロカラオケランキング473位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6158,7 +6158,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "初音ミクの激唱（LONG VERSION） / Storyteller（GAiA×cosMo＠暴走P） feat.初音ミク",
-    "note": "ボカロカラオケランキング474位 at 2020/10/8",
+    "note": "ボカロカラオケランキング474位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6171,7 +6171,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "鬼KYOKAN / じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング475位 at 2020/10/8",
+    "note": "ボカロカラオケランキング475位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6184,7 +6184,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "花降らし / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング476位 at 2020/10/8",
+    "note": "ボカロカラオケランキング476位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6197,7 +6197,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "とおせんぼ / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング477位 at 2020/10/8",
+    "note": "ボカロカラオケランキング477位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6210,7 +6210,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ACUTE / WhiteFlame feat.初音ミク/巡音ルカ/KAITO",
-    "note": "ボカロカラオケランキング478位 at 2020/10/8",
+    "note": "ボカロカラオケランキング478位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6223,7 +6223,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハイネとクライネ / 煮ル果実",
-    "note": "ボカロカラオケランキング479位 at 2020/10/8",
+    "note": "ボカロカラオケランキング479位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6236,7 +6236,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ポーカーフェイス / ゆちゃP feat.GUMI",
-    "note": "ボカロカラオケランキング480位 at 2020/10/8",
+    "note": "ボカロカラオケランキング480位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6249,7 +6249,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "とても痛い痛がりたい / EZFG",
-    "note": "ボカロカラオケランキング481位 at 2020/10/8",
+    "note": "ボカロカラオケランキング481位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6262,7 +6262,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "カーニバル / otetsu feat.GUMI",
-    "note": "ボカロカラオケランキング482位 at 2020/10/8",
+    "note": "ボカロカラオケランキング482位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6275,7 +6275,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "円尾坂の仕立屋 / mothy＿悪ノP feat.巡音 ルカ",
-    "note": "ボカロカラオケランキング483位 at 2020/10/8",
+    "note": "ボカロカラオケランキング483位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6288,7 +6288,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "千本桜 / CTS feat.初音ミク",
-    "note": "ボカロカラオケランキング484位 at 2020/10/8",
+    "note": "ボカロカラオケランキング484位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6301,7 +6301,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ACUTE / 黒うさP feat.初音ミク＆巡音ルカ＆KAITO",
-    "note": "ボカロカラオケランキング485位 at 2020/10/8",
+    "note": "ボカロカラオケランキング485位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6314,7 +6314,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "paranoia / つなまる feat.初音ミク",
-    "note": "ボカロカラオケランキング486位 at 2020/10/8",
+    "note": "ボカロカラオケランキング486位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6327,7 +6327,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "1925 / T−POCKET feat.初音ミク",
-    "note": "ボカロカラオケランキング487位 at 2020/10/8",
+    "note": "ボカロカラオケランキング487位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6340,7 +6340,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ゴーストルール（Game Version） / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング488位 at 2020/10/8",
+    "note": "ボカロカラオケランキング488位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6353,7 +6353,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リバースユニバース / ナユタン星人",
-    "note": "ボカロカラオケランキング489位 at 2020/10/8",
+    "note": "ボカロカラオケランキング489位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6366,7 +6366,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "行きます! カラオケ一曲目 / ほぼ日P",
-    "note": "ボカロカラオケランキング490位 at 2020/10/8",
+    "note": "ボカロカラオケランキング490位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6379,7 +6379,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ダンスナンバーを共に / ナナホシ管弦楽団 feat.初音ミク",
-    "note": "ボカロカラオケランキング491位 at 2020/10/8",
+    "note": "ボカロカラオケランキング491位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6392,7 +6392,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "*ハロー、プラネット。 / sasakure.UK feat.初音ミク",
-    "note": "ボカロカラオケランキング492位 at 2020/10/8",
+    "note": "ボカロカラオケランキング492位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6405,7 +6405,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "内臓ありますか / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング493位 at 2020/10/8",
+    "note": "ボカロカラオケランキング493位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6418,7 +6418,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アカツキアライヴァル / Last Note.feat.初音ミク/巡音ルカ",
-    "note": "ボカロカラオケランキング494位 at 2020/10/8",
+    "note": "ボカロカラオケランキング494位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6431,7 +6431,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "サイコグラム / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング495位 at 2020/10/8",
+    "note": "ボカロカラオケランキング495位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6444,7 +6444,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "あとのまつり / Peg feat.鏡音リン",
-    "note": "ボカロカラオケランキング496位 at 2020/10/8",
+    "note": "ボカロカラオケランキング496位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6457,7 +6457,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "世田谷ナイトサファリ / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング497位 at 2020/10/8",
+    "note": "ボカロカラオケランキング497位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6470,7 +6470,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "家に帰ると妻が必ず死んだふりをしています。 / ほぼ日P",
-    "note": "ボカロカラオケランキング498位 at 2020/10/8",
+    "note": "ボカロカラオケランキング498位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6483,7 +6483,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "幽霊屋敷の首吊り少女 / トーマ feat.GUMI",
-    "note": "ボカロカラオケランキング499位 at 2020/10/8",
+    "note": "ボカロカラオケランキング499位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6496,7 +6496,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハローディストピア / まふまふ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング500位 at 2020/10/8",
+    "note": "ボカロカラオケランキング500位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6509,7 +6509,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ミラクルペイント / OSTER project",
-    "note": "ボカロカラオケランキング501位 at 2020/10/8",
+    "note": "ボカロカラオケランキング501位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6522,7 +6522,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "うつけ論争 / 獅子志司",
-    "note": "ボカロカラオケランキング502位 at 2020/10/8",
+    "note": "ボカロカラオケランキング502位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6535,7 +6535,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "雨き声残響 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング503位 at 2020/10/8",
+    "note": "ボカロカラオケランキング503位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6548,7 +6548,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "夜行性ハイズ / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング504位 at 2020/10/8",
+    "note": "ボカロカラオケランキング504位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6561,7 +6561,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "HAPPY SHAPE / 蜂屋 ななし feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング505位 at 2020/10/8",
+    "note": "ボカロカラオケランキング505位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6574,7 +6574,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "クレイジー・ビート / さつき が てんこもり",
-    "note": "ボカロカラオケランキング506位 at 2020/10/8",
+    "note": "ボカロカラオケランキング506位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6587,7 +6587,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "Fire◎Flower 2011 / halyosy feat.鏡音レン",
-    "note": "ボカロカラオケランキング507位 at 2020/10/8",
+    "note": "ボカロカラオケランキング507位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6600,7 +6600,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "3331 / ナノウ feat.初音ミク",
-    "note": "ボカロカラオケランキング508位 at 2020/10/8",
+    "note": "ボカロカラオケランキング508位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6613,7 +6613,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジェンガ / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング509位 at 2020/10/8",
+    "note": "ボカロカラオケランキング509位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6626,7 +6626,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジャバヲッキー・ジャバヲッカ / カラスヤサボウ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング510位 at 2020/10/8",
+    "note": "ボカロカラオケランキング510位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6639,7 +6639,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "告白 / カンザキイオリ",
-    "note": "ボカロカラオケランキング511位 at 2020/10/8",
+    "note": "ボカロカラオケランキング511位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6652,7 +6652,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "僕が夢を捨てて大人になるまで / 傘村トータ feat.初音ミク",
-    "note": "ボカロカラオケランキング512位 at 2020/10/8",
+    "note": "ボカロカラオケランキング512位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6665,7 +6665,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ハレハレヤ / 羽生 まゐご feat.flower/初音ミク",
-    "note": "ボカロカラオケランキング513位 at 2020/10/8",
+    "note": "ボカロカラオケランキング513位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6678,7 +6678,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ゆるふわ樹海ガール / 石風呂",
-    "note": "ボカロカラオケランキング514位 at 2020/10/8",
+    "note": "ボカロカラオケランキング514位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6691,7 +6691,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アヤノの幸福理論 / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング515位 at 2020/10/8",
+    "note": "ボカロカラオケランキング515位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6704,7 +6704,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "卑怯戦隊うろたんだー / シンP feat.KAITO/MEIKO/初音ミク",
-    "note": "ボカロカラオケランキング516位 at 2020/10/8",
+    "note": "ボカロカラオケランキング516位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6717,7 +6717,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "quiet room / 有機酸",
-    "note": "ボカロカラオケランキング517位 at 2020/10/8",
+    "note": "ボカロカラオケランキング517位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6730,7 +6730,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "うみたがり / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング518位 at 2020/10/8",
+    "note": "ボカロカラオケランキング518位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6743,7 +6743,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "走れ / KEI feat.GUMI",
-    "note": "ボカロカラオケランキング519位 at 2020/10/8",
+    "note": "ボカロカラオケランキング519位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6756,7 +6756,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "罪の名前 / ryo（supercell） feat.初音ミク",
-    "note": "ボカロカラオケランキング520位 at 2020/10/8",
+    "note": "ボカロカラオケランキング520位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6769,7 +6769,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "おはよう、僕の歌姫 / 傘村トータ feat.Fukase",
-    "note": "ボカロカラオケランキング521位 at 2020/10/8",
+    "note": "ボカロカラオケランキング521位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6782,7 +6782,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "トルコ行進曲 − オワタ / オワタP feat.初音ミク",
-    "note": "ボカロカラオケランキング522位 at 2020/10/8",
+    "note": "ボカロカラオケランキング522位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6795,7 +6795,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "キャットフード（マジカルミライ2013） / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング523位 at 2020/10/8",
+    "note": "ボカロカラオケランキング523位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6808,7 +6808,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スヂ / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング524位 at 2020/10/8",
+    "note": "ボカロカラオケランキング524位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6821,7 +6821,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マインドブランド / MARETU feat. 初音ミク",
-    "note": "ボカロカラオケランキング525位 at 2020/10/8",
+    "note": "ボカロカラオケランキング525位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6834,7 +6834,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "カンタービレ×パッシオーネ / OSTER project",
-    "note": "ボカロカラオケランキング526位 at 2020/10/8",
+    "note": "ボカロカラオケランキング526位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6847,7 +6847,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Tell Your World（最後のミクの日感謝祭） / livetune feat.初音ミク",
-    "note": "ボカロカラオケランキング527位 at 2020/10/8",
+    "note": "ボカロカラオケランキング527位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6860,7 +6860,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "Sweet Devil / 八王子P feat.初音ミク",
-    "note": "ボカロカラオケランキング528位 at 2020/10/8",
+    "note": "ボカロカラオケランキング528位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6873,7 +6873,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "古書屋敷殺人事件 / てにをはP feat.初音ミク",
-    "note": "ボカロカラオケランキング529位 at 2020/10/8",
+    "note": "ボカロカラオケランキング529位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6886,7 +6886,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ラブ＆デストロイ / MI8k feat.GUMI",
-    "note": "ボカロカラオケランキング530位 at 2020/10/8",
+    "note": "ボカロカラオケランキング530位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6899,7 +6899,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "334人の敵 / ちゃむ feat.GUMI",
-    "note": "ボカロカラオケランキング531位 at 2020/10/8",
+    "note": "ボカロカラオケランキング531位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6912,7 +6912,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "すーぱーぬこになれんかった / まふまふ",
-    "note": "ボカロカラオケランキング532位 at 2020/10/8",
+    "note": "ボカロカラオケランキング532位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6925,7 +6925,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ムーンウォークフィーバー / 日向電工 feat.初音ミク",
-    "note": "ボカロカラオケランキング533位 at 2020/10/8",
+    "note": "ボカロカラオケランキング533位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6938,7 +6938,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ワンルーム・オール・ザット・ジャズ / DATEKEN feat.初音ミク",
-    "note": "ボカロカラオケランキング534位 at 2020/10/8",
+    "note": "ボカロカラオケランキング534位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6951,7 +6951,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "フラミンゴ / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング535位 at 2020/10/8",
+    "note": "ボカロカラオケランキング535位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6964,7 +6964,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ワールド・ランプシェード / buzzG feat.GUMI",
-    "note": "ボカロカラオケランキング536位 at 2020/10/8",
+    "note": "ボカロカラオケランキング536位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6977,7 +6977,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "花が落ちたので、 / 一二三 feat.初音ミク",
-    "note": "ボカロカラオケランキング537位 at 2020/10/8",
+    "note": "ボカロカラオケランキング537位",
     "updated_at": "2020/11/17"
   },
   {
@@ -6990,7 +6990,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アサガオの散る頃に / じっぷす feat.初音ミク",
-    "note": "ボカロカラオケランキング538位 at 2020/10/8",
+    "note": "ボカロカラオケランキング538位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7003,7 +7003,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アンドロメダアンドロメダ / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング539位 at 2020/10/8",
+    "note": "ボカロカラオケランキング539位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7016,7 +7016,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "クラスで一番人気のあの子は校舎の裏で人を殺した / mao sasagawa feat.初音ミク",
-    "note": "ボカロカラオケランキング540位 at 2020/10/8",
+    "note": "ボカロカラオケランキング540位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7029,7 +7029,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ターミナル / ぬゆり feat.GUMI",
-    "note": "ボカロカラオケランキング541位 at 2020/10/8",
+    "note": "ボカロカラオケランキング541位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7042,7 +7042,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "リスキーゲーム / WhiteFlame feat.初音ミク",
-    "note": "ボカロカラオケランキング542位 at 2020/10/8",
+    "note": "ボカロカラオケランキング542位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7055,7 +7055,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Just Be Friends / Dixie Flatline feat.初音ミク",
-    "note": "ボカロカラオケランキング543位 at 2020/10/8",
+    "note": "ボカロカラオケランキング543位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7068,7 +7068,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "こっち向いて Baby / ryo（supercell） feat.初音ミク",
-    "note": "ボカロカラオケランキング544位 at 2020/10/8",
+    "note": "ボカロカラオケランキング544位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7081,7 +7081,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ありふれたせかいせいふく / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング545位 at 2020/10/8",
+    "note": "ボカロカラオケランキング545位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7094,7 +7094,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "ラズベリー*モンスター / HoneyWorks feat.初音ミク",
-    "note": "ボカロカラオケランキング546位 at 2020/10/8",
+    "note": "ボカロカラオケランキング546位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7107,7 +7107,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "月陽−ツキアカリ− / みきとP feat.GUMI",
-    "note": "ボカロカラオケランキング547位 at 2020/10/8",
+    "note": "ボカロカラオケランキング547位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7120,7 +7120,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ミュージックミュージック / とあ feat.初音ミク",
-    "note": "ボカロカラオケランキング548位 at 2020/10/8",
+    "note": "ボカロカラオケランキング548位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7133,7 +7133,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "罰ゲーム / くるりんご feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング549位 at 2020/10/8",
+    "note": "ボカロカラオケランキング549位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7146,7 +7146,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "ワールドイズマイン（最後のミクの日感謝祭） / supercell feat.初音ミク",
-    "note": "ボカロカラオケランキング550位 at 2020/10/8",
+    "note": "ボカロカラオケランキング550位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7159,7 +7159,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ポジティブ☆ダンスタイム / キノシタ feat.音街ウナ/鏡音リン",
-    "note": "ボカロカラオケランキング551位 at 2020/10/8",
+    "note": "ボカロカラオケランキング551位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7172,7 +7172,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "Painter / halyosy feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO",
-    "note": "ボカロカラオケランキング552位 at 2020/10/8",
+    "note": "ボカロカラオケランキング552位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7185,7 +7185,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ミルククラウン・オン・ソーネチカ / ユジー feat.初音ミク",
-    "note": "ボカロカラオケランキング553位 at 2020/10/8",
+    "note": "ボカロカラオケランキング553位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7198,7 +7198,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "アカリがやってきたぞっ / GYARI（ココアシガレットP） feat.紲星あかり",
-    "note": "ボカロカラオケランキング554位 at 2020/10/8",
+    "note": "ボカロカラオケランキング554位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7211,7 +7211,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "猪突猛進ガール / れるりり feat.初音ミク/GUMI",
-    "note": "ボカロカラオケランキング555位 at 2020/10/8",
+    "note": "ボカロカラオケランキング555位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7224,7 +7224,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "アヤカシ / buzzG",
-    "note": "ボカロカラオケランキング556位 at 2020/10/8",
+    "note": "ボカロカラオケランキング556位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7237,7 +7237,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "夏恋花火 / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング557位 at 2020/10/8",
+    "note": "ボカロカラオケランキング557位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7250,7 +7250,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "URUSaaA愛 / YM feat.GUMI",
-    "note": "ボカロカラオケランキング558位 at 2020/10/8",
+    "note": "ボカロカラオケランキング558位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7263,7 +7263,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "トゥイー・ボックスの人形劇場 / sasakure.UK",
-    "note": "ボカロカラオケランキング559位 at 2020/10/8",
+    "note": "ボカロカラオケランキング559位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7276,7 +7276,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "カガリビト / millstones feat.初音ミク",
-    "note": "ボカロカラオケランキング560位 at 2020/10/8",
+    "note": "ボカロカラオケランキング560位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7289,7 +7289,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ANIMAる / 梅とら",
-    "note": "ボカロカラオケランキング561位 at 2020/10/8",
+    "note": "ボカロカラオケランキング561位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7302,7 +7302,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "死生活 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング562位 at 2020/10/8",
+    "note": "ボカロカラオケランキング562位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7315,7 +7315,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "踊れオーケストラ / YASUHIRO（康寛） feat.IA",
-    "note": "ボカロカラオケランキング563位 at 2020/10/8",
+    "note": "ボカロカラオケランキング563位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7328,7 +7328,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Blackjack / ゆちゃP feat.巡音ルカ",
-    "note": "ボカロカラオケランキング564位 at 2020/10/8",
+    "note": "ボカロカラオケランキング564位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7341,7 +7341,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "クエスチョンマーク / john feat.初音ミク",
-    "note": "ボカロカラオケランキング565位 at 2020/10/8",
+    "note": "ボカロカラオケランキング565位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7354,7 +7354,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "初恋の絵本 / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング566位 at 2020/10/8",
+    "note": "ボカロカラオケランキング566位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7367,7 +7367,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ぼくらの16bit戦争 / sasakure.UK",
-    "note": "ボカロカラオケランキング567位 at 2020/10/8",
+    "note": "ボカロカラオケランキング567位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7380,7 +7380,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "怪異物ノ怪音楽箱 / てにをはP feat.初音ミク",
-    "note": "ボカロカラオケランキング568位 at 2020/10/8",
+    "note": "ボカロカラオケランキング568位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7393,7 +7393,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ドクター＝ファンクビート / nyanyannya feat.KAITO",
-    "note": "ボカロカラオケランキング569位 at 2020/10/8",
+    "note": "ボカロカラオケランキング569位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7406,7 +7406,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "鋼鉄ノ鳥 / 綿飴 feat.IA",
-    "note": "ボカロカラオケランキング570位 at 2020/10/8",
+    "note": "ボカロカラオケランキング570位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7419,7 +7419,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Mr.Music / れるりり feat.初音ミク/巡音ルカ/鏡音リン他",
-    "note": "ボカロカラオケランキング571位 at 2020/10/8",
+    "note": "ボカロカラオケランキング571位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7432,7 +7432,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "今好きになる。 / HoneyWorks feat.初音ミク",
-    "note": "ボカロカラオケランキング572位 at 2020/10/8",
+    "note": "ボカロカラオケランキング572位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7445,7 +7445,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "うらめしヤッホー / 和田 たけあき（くらげP）",
-    "note": "ボカロカラオケランキング573位 at 2020/10/8",
+    "note": "ボカロカラオケランキング573位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7458,7 +7458,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "くたばろうぜ / Neru feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング574位 at 2020/10/8",
+    "note": "ボカロカラオケランキング574位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7471,7 +7471,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "チェリーハント / 奏音69 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング575位 at 2020/10/8",
+    "note": "ボカロカラオケランキング575位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7484,7 +7484,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "純情スカート / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング576位 at 2020/10/8",
+    "note": "ボカロカラオケランキング576位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7497,7 +7497,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "背景、夏に溺れる / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング577位 at 2020/10/8",
+    "note": "ボカロカラオケランキング577位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7510,7 +7510,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハロ/ハワユ / ナノウ Feat.ばずぱんだ",
-    "note": "ボカロカラオケランキング578位 at 2020/10/8",
+    "note": "ボカロカラオケランキング578位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7523,7 +7523,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ゆるふわ樹海ガール / 石風呂 feat.IA",
-    "note": "ボカロカラオケランキング579位 at 2020/10/8",
+    "note": "ボカロカラオケランキング579位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7536,7 +7536,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "芥の部屋は錆色に沈む / こんにちは谷田さん",
-    "note": "ボカロカラオケランキング580位 at 2020/10/8",
+    "note": "ボカロカラオケランキング580位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7549,7 +7549,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Makes You a Fighter / 梅とら",
-    "note": "ボカロカラオケランキング581位 at 2020/10/8",
+    "note": "ボカロカラオケランキング581位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7562,7 +7562,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヒトサマアレルギー / かいりきベア feat.flower",
-    "note": "ボカロカラオケランキング582位 at 2020/10/8",
+    "note": "ボカロカラオケランキング582位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7575,7 +7575,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "好き!雪!本気マジック / Mitchie M feat.初音ミク",
-    "note": "ボカロカラオケランキング583位 at 2020/10/8",
+    "note": "ボカロカラオケランキング583位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7588,7 +7588,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "竹取オーバーナイトセンセーション / HoneyWorks feat.そらる/ろん",
-    "note": "ボカロカラオケランキング584位 at 2020/10/8",
+    "note": "ボカロカラオケランキング584位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7601,7 +7601,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "またねがあれば / risou feat.初音ミク",
-    "note": "ボカロカラオケランキング585位 at 2020/10/8",
+    "note": "ボカロカラオケランキング585位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7614,7 +7614,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "ジターバグ / 蜂屋 ななし",
-    "note": "ボカロカラオケランキング586位 at 2020/10/8",
+    "note": "ボカロカラオケランキング586位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7627,7 +7627,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アザレアの亡霊 / トーマ",
-    "note": "ボカロカラオケランキング587位 at 2020/10/8",
+    "note": "ボカロカラオケランキング587位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7640,7 +7640,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "戯曲とデフォルメ都市 / まふまふ",
-    "note": "ボカロカラオケランキング588位 at 2020/10/8",
+    "note": "ボカロカラオケランキング588位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7653,7 +7653,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "グリグリメガネと月光蟲 / 古川本舗 feat. クワガタP",
-    "note": "ボカロカラオケランキング589位 at 2020/10/8",
+    "note": "ボカロカラオケランキング589位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7666,7 +7666,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "モノクロ ブルースカイ / のぼる↑feat.初音ミク",
-    "note": "ボカロカラオケランキング590位 at 2020/10/8",
+    "note": "ボカロカラオケランキング590位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7679,7 +7679,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "てんしょう しょうてんしょう / きくお",
-    "note": "ボカロカラオケランキング591位 at 2020/10/8",
+    "note": "ボカロカラオケランキング591位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7692,7 +7692,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "我楽多イノセンス / Last Note.",
-    "note": "ボカロカラオケランキング592位 at 2020/10/8",
+    "note": "ボカロカラオケランキング592位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7705,7 +7705,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ぼうけんのしょがきえました! / じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング593位 at 2020/10/8",
+    "note": "ボカロカラオケランキング593位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7718,7 +7718,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "君が飛び降りるのなら / Omoi feat.初音ミク",
-    "note": "ボカロカラオケランキング594位 at 2020/10/8",
+    "note": "ボカロカラオケランキング594位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7731,7 +7731,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ボニータ / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング595位 at 2020/10/8",
+    "note": "ボカロカラオケランキング595位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7744,7 +7744,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "EveR LastinG NighT / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング596位 at 2020/10/8",
+    "note": "ボカロカラオケランキング596位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7757,7 +7757,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "罰ゲーム / くるりんご feat.初音ミク＆GUMI",
-    "note": "ボカロカラオケランキング597位 at 2020/10/8",
+    "note": "ボカロカラオケランキング597位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7770,7 +7770,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "trick and treat / OSTER project",
-    "note": "ボカロカラオケランキング598位 at 2020/10/8",
+    "note": "ボカロカラオケランキング598位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7783,7 +7783,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "リスキーゲーム（「nero project」オリジナルMV） / nero project",
-    "note": "ボカロカラオケランキング599位 at 2020/10/8",
+    "note": "ボカロカラオケランキング599位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7796,7 +7796,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "想像フォレスト / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング600位 at 2020/10/8",
+    "note": "ボカロカラオケランキング600位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7809,7 +7809,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "からくり ばーすと / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング601位 at 2020/10/8",
+    "note": "ボカロカラオケランキング601位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7822,7 +7822,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "だんだん高くなる / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング602位 at 2020/10/8",
+    "note": "ボカロカラオケランキング602位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7835,7 +7835,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ラットが死んだ / P.I.N.A.feat.初音ミク",
-    "note": "ボカロカラオケランキング603位 at 2020/10/8",
+    "note": "ボカロカラオケランキング603位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7848,7 +7848,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "キラークイーン / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング604位 at 2020/10/8",
+    "note": "ボカロカラオケランキング604位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7861,7 +7861,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "アマツキツネ / まらしぃ feat.鏡音リン",
-    "note": "ボカロカラオケランキング605位 at 2020/10/8",
+    "note": "ボカロカラオケランキング605位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7874,7 +7874,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アストロノーツ / 椎名 もた feat.初音ミク",
-    "note": "ボカロカラオケランキング606位 at 2020/10/8",
+    "note": "ボカロカラオケランキング606位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7887,7 +7887,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Lust Blue / R Sound Design feat.逆音セシル",
-    "note": "ボカロカラオケランキング607位 at 2020/10/8",
+    "note": "ボカロカラオケランキング607位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7900,7 +7900,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "星屑ユートピア / otetsu feat.巡音ルカ",
-    "note": "ボカロカラオケランキング608位 at 2020/10/8",
+    "note": "ボカロカラオケランキング608位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7913,7 +7913,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "飛行少女 / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング609位 at 2020/10/8",
+    "note": "ボカロカラオケランキング609位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7926,7 +7926,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "ANTI THE HOLiC / Storyteller（GAiA×cosMo＠暴走P）feat.巡音ルカ/鏡音リン",
-    "note": "ボカロカラオケランキング610位 at 2020/10/8",
+    "note": "ボカロカラオケランキング610位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7939,7 +7939,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "サイハテ / 小林 オニキス",
-    "note": "ボカロカラオケランキング611位 at 2020/10/8",
+    "note": "ボカロカラオケランキング611位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7952,7 +7952,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "at home / 猫虫 feat.初音ミク",
-    "note": "ボカロカラオケランキング612位 at 2020/10/8",
+    "note": "ボカロカラオケランキング612位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7965,7 +7965,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "コノハの世界事情 / じん feat.初音ミク/IA",
-    "note": "ボカロカラオケランキング613位 at 2020/10/8",
+    "note": "ボカロカラオケランキング613位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7978,7 +7978,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドミノ倒シ / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング614位 at 2020/10/8",
+    "note": "ボカロカラオケランキング614位",
     "updated_at": "2020/11/17"
   },
   {
@@ -7991,7 +7991,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ハジメテノオト / malo feat.初音ミク",
-    "note": "ボカロカラオケランキング615位 at 2020/10/8",
+    "note": "ボカロカラオケランキング615位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8004,7 +8004,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪ノ召使（39's LIVE IN SAPPORO） / mothy＿悪ノP",
-    "note": "ボカロカラオケランキング616位 at 2020/10/8",
+    "note": "ボカロカラオケランキング616位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8017,7 +8017,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "みくみくにしてあげる♪ / ika＿mo feat.初音ミク",
-    "note": "ボカロカラオケランキング617位 at 2020/10/8",
+    "note": "ボカロカラオケランキング617位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8030,7 +8030,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "始発とカフカ / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング618位 at 2020/10/8",
+    "note": "ボカロカラオケランキング618位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8043,7 +8043,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "エイリアンエイリアン/DIVELA REMIX / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング619位 at 2020/10/8",
+    "note": "ボカロカラオケランキング619位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8056,7 +8056,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハッピーホロウと神様倶楽部 / ナノウ feat.初音ミク",
-    "note": "ボカロカラオケランキング620位 at 2020/10/8",
+    "note": "ボカロカラオケランキング620位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8069,7 +8069,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "死にたがり / 梨本 うい feat.初音ミク",
-    "note": "ボカロカラオケランキング621位 at 2020/10/8",
+    "note": "ボカロカラオケランキング621位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8082,7 +8082,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "じんヒットソングメドレー / じん",
-    "note": "ボカロカラオケランキング622位 at 2020/10/8",
+    "note": "ボカロカラオケランキング622位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8095,7 +8095,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "初音ミクの暴走 / cosMo＠暴走P feat.初音ミク",
-    "note": "ボカロカラオケランキング623位 at 2020/10/8",
+    "note": "ボカロカラオケランキング623位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8108,7 +8108,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "愛ト茄子ト平和ナ果実 / saiB",
-    "note": "ボカロカラオケランキング624位 at 2020/10/8",
+    "note": "ボカロカラオケランキング624位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8121,7 +8121,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "恋愛フィロソフィア / 黒うさP feat.初音ミク",
-    "note": "ボカロカラオケランキング625位 at 2020/10/8",
+    "note": "ボカロカラオケランキング625位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8134,7 +8134,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "ODDS＆ENDS（Opening Version） / ryo（supercell） feat.初音ミク",
-    "note": "ボカロカラオケランキング626位 at 2020/10/8",
+    "note": "ボカロカラオケランキング626位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8147,7 +8147,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Good Morning，Polar Night / yukkedoluce feat.初音ミク",
-    "note": "ボカロカラオケランキング627位 at 2020/10/8",
+    "note": "ボカロカラオケランキング627位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8160,7 +8160,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "rabbit / john feat.初音ミク",
-    "note": "ボカロカラオケランキング628位 at 2020/10/8",
+    "note": "ボカロカラオケランキング628位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8173,7 +8173,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "メランコリック（39's LIVE IN SAPPORO） / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング629位 at 2020/10/8",
+    "note": "ボカロカラオケランキング629位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8186,7 +8186,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ネガティブ進化論 / DECO*27",
-    "note": "ボカロカラオケランキング630位 at 2020/10/8",
+    "note": "ボカロカラオケランキング630位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8199,7 +8199,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "1/6−genesis mix− / ぼーかりおどP（noa） feat.初音ミク",
-    "note": "ボカロカラオケランキング631位 at 2020/10/8",
+    "note": "ボカロカラオケランキング631位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8212,7 +8212,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "初めての恋が終わる時 （Game Version） / supercell",
-    "note": "ボカロカラオケランキング632位 at 2020/10/8",
+    "note": "ボカロカラオケランキング632位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8225,7 +8225,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "Child's Garden / otetsu feat.巡音ルカ",
-    "note": "ボカロカラオケランキング633位 at 2020/10/8",
+    "note": "ボカロカラオケランキング633位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8238,7 +8238,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "soundless voice / ひとしずくP",
-    "note": "ボカロカラオケランキング634位 at 2020/10/8",
+    "note": "ボカロカラオケランキング634位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8251,7 +8251,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "magic city / koyori（電ポルP） feat.flower",
-    "note": "ボカロカラオケランキング635位 at 2020/10/8",
+    "note": "ボカロカラオケランキング635位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8264,7 +8264,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "二次元ドリームフィーバー / PolyphonicBranch feat.初音ミク",
-    "note": "ボカロカラオケランキング636位 at 2020/10/8",
+    "note": "ボカロカラオケランキング636位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8277,7 +8277,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "キミノカゼニナル / のぼる↑",
-    "note": "ボカロカラオケランキング637位 at 2020/10/8",
+    "note": "ボカロカラオケランキング637位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8290,7 +8290,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "シリョクケンサ（「少年と魔法のロボット」背景） / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング638位 at 2020/10/8",
+    "note": "ボカロカラオケランキング638位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8303,7 +8303,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "REVOLVER / 奏音69 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング639位 at 2020/10/8",
+    "note": "ボカロカラオケランキング639位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8316,7 +8316,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "文学少年の憂鬱 / Lyu：Lyu",
-    "note": "ボカロカラオケランキング640位 at 2020/10/8",
+    "note": "ボカロカラオケランキング640位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8329,7 +8329,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://hachiyananashi.wixsite.com/beeshop/blank",
     "credit": "シャボン / 蜂屋 ななし feat.初音ミク",
-    "note": "ボカロカラオケランキング641位 at 2020/10/8",
+    "note": "ボカロカラオケランキング641位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8342,7 +8342,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マッシュルームマザー / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング642位 at 2020/10/8",
+    "note": "ボカロカラオケランキング642位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8355,7 +8355,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "かなしみのなみにおぼれる / Neru feat.鏡音レン",
-    "note": "ボカロカラオケランキング643位 at 2020/10/8",
+    "note": "ボカロカラオケランキング643位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8368,7 +8368,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "波に名前をつけること、僕らの呼吸に終わりがあること。 / こんにちは谷田さん",
-    "note": "ボカロカラオケランキング644位 at 2020/10/8",
+    "note": "ボカロカラオケランキング644位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8381,7 +8381,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "仇返しシンドローム / まふまふ",
-    "note": "ボカロカラオケランキング645位 at 2020/10/8",
+    "note": "ボカロカラオケランキング645位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8394,7 +8394,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "タワー / KEI feat.巡音ルカ",
-    "note": "ボカロカラオケランキング646位 at 2020/10/8",
+    "note": "ボカロカラオケランキング646位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8407,7 +8407,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "トゥインクル / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング647位 at 2020/10/8",
+    "note": "ボカロカラオケランキング647位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8420,7 +8420,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "鏡音八八花合戦 / モジャP feat.鏡音 リン/鏡音 レン",
-    "note": "ボカロカラオケランキング648位 at 2020/10/8",
+    "note": "ボカロカラオケランキング648位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8433,7 +8433,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "怪盗Fの台本〜消えたダイヤの謎〜 / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング649位 at 2020/10/8",
+    "note": "ボカロカラオケランキング649位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8446,7 +8446,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "KiLLER LADY / 八王子P feat.GUMI",
-    "note": "ボカロカラオケランキング650位 at 2020/10/8",
+    "note": "ボカロカラオケランキング650位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8459,7 +8459,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ポッピンキャンディ☆フィーバー! / キノシタ feat.音街ウナ/鏡音リン",
-    "note": "ボカロカラオケランキング651位 at 2020/10/8",
+    "note": "ボカロカラオケランキング651位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8472,7 +8472,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ダンシング☆サムライ / かにみそP feat.神威がくぽ",
-    "note": "ボカロカラオケランキング652位 at 2020/10/8",
+    "note": "ボカロカラオケランキング652位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8485,7 +8485,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夢と葉桜 / 青木 月光",
-    "note": "ボカロカラオケランキング653位 at 2020/10/8",
+    "note": "ボカロカラオケランキング653位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8498,7 +8498,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "四季刻歌 / 綿飴 feat.IA",
-    "note": "ボカロカラオケランキング654位 at 2020/10/8",
+    "note": "ボカロカラオケランキング654位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8511,7 +8511,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "狂う獣 / ミスミ feat.初音ミク",
-    "note": "ボカロカラオケランキング655位 at 2020/10/8",
+    "note": "ボカロカラオケランキング655位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8524,7 +8524,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "欲浴 / 一二三 feat.音街ウナ",
-    "note": "ボカロカラオケランキング656位 at 2020/10/8",
+    "note": "ボカロカラオケランキング656位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8537,7 +8537,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "letter song / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング657位 at 2020/10/8",
+    "note": "ボカロカラオケランキング657位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8550,7 +8550,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アウト オブ エデン / Kouhei feat.鏡音レン",
-    "note": "ボカロカラオケランキング658位 at 2020/10/8",
+    "note": "ボカロカラオケランキング658位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8563,7 +8563,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "青 / 164 feat.MAYU",
-    "note": "ボカロカラオケランキング659位 at 2020/10/8",
+    "note": "ボカロカラオケランキング659位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8576,7 +8576,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "少年少女カメレオンシンプトム / Neru feat.鏡音リン",
-    "note": "ボカロカラオケランキング660位 at 2020/10/8",
+    "note": "ボカロカラオケランキング660位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8589,7 +8589,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "福寿草 / 10兆憶万円/ぐにょ feat.初音ミク",
-    "note": "ボカロカラオケランキング661位 at 2020/10/8",
+    "note": "ボカロカラオケランキング661位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8602,7 +8602,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "VOiCE / ラヴリーP",
-    "note": "ボカロカラオケランキング662位 at 2020/10/8",
+    "note": "ボカロカラオケランキング662位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8615,7 +8615,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "少年ブレイヴ / じん feat.IA",
-    "note": "ボカロカラオケランキング663位 at 2020/10/8",
+    "note": "ボカロカラオケランキング663位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8628,7 +8628,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "失想ワアド / じん feat.初音ミク",
-    "note": "ボカロカラオケランキング664位 at 2020/10/8",
+    "note": "ボカロカラオケランキング664位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8641,7 +8641,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "猫の食卓 / きくお feat.初音ミク",
-    "note": "ボカロカラオケランキング665位 at 2020/10/8",
+    "note": "ボカロカラオケランキング665位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8654,7 +8654,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "鏡音 レンの暴走 / cosMo＠暴走P feat.鏡音レン",
-    "note": "ボカロカラオケランキング666位 at 2020/10/8",
+    "note": "ボカロカラオケランキング666位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8667,7 +8667,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "粘着系男子の15年ネチネチ / 家の裏でマンボウが死んでるP feat.初音ミク",
-    "note": "ボカロカラオケランキング667位 at 2020/10/8",
+    "note": "ボカロカラオケランキング667位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8680,7 +8680,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ルーマー / ポリスピカデリー feat.GUMI",
-    "note": "ボカロカラオケランキング668位 at 2020/10/8",
+    "note": "ボカロカラオケランキング668位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8693,7 +8693,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "翡翠のまち / メル feat.初音ミク",
-    "note": "ボカロカラオケランキング669位 at 2020/10/8",
+    "note": "ボカロカラオケランキング669位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8706,7 +8706,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "rain stops， good−bye / におP feat.初音ミク",
-    "note": "ボカロカラオケランキング670位 at 2020/10/8",
+    "note": "ボカロカラオケランキング670位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8719,7 +8719,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "ヤキモチの答え / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング671位 at 2020/10/8",
+    "note": "ボカロカラオケランキング671位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8732,7 +8732,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "トラッシュ・アンド・トラッシュ! / くらげP feat.鏡音リン",
-    "note": "ボカロカラオケランキング672位 at 2020/10/8",
+    "note": "ボカロカラオケランキング672位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8745,7 +8745,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サンドリヨン 10th Anniversary / Dios/シグナルP feat.初音ミク/KAITO",
-    "note": "ボカロカラオケランキング673位 at 2020/10/8",
+    "note": "ボカロカラオケランキング673位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8758,7 +8758,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スイートフロートアパート / 家の裏でマンボウが死んでるP feat.GUMI",
-    "note": "ボカロカラオケランキング674位 at 2020/10/8",
+    "note": "ボカロカラオケランキング674位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8771,7 +8771,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "背徳の花 / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング675位 at 2020/10/8",
+    "note": "ボカロカラオケランキング675位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8784,7 +8784,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ローリンガール（ミクパ♪2012） / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング676位 at 2020/10/8",
+    "note": "ボカロカラオケランキング676位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8797,7 +8797,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "チーズケーキクライシス / TOKOTOKO（西沢さんP） feat.GUMI",
-    "note": "ボカロカラオケランキング677位 at 2020/10/8",
+    "note": "ボカロカラオケランキング677位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8810,7 +8810,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "十三番目の黙示録 / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング678位 at 2020/10/8",
+    "note": "ボカロカラオケランキング678位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8823,7 +8823,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "トゥルティンアンテナ / レタスP feat.鏡音レン",
-    "note": "ボカロカラオケランキング679位 at 2020/10/8",
+    "note": "ボカロカラオケランキング679位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8836,7 +8836,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "KILLER B / 梅とら feat.巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
-    "note": "ボカロカラオケランキング680位 at 2020/10/8",
+    "note": "ボカロカラオケランキング680位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8849,7 +8849,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ピアノ×フォルテ×スキャンダル / OSTER project feat.MEIKO",
-    "note": "ボカロカラオケランキング681位 at 2020/10/8",
+    "note": "ボカロカラオケランキング681位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8862,7 +8862,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "結い傷な / 一二三 feat.音街ウナ",
-    "note": "ボカロカラオケランキング682位 at 2020/10/8",
+    "note": "ボカロカラオケランキング682位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8875,7 +8875,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハイファイレイヴァー / EasyPop feat.巡音ルカ＆初音ミク＆GUMI",
-    "note": "ボカロカラオケランキング683位 at 2020/10/8",
+    "note": "ボカロカラオケランキング683位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8888,7 +8888,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヘドニストの幸福な食卓 / TaKU.K feat.GUMI",
-    "note": "ボカロカラオケランキング684位 at 2020/10/8",
+    "note": "ボカロカラオケランキング684位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8901,7 +8901,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "In the name of God / ROY feat.神威がくぽ",
-    "note": "ボカロカラオケランキング685位 at 2020/10/8",
+    "note": "ボカロカラオケランキング685位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8914,7 +8914,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハイファイレイヴァー / EasyPop feat.初音ミク/巡音ルカ/GUMI",
-    "note": "ボカロカラオケランキング686位 at 2020/10/8",
+    "note": "ボカロカラオケランキング686位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8927,7 +8927,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "きっとこの命に意味は無かった / こんにちは谷田さん",
-    "note": "ボカロカラオケランキング687位 at 2020/10/8",
+    "note": "ボカロカラオケランキング687位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8940,7 +8940,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ぽっぴっぽー / ラマーズP feat.初音ミク",
-    "note": "ボカロカラオケランキング688位 at 2020/10/8",
+    "note": "ボカロカラオケランキング688位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8953,7 +8953,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "メグメグ☆ファイアーエンドレスナイト / samfree",
-    "note": "ボカロカラオケランキング689位 at 2020/10/8",
+    "note": "ボカロカラオケランキング689位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8966,7 +8966,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "jewel / 梅とら feat.巡音ルカ＆初音ミク＆GUMI＆IA＆鏡音リン",
-    "note": "ボカロカラオケランキング690位 at 2020/10/8",
+    "note": "ボカロカラオケランキング690位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8979,7 +8979,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "刹那プラス / ミキト（みきとP） feat.初音ミク",
-    "note": "ボカロカラオケランキング691位 at 2020/10/8",
+    "note": "ボカロカラオケランキング691位",
     "updated_at": "2020/11/17"
   },
   {
@@ -8992,7 +8992,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "Twilight nighT / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング692位 at 2020/10/8",
+    "note": "ボカロカラオケランキング692位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9005,7 +9005,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "千本桜（Game Version） / WhiteFlame feat.初音ミク",
-    "note": "ボカロカラオケランキング693位 at 2020/10/8",
+    "note": "ボカロカラオケランキング693位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9018,7 +9018,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "カンタレラ〜grace edition〜（「nero project」オリジナルMV）（原曲カラオケ / nero project",
-    "note": "ボカロカラオケランキング694位 at 2020/10/8",
+    "note": "ボカロカラオケランキング694位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9031,7 +9031,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "誰かのヒーローになりたかった / 傘村トータ feat.IA/結月ゆかり",
-    "note": "ボカロカラオケランキング695位 at 2020/10/8",
+    "note": "ボカロカラオケランキング695位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9044,7 +9044,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "裏表ラバーズ（最後のミクの日感謝祭） / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング696位 at 2020/10/8",
+    "note": "ボカロカラオケランキング696位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9057,7 +9057,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "告白ライバル宣言 / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング697位 at 2020/10/8",
+    "note": "ボカロカラオケランキング697位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9070,7 +9070,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "狐ノ嫁入リ / OSTER project feat.鏡音リン",
-    "note": "ボカロカラオケランキング698位 at 2020/10/8",
+    "note": "ボカロカラオケランキング698位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9083,7 +9083,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "再演 / RINGO feat.音街ウナ/GUMI",
-    "note": "ボカロカラオケランキング699位 at 2020/10/8",
+    "note": "ボカロカラオケランキング699位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9096,7 +9096,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Baby Maniacs / 八王子P feat.初音ミク",
-    "note": "ボカロカラオケランキング700位 at 2020/10/8",
+    "note": "ボカロカラオケランキング700位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9109,7 +9109,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "どうぶつ占い / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング701位 at 2020/10/8",
+    "note": "ボカロカラオケランキング701位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9122,7 +9122,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "39みゅーじっく! / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング702位 at 2020/10/8",
+    "note": "ボカロカラオケランキング702位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9135,7 +9135,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ぽかぽかの星 / はるまきごはん feat.初音ミク",
-    "note": "ボカロカラオケランキング703位 at 2020/10/8",
+    "note": "ボカロカラオケランキング703位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9148,7 +9148,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダーリンダンス / かいりきベア feat.初音ミク",
-    "note": "ボカロカラオケランキング704位 at 2020/10/8",
+    "note": "ボカロカラオケランキング704位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9161,7 +9161,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "チョコレートミルク / あぷえら",
-    "note": "ボカロカラオケランキング705位 at 2020/10/8",
+    "note": "ボカロカラオケランキング705位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9174,7 +9174,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "ヨンジュウナナ / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング706位 at 2020/10/8",
+    "note": "ボカロカラオケランキング706位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9187,7 +9187,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アヤノの幸福理論 / じん feat.IA",
-    "note": "ボカロカラオケランキング707位 at 2020/10/8",
+    "note": "ボカロカラオケランキング707位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9200,7 +9200,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "トーデス・トリープ / ユリイ・カノン feat.GUMI",
-    "note": "ボカロカラオケランキング708位 at 2020/10/8",
+    "note": "ボカロカラオケランキング708位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9213,7 +9213,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ラブアトミック・トランスファー / 蝶々P feat.初音ミク",
-    "note": "ボカロカラオケランキング709位 at 2020/10/8",
+    "note": "ボカロカラオケランキング709位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9226,7 +9226,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "全く身にならないソング / レトルト×キヨ×露吐 feat.結月ゆかり",
-    "note": "ボカロカラオケランキング710位 at 2020/10/8",
+    "note": "ボカロカラオケランキング710位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9239,7 +9239,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "カムパネルラ / sasakure.UK",
-    "note": "ボカロカラオケランキング711位 at 2020/10/8",
+    "note": "ボカロカラオケランキング711位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9252,7 +9252,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "戯言の雑音 / しとお feat.初音ミク",
-    "note": "ボカロカラオケランキング712位 at 2020/10/8",
+    "note": "ボカロカラオケランキング712位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9265,7 +9265,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "少女ケシゴム / MARETU feat.初音ミク、GUMI",
-    "note": "ボカロカラオケランキング713位 at 2020/10/8",
+    "note": "ボカロカラオケランキング713位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9278,7 +9278,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "音偽バナシ / DECO*27",
-    "note": "ボカロカラオケランキング714位 at 2020/10/8",
+    "note": "ボカロカラオケランキング714位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9291,7 +9291,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "過食性アイドル症候群 / スズム feat.GUMI/MAYU",
-    "note": "ボカロカラオケランキング715位 at 2020/10/8",
+    "note": "ボカロカラオケランキング715位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9304,7 +9304,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "グラーヴェ / niki feat.初音ミク",
-    "note": "ボカロカラオケランキング716位 at 2020/10/8",
+    "note": "ボカロカラオケランキング716位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9317,7 +9317,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "魔法少女幸福論 / トーマ",
-    "note": "ボカロカラオケランキング717位 at 2020/10/8",
+    "note": "ボカロカラオケランキング717位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9330,7 +9330,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ANNA NO MUSICA / 煮ル果実",
-    "note": "ボカロカラオケランキング718位 at 2020/10/8",
+    "note": "ボカロカラオケランキング718位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9343,7 +9343,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "二息歩行（Reloaded） / DECO*27",
-    "note": "ボカロカラオケランキング719位 at 2020/10/8",
+    "note": "ボカロカラオケランキング719位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9356,7 +9356,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "チチンプイプイ / 真島ゆろ feat.flower/初音ミク",
-    "note": "ボカロカラオケランキング720位 at 2020/10/8",
+    "note": "ボカロカラオケランキング720位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9369,7 +9369,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "キリトリセン（「少年と魔法のロボット」背景） / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング721位 at 2020/10/8",
+    "note": "ボカロカラオケランキング721位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9382,7 +9382,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "背徳の記憶〜The Lost Memory〜 / SCL Project（natsuP）feat.VanaN'Ice",
-    "note": "ボカロカラオケランキング722位 at 2020/10/8",
+    "note": "ボカロカラオケランキング722位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9395,7 +9395,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "劇場愛歌 / n−buna feat.miki",
-    "note": "ボカロカラオケランキング723位 at 2020/10/8",
+    "note": "ボカロカラオケランキング723位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9408,7 +9408,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "祈りはからっぽ / ぬゆり feat.flower/結月ゆかり",
-    "note": "ボカロカラオケランキング724位 at 2020/10/8",
+    "note": "ボカロカラオケランキング724位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9421,7 +9421,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "Palette / ゆよゆっぺ feat.巡音ルカ",
-    "note": "ボカロカラオケランキング725位 at 2020/10/8",
+    "note": "ボカロカラオケランキング725位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9434,7 +9434,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "乙女解剖 （TeddyLoid Alllies Remix） / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング726位 at 2020/10/8",
+    "note": "ボカロカラオケランキング726位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9447,7 +9447,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "十面相 colorful ver. / YM feat.GUMI",
-    "note": "ボカロカラオケランキング727位 at 2020/10/8",
+    "note": "ボカロカラオケランキング727位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9460,7 +9460,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "タイガーランペイジ / sasakure.UK",
-    "note": "ボカロカラオケランキング728位 at 2020/10/8",
+    "note": "ボカロカラオケランキング728位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9473,7 +9473,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "龍ノ啼ク箱庭拠リ / 弱音P",
-    "note": "ボカロカラオケランキング729位 at 2020/10/8",
+    "note": "ボカロカラオケランキング729位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9486,7 +9486,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "紅一葉 / 黒うさP feat.巡音ルカ",
-    "note": "ボカロカラオケランキング730位 at 2020/10/8",
+    "note": "ボカロカラオケランキング730位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9499,7 +9499,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "四季折の羽 / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング731位 at 2020/10/8",
+    "note": "ボカロカラオケランキング731位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9512,7 +9512,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ロストエンファウンド / sasakure.UK",
-    "note": "ボカロカラオケランキング732位 at 2020/10/8",
+    "note": "ボカロカラオケランキング732位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9525,7 +9525,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ハロー、プラネット。 / sasakure.UK feat.初音ミク",
-    "note": "ボカロカラオケランキング733位 at 2020/10/8",
+    "note": "ボカロカラオケランキング733位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9538,7 +9538,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "LOVE DOLL / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング734位 at 2020/10/8",
+    "note": "ボカロカラオケランキング734位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9551,7 +9551,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "大切な人たちへ / 傘村トータ feat.初音ミク",
-    "note": "ボカロカラオケランキング735位 at 2020/10/8",
+    "note": "ボカロカラオケランキング735位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9564,7 +9564,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "林檎花火とソーダの海 / まふまふ",
-    "note": "ボカロカラオケランキング736位 at 2020/10/8",
+    "note": "ボカロカラオケランキング736位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9577,7 +9577,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "またあした / ふわりP feat.初音ミク",
-    "note": "ボカロカラオケランキング737位 at 2020/10/8",
+    "note": "ボカロカラオケランキング737位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9590,7 +9590,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ワンダーラスト / sasakure.UK feat.巡音ルカ",
-    "note": "ボカロカラオケランキング738位 at 2020/10/8",
+    "note": "ボカロカラオケランキング738位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9603,7 +9603,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "唯々なりレイデエ / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング739位 at 2020/10/8",
+    "note": "ボカロカラオケランキング739位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9616,7 +9616,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マディ・マーマレード / 煮ル果実",
-    "note": "ボカロカラオケランキング740位 at 2020/10/8",
+    "note": "ボカロカラオケランキング740位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9629,7 +9629,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アクアリウム / 喜兵衛 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング741位 at 2020/10/8",
+    "note": "ボカロカラオケランキング741位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9642,7 +9642,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "海賊Fの肖像 / ひとしずくP feat.鏡音レン",
-    "note": "ボカロカラオケランキング742位 at 2020/10/8",
+    "note": "ボカロカラオケランキング742位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9655,7 +9655,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "恋人のランジェ / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング743位 at 2020/10/8",
+    "note": "ボカロカラオケランキング743位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9668,7 +9668,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ロストアンブレラ / 稲葉 曇 feat.歌愛ユキ",
-    "note": "ボカロカラオケランキング744位 at 2020/10/8",
+    "note": "ボカロカラオケランキング744位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9681,7 +9681,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "アカイト / みきとP feat.初音ミク",
-    "note": "ボカロカラオケランキング745位 at 2020/10/8",
+    "note": "ボカロカラオケランキング745位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9694,7 +9694,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "病名恋ワズライ / HoneyWorks feat.GUMI",
-    "note": "ボカロカラオケランキング746位 at 2020/10/8",
+    "note": "ボカロカラオケランキング746位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9707,7 +9707,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "馬鹿はアノマリーに憧れる（「悪巫山戯」背景） / 鬱P",
-    "note": "ボカロカラオケランキング747位 at 2020/10/8",
+    "note": "ボカロカラオケランキング747位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9720,7 +9720,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "祭りだヘイカモン / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング748位 at 2020/10/8",
+    "note": "ボカロカラオケランキング748位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9733,7 +9733,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "S・K・Y / ライブP feat.鏡音リン",
-    "note": "ボカロカラオケランキング749位 at 2020/10/8",
+    "note": "ボカロカラオケランキング749位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9746,7 +9746,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコミュニティプロフィールに記載",
     "credit": "東京サマーセッション / HoneyWorks feat.GUMI/flower",
-    "note": "ボカロカラオケランキング750位 at 2020/10/8",
+    "note": "ボカロカラオケランキング750位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9759,7 +9759,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "エゴイスト / 大沼 パセリ",
-    "note": "ボカロカラオケランキング751位 at 2020/10/8",
+    "note": "ボカロカラオケランキング751位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9772,7 +9772,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "九龍イドラ（「アザレアの心臓」背景） / トーマ",
-    "note": "ボカロカラオケランキング752位 at 2020/10/8",
+    "note": "ボカロカラオケランキング752位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9785,7 +9785,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ラクガキスト / cosMo＠暴走P feat.GUMI",
-    "note": "ボカロカラオケランキング753位 at 2020/10/8",
+    "note": "ボカロカラオケランキング753位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9798,7 +9798,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "低音厨音域テスト / 木村わいP feat.初音ミク",
-    "note": "ボカロカラオケランキング754位 at 2020/10/8",
+    "note": "ボカロカラオケランキング754位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9811,7 +9811,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "病棟305号室 / ハチ feat.初音ミク",
-    "note": "ボカロカラオケランキング755位 at 2020/10/8",
+    "note": "ボカロカラオケランキング755位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9824,7 +9824,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "サディスティック・ラブ / Junky feat.鏡音リン",
-    "note": "ボカロカラオケランキング756位 at 2020/10/8",
+    "note": "ボカロカラオケランキング756位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9837,7 +9837,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "才能シュレッダー / ナナホシ管弦楽団 feat.初音ミク",
-    "note": "ボカロカラオケランキング757位 at 2020/10/8",
+    "note": "ボカロカラオケランキング757位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9850,7 +9850,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "お前がメシにありつくなど56876423年早いわ / SLAVE.V−V−R feat.結月ゆかり",
-    "note": "ボカロカラオケランキング758位 at 2020/10/8",
+    "note": "ボカロカラオケランキング758位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9863,7 +9863,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "はじめまして地球人さん / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング759位 at 2020/10/8",
+    "note": "ボカロカラオケランキング759位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9876,7 +9876,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "テノヒラ / wowaka feat.初音ミク",
-    "note": "ボカロカラオケランキング760位 at 2020/10/8",
+    "note": "ボカロカラオケランキング760位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9889,7 +9889,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "白ゆき / n−buna feat.初音ミク",
-    "note": "ボカロカラオケランキング761位 at 2020/10/8",
+    "note": "ボカロカラオケランキング761位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9902,7 +9902,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://supercell.com/en/fan-content-policy/jp/",
     "credit": "嘘つきのパレード / supercell",
-    "note": "ボカロカラオケランキング762位 at 2020/10/8",
+    "note": "ボカロカラオケランキング762位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9915,7 +9915,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Nostalogic / yuukiss feat.MEIKO",
-    "note": "ボカロカラオケランキング763位 at 2020/10/8",
+    "note": "ボカロカラオケランキング763位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9928,7 +9928,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "Hello，Worker（マジカルミライ2013） / KEI feat.巡音ルカ",
-    "note": "ボカロカラオケランキング764位 at 2020/10/8",
+    "note": "ボカロカラオケランキング764位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9941,7 +9941,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "恋色病棟 / OSTER project feat.初音ミク",
-    "note": "ボカロカラオケランキング765位 at 2020/10/8",
+    "note": "ボカロカラオケランキング765位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9954,7 +9954,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Corruption / 大沼 パセリ",
-    "note": "ボカロカラオケランキング766位 at 2020/10/8",
+    "note": "ボカロカラオケランキング766位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9967,7 +9967,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "心壊サミット / DECO*27",
-    "note": "ボカロカラオケランキング767位 at 2020/10/8",
+    "note": "ボカロカラオケランキング767位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9980,7 +9980,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スパークガールシンドローム / 日向電工 feat.初音ミク",
-    "note": "ボカロカラオケランキング768位 at 2020/10/8",
+    "note": "ボカロカラオケランキング768位",
     "updated_at": "2020/11/17"
   },
   {
@@ -9993,7 +9993,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リリリリ★バーニングナイト（DR PV ver.） / DANCEROID",
-    "note": "ボカロカラオケランキング769位 at 2020/10/8",
+    "note": "ボカロカラオケランキング769位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10006,7 +10006,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジッタードール / niki feat.Lily",
-    "note": "ボカロカラオケランキング770位 at 2020/10/8",
+    "note": "ボカロカラオケランキング770位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10019,7 +10019,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ゆめゆめ / DECO*27",
-    "note": "ボカロカラオケランキング771位 at 2020/10/8",
+    "note": "ボカロカラオケランキング771位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10032,7 +10032,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "メグメグ☆ファイアーエンドレスナイト（DR PV ver.） / DANCEROID",
-    "note": "ボカロカラオケランキング772位 at 2020/10/8",
+    "note": "ボカロカラオケランキング772位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10045,7 +10045,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ダンシング☆サムライ / mathru（かにみそP） feat.神威がくぽ",
-    "note": "ボカロカラオケランキング773位 at 2020/10/8",
+    "note": "ボカロカラオケランキング773位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10058,7 +10058,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "二息歩行（39's LIVE IN SAPPORO） / DECO*27",
-    "note": "ボカロカラオケランキング774位 at 2020/10/8",
+    "note": "ボカロカラオケランキング774位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10071,7 +10071,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "迷々 / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング775位 at 2020/10/8",
+    "note": "ボカロカラオケランキング775位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10084,7 +10084,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "思春期少年少女 / 砂粒 feat.GUMI",
-    "note": "ボカロカラオケランキング776位 at 2020/10/8",
+    "note": "ボカロカラオケランキング776位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10097,7 +10097,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "自由に捕らわれる / カンザキイオリ",
-    "note": "ボカロカラオケランキング777位 at 2020/10/8",
+    "note": "ボカロカラオケランキング777位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10110,7 +10110,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "すきなことだけでいいです / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング778位 at 2020/10/8",
+    "note": "ボカロカラオケランキング778位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10123,7 +10123,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "クソみたいなJ−POP / 梨本 うい feat.初音ミク",
-    "note": "ボカロカラオケランキング779位 at 2020/10/8",
+    "note": "ボカロカラオケランキング779位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10136,7 +10136,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "脱げばいいってモンじゃない! / デッドボールP loves 初音ミク",
-    "note": "ボカロカラオケランキング780位 at 2020/10/8",
+    "note": "ボカロカラオケランキング780位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10149,7 +10149,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/mikito_p_/status/975978882078621696?s=20",
     "credit": "クノイチでも恋がしたい / みきとP feat.初音ミク/鏡音リン",
-    "note": "ボカロカラオケランキング781位 at 2020/10/8",
+    "note": "ボカロカラオケランキング781位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10162,7 +10162,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "野狗子 / Peg feat.心華",
-    "note": "ボカロカラオケランキング782位 at 2020/10/8",
+    "note": "ボカロカラオケランキング782位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10175,7 +10175,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "木星のビート / ナユタン星人",
-    "note": "ボカロカラオケランキング783位 at 2020/10/8",
+    "note": "ボカロカラオケランキング783位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10188,7 +10188,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マチガイサガシ / まふまふ",
-    "note": "ボカロカラオケランキング784位 at 2020/10/8",
+    "note": "ボカロカラオケランキング784位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10201,7 +10201,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "みくみくにしてあげる♪（してやんよ）（ミクパ♪2012） / ika＿mo feat.初音ミク",
-    "note": "ボカロカラオケランキング785位 at 2020/10/8",
+    "note": "ボカロカラオケランキング785位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10214,7 +10214,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "秘密警察 / ぶりる feat.初音ミク",
-    "note": "ボカロカラオケランキング786位 at 2020/10/8",
+    "note": "ボカロカラオケランキング786位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10227,7 +10227,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ドロシー / ミスミ feat.flower",
-    "note": "ボカロカラオケランキング787位 at 2020/10/8",
+    "note": "ボカロカラオケランキング787位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10240,7 +10240,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "チェックメイト / ゆちゃP feat.GUMI",
-    "note": "ボカロカラオケランキング788位 at 2020/10/8",
+    "note": "ボカロカラオケランキング788位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10253,7 +10253,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "エンコー少女 / 梨本 うい feat.初音ミク",
-    "note": "ボカロカラオケランキング789位 at 2020/10/8",
+    "note": "ボカロカラオケランキング789位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10266,7 +10266,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ひよこと天秤 / ふる feat.初音ミク",
-    "note": "ボカロカラオケランキング790位 at 2020/10/8",
+    "note": "ボカロカラオケランキング790位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10279,7 +10279,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "世界の真ん中を歩く / 夏代 孝明",
-    "note": "ボカロカラオケランキング791位 at 2020/10/8",
+    "note": "ボカロカラオケランキング791位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10292,7 +10292,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Alice in Musicland / OSTER project feat.初音ミク＆鏡音リン＆鏡音レン＆巡音ルカ＆KAITO＆MEIKO",
-    "note": "ボカロカラオケランキング792位 at 2020/10/8",
+    "note": "ボカロカラオケランキング792位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10305,7 +10305,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "むかしむかしのきょうのぼく / DECO*27",
-    "note": "ボカロカラオケランキング793位 at 2020/10/8",
+    "note": "ボカロカラオケランキング793位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10318,7 +10318,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "イーガー・ビリーバー / アヒル軍曹P feat.鏡音リン",
-    "note": "ボカロカラオケランキング794位 at 2020/10/8",
+    "note": "ボカロカラオケランキング794位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10331,7 +10331,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "夢花火 / まふまふ",
-    "note": "ボカロカラオケランキング795位 at 2020/10/8",
+    "note": "ボカロカラオケランキング795位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10344,7 +10344,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "METEOR / DIVELA feat.初音ミク",
-    "note": "ボカロカラオケランキング796位 at 2020/10/8",
+    "note": "ボカロカラオケランキング796位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10357,7 +10357,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Alice / 古川本舗",
-    "note": "ボカロカラオケランキング797位 at 2020/10/8",
+    "note": "ボカロカラオケランキング797位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10370,7 +10370,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リンカーネイション / kemu",
-    "note": "ボカロカラオケランキング798位 at 2020/10/8",
+    "note": "ボカロカラオケランキング798位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10383,7 +10383,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "アダルトチルドレン / カンザキイオリ",
-    "note": "ボカロカラオケランキング799位 at 2020/10/8",
+    "note": "ボカロカラオケランキング799位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10396,7 +10396,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "愛に奇術師 / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング800位 at 2020/10/8",
+    "note": "ボカロカラオケランキング800位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10409,7 +10409,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "祝福のメシアとアイの塔 / ひとしずくP×やま△ feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO/他",
-    "note": "ボカロカラオケランキング801位 at 2020/10/8",
+    "note": "ボカロカラオケランキング801位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10422,7 +10422,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ツギハギ惨毒 / マチゲリータ feat.初音ミク",
-    "note": "ボカロカラオケランキング802位 at 2020/10/8",
+    "note": "ボカロカラオケランキング802位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10435,7 +10435,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アンハッピーバースデイ / かいりきベア feat.初音ミク",
-    "note": "ボカロカラオケランキング803位 at 2020/10/8",
+    "note": "ボカロカラオケランキング803位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10448,7 +10448,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "からっぽのまにまに / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング804位 at 2020/10/8",
+    "note": "ボカロカラオケランキング804位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10461,7 +10461,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "LaLaL危 / 梅とら",
-    "note": "ボカロカラオケランキング805位 at 2020/10/8",
+    "note": "ボカロカラオケランキング805位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10474,7 +10474,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ブラインド・エゴイスト / TaKU.K feat.鏡音リン",
-    "note": "ボカロカラオケランキング806位 at 2020/10/8",
+    "note": "ボカロカラオケランキング806位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10487,7 +10487,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "愛に奇術師（「World on Color」背景） / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング807位 at 2020/10/8",
+    "note": "ボカロカラオケランキング807位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10500,7 +10500,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "神曲 / R Sound Design feat.初音ミク",
-    "note": "ボカロカラオケランキング808位 at 2020/10/8",
+    "note": "ボカロカラオケランキング808位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10513,7 +10513,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://iso-iso.cocolog-nifty.com/blog/2011/07/post-2561-1.html",
     "credit": "袖触れ合うも他生の縁 / 磯P feat.初音ミク",
-    "note": "ボカロカラオケランキング809位 at 2020/10/8",
+    "note": "ボカロカラオケランキング809位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10526,7 +10526,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "週刊少年バイバイ / ピノキオP feat.初音ミク",
-    "note": "ボカロカラオケランキング810位 at 2020/10/8",
+    "note": "ボカロカラオケランキング810位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10539,7 +10539,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アカシックルーレット / じょるじん",
-    "note": "ボカロカラオケランキング811位 at 2020/10/8",
+    "note": "ボカロカラオケランキング811位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10552,7 +10552,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "セパレイト / ポリスピカデリー",
-    "note": "ボカロカラオケランキング812位 at 2020/10/8",
+    "note": "ボカロカラオケランキング812位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10565,7 +10565,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "初音ミクの激唱（ミクパ♪2012） / cosMo＠暴走P feat.初音ミク",
-    "note": "ボカロカラオケランキング813位 at 2020/10/8",
+    "note": "ボカロカラオケランキング813位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10578,7 +10578,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ワールド・ランプシェード / buzzG feat.りょーくん",
-    "note": "ボカロカラオケランキング814位 at 2020/10/8",
+    "note": "ボカロカラオケランキング814位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10591,7 +10591,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ジェシカ / くるりんご feat.初音ミク",
-    "note": "ボカロカラオケランキング815位 at 2020/10/8",
+    "note": "ボカロカラオケランキング815位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10604,7 +10604,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "踊る恐竜さん / 一二三 feat.音街ウナ",
-    "note": "ボカロカラオケランキング816位 at 2020/10/8",
+    "note": "ボカロカラオケランキング816位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10617,7 +10617,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ENMA DANCE / M.S.S Project feat.初音ミク",
-    "note": "ボカロカラオケランキング817位 at 2020/10/8",
+    "note": "ボカロカラオケランキング817位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10630,7 +10630,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "君を好きなことがバレた / 傘村トータ feat.Fukase",
-    "note": "ボカロカラオケランキング818位 at 2020/10/8",
+    "note": "ボカロカラオケランキング818位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10643,7 +10643,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "Connecting / halyosy feat.初音ミク/鏡音リン/鏡音レン/巡音ルカ/KAITO/MEIKO",
-    "note": "ボカロカラオケランキング819位 at 2020/10/8",
+    "note": "ボカロカラオケランキング819位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10656,7 +10656,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パズルガール / とあ feat.初音ミク",
-    "note": "ボカロカラオケランキング820位 at 2020/10/8",
+    "note": "ボカロカラオケランキング820位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10669,7 +10669,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "じんメドレー / じん feat.初音ミク/IA メドレー",
-    "note": "ボカロカラオケランキング821位 at 2020/10/8",
+    "note": "ボカロカラオケランキング821位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10682,7 +10682,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "あれほど欲した幸せを、手放す勇気を僕にくれ / 傘村トータ feat.初音ミク",
-    "note": "ボカロカラオケランキング822位 at 2020/10/8",
+    "note": "ボカロカラオケランキング822位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10695,7 +10695,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "アルビノ / buzzG feat.初音ミク",
-    "note": "ボカロカラオケランキング823位 at 2020/10/8",
+    "note": "ボカロカラオケランキング823位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10708,7 +10708,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "迷子の僕に / KEI feat.GUMI",
-    "note": "ボカロカラオケランキング824位 at 2020/10/8",
+    "note": "ボカロカラオケランキング824位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10721,7 +10721,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "美しく、闇 / 一二三 feat.初音ミク",
-    "note": "ボカロカラオケランキング825位 at 2020/10/8",
+    "note": "ボカロカラオケランキング825位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10734,7 +10734,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ダチュラと林檎 / ねじ式 feat.結月ゆかり",
-    "note": "ボカロカラオケランキング826位 at 2020/10/8",
+    "note": "ボカロカラオケランキング826位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10747,7 +10747,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ブレス・ユア・ブレス / 和田 たけあき（くらげP）",
-    "note": "ボカロカラオケランキング827位 at 2020/10/8",
+    "note": "ボカロカラオケランキング827位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10760,7 +10760,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "39 / sasakure.UK×DECO27 feat.初音ミク",
-    "note": "ボカロカラオケランキング828位 at 2020/10/8",
+    "note": "ボカロカラオケランキング828位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10773,7 +10773,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "コノハの世界事情 / じん（自然の敵P） feat.初音ミク/IA",
-    "note": "ボカロカラオケランキング829位 at 2020/10/8",
+    "note": "ボカロカラオケランキング829位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10786,7 +10786,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://homingecho.com/contact-faq/",
     "credit": "アイラビューアイニジュー / KEI feat.初音ミク",
-    "note": "ボカロカラオケランキング830位 at 2020/10/8",
+    "note": "ボカロカラオケランキング830位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10799,7 +10799,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "shiningray / 164 feat.初音ミク",
-    "note": "ボカロカラオケランキング831位 at 2020/10/8",
+    "note": "ボカロカラオケランキング831位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10812,7 +10812,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ダンスダンスデカダンス / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング832位 at 2020/10/8",
+    "note": "ボカロカラオケランキング832位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10825,7 +10825,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "クライヤ / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング833位 at 2020/10/8",
+    "note": "ボカロカラオケランキング833位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10838,7 +10838,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ハイパーゴアムササビスティックディサピアリジーニャス / nyanyannya feat.KAITO",
-    "note": "ボカロカラオケランキング834位 at 2020/10/8",
+    "note": "ボカロカラオケランキング834位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10851,7 +10851,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "だんだん早くなる / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング835位 at 2020/10/8",
+    "note": "ボカロカラオケランキング835位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10864,7 +10864,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "有頂天ビバーチェ / Last Note.",
-    "note": "ボカロカラオケランキング836位 at 2020/10/8",
+    "note": "ボカロカラオケランキング836位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10877,7 +10877,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "イヤホンと蝉時雨 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング837位 at 2020/10/8",
+    "note": "ボカロカラオケランキング837位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10890,7 +10890,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "蜘蛛糸モノポリー / sasakure.UK",
-    "note": "ボカロカラオケランキング838位 at 2020/10/8",
+    "note": "ボカロカラオケランキング838位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10903,7 +10903,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "StargazeR （Game Version） / 骨盤P feat.初音ミク",
-    "note": "ボカロカラオケランキング839位 at 2020/10/8",
+    "note": "ボカロカラオケランキング839位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10916,7 +10916,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "カンタレラ（Game Version） / WhiteFlame",
-    "note": "ボカロカラオケランキング840位 at 2020/10/8",
+    "note": "ボカロカラオケランキング840位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10929,7 +10929,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "yellow / kz（livetune） feat.初音ミク",
-    "note": "ボカロカラオケランキング841位 at 2020/10/8",
+    "note": "ボカロカラオケランキング841位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10942,7 +10942,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "平成メドレー〜VOCALOIDランキング編〜 / 平成メドレー",
-    "note": "ボカロカラオケランキング842位 at 2020/10/8",
+    "note": "ボカロカラオケランキング842位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10955,7 +10955,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "ディストピア・ジパング / cosMo＠暴走P feat.GUMI",
-    "note": "ボカロカラオケランキング843位 at 2020/10/8",
+    "note": "ボカロカラオケランキング843位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10968,7 +10968,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "おニューのかさぶた、ペットに食われろ / 家の裏でマンボウが死んでるP feat.GUMI",
-    "note": "ボカロカラオケランキング844位 at 2020/10/8",
+    "note": "ボカロカラオケランキング844位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10981,7 +10981,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "シンセカイ案内所 / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング845位 at 2020/10/8",
+    "note": "ボカロカラオケランキング845位",
     "updated_at": "2020/11/17"
   },
   {
@@ -10994,7 +10994,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マチガイサガシ / まふまふ feat.IA",
-    "note": "ボカロカラオケランキング846位 at 2020/10/8",
+    "note": "ボカロカラオケランキング846位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11007,7 +11007,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "唯一、愛ノ詠 / 梅とら",
-    "note": "ボカロカラオケランキング847位 at 2020/10/8",
+    "note": "ボカロカラオケランキング847位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11020,7 +11020,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マリオネットシンドローム / すこっぷ feat.初音ミク",
-    "note": "ボカロカラオケランキング848位 at 2020/10/8",
+    "note": "ボカロカラオケランキング848位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11033,7 +11033,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "空奏列車 / Orangestar feat.IA・初音ミク",
-    "note": "ボカロカラオケランキング849位 at 2020/10/8",
+    "note": "ボカロカラオケランキング849位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11046,7 +11046,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yamashizuku.web.fc2.com/aboutsousaku.html",
     "credit": "愛欲のプリズナー / ひとしずくP×やま△ feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング850位 at 2020/10/8",
+    "note": "ボカロカラオケランキング850位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11059,7 +11059,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "Call of Justice / ダルビッシュP",
-    "note": "ボカロカラオケランキング851位 at 2020/10/8",
+    "note": "ボカロカラオケランキング851位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11072,7 +11072,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "あなたの歌姫＜full.ver＞ / azuma feat.初音ミク",
-    "note": "ボカロカラオケランキング852位 at 2020/10/8",
+    "note": "ボカロカラオケランキング852位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11085,7 +11085,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メインキャラクター / *Luna feat.鏡音レン",
-    "note": "ボカロカラオケランキング853位 at 2020/10/8",
+    "note": "ボカロカラオケランキング853位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11098,7 +11098,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "レトロマニア狂想曲 / PolyphonicBranch",
-    "note": "ボカロカラオケランキング854位 at 2020/10/8",
+    "note": "ボカロカラオケランキング854位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11111,7 +11111,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "バラバラココロ / かいりきベア feat.flower",
-    "note": "ボカロカラオケランキング855位 at 2020/10/8",
+    "note": "ボカロカラオケランキング855位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11124,7 +11124,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ナザレ空平線 / じょるじん",
-    "note": "ボカロカラオケランキング856位 at 2020/10/8",
+    "note": "ボカロカラオケランキング856位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11137,7 +11137,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "ハングリーモンスター / TOKOTOKO（西沢さんP） feat.初音ミク",
-    "note": "ボカロカラオケランキング857位 at 2020/10/8",
+    "note": "ボカロカラオケランキング857位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11150,7 +11150,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "大江戸ジュリアナイト / Mitchie M feat.初音ミク/KAITO",
-    "note": "ボカロカラオケランキング858位 at 2020/10/8",
+    "note": "ボカロカラオケランキング858位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11163,7 +11163,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "文学少女インセイン / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング859位 at 2020/10/8",
+    "note": "ボカロカラオケランキング859位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11176,7 +11176,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "お断りします / さつき が てんこもり feat.初音ミク",
-    "note": "ボカロカラオケランキング860位 at 2020/10/8",
+    "note": "ボカロカラオケランキング860位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11189,7 +11189,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "アッパーチューン / yksb feat.IA/巡音ルカ",
-    "note": "ボカロカラオケランキング861位 at 2020/10/8",
+    "note": "ボカロカラオケランキング861位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11202,7 +11202,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パイロキネシス / saiB feat.初音ミク",
-    "note": "ボカロカラオケランキング862位 at 2020/10/8",
+    "note": "ボカロカラオケランキング862位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11215,7 +11215,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "いいや / DECO*27 feat.初音ミク",
-    "note": "ボカロカラオケランキング863位 at 2020/10/8",
+    "note": "ボカロカラオケランキング863位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11228,7 +11228,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "メアリーと遊園地 / くるりんご feat.初音ミク",
-    "note": "ボカロカラオケランキング864位 at 2020/10/8",
+    "note": "ボカロカラオケランキング864位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11241,7 +11241,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ギガンティックO.T.N（原曲） / ギガP feat.鏡音レン",
-    "note": "ボカロカラオケランキング865位 at 2020/10/8",
+    "note": "ボカロカラオケランキング865位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11254,7 +11254,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "リンリンシグナル / Dios",
-    "note": "ボカロカラオケランキング866位 at 2020/10/8",
+    "note": "ボカロカラオケランキング866位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11267,7 +11267,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "コバルトメモリーズ / はるまきごはん feat.初音ミク",
-    "note": "ボカロカラオケランキング867位 at 2020/10/8",
+    "note": "ボカロカラオケランキング867位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11280,7 +11280,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "幻奏歌 / フェイ feat.GUMI",
-    "note": "ボカロカラオケランキング868位 at 2020/10/8",
+    "note": "ボカロカラオケランキング868位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11293,7 +11293,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パズル / クワガタP feat.初音ミク",
-    "note": "ボカロカラオケランキング869位 at 2020/10/8",
+    "note": "ボカロカラオケランキング869位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11306,7 +11306,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "悪役にキスシーンを / 40mP",
-    "note": "ボカロカラオケランキング870位 at 2020/10/8",
+    "note": "ボカロカラオケランキング870位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11319,7 +11319,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "夢みることり / はやや feat.初音ミク/鏡音リン",
-    "note": "ボカロカラオケランキング871位 at 2020/10/8",
+    "note": "ボカロカラオケランキング871位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11332,7 +11332,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "デカディズム / ぬゆり feat.心華",
-    "note": "ボカロカラオケランキング872位 at 2020/10/8",
+    "note": "ボカロカラオケランキング872位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11345,7 +11345,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Step to you / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング873位 at 2020/10/8",
+    "note": "ボカロカラオケランキング873位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11358,7 +11358,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "パラノイヤ / カラスヤサボウ feat.鏡音リン",
-    "note": "ボカロカラオケランキング874位 at 2020/10/8",
+    "note": "ボカロカラオケランキング874位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11371,7 +11371,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "EDIBLE / R Sound Design feat.flower/初音ミク",
-    "note": "ボカロカラオケランキング875位 at 2020/10/8",
+    "note": "ボカロカラオケランキング875位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11384,7 +11384,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://natsukiaoya.wixsite.com/the-artist-jp/blank",
     "credit": "モンキービジネス / 青屋 夏生 feat.初音ミク/鏡音リン",
-    "note": "ボカロカラオケランキング876位 at 2020/10/8",
+    "note": "ボカロカラオケランキング876位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11397,7 +11397,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "プレデター / ルワン feat.flower",
-    "note": "ボカロカラオケランキング877位 at 2020/10/8",
+    "note": "ボカロカラオケランキング877位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11410,7 +11410,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "クレイジー・ビート / さつき が てんこもり feat.初音ミク・鏡音レン",
-    "note": "ボカロカラオケランキング878位 at 2020/10/8",
+    "note": "ボカロカラオケランキング878位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11423,7 +11423,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "メカクシコード / じん feat.初音ミク",
-    "note": "ボカロカラオケランキング879位 at 2020/10/8",
+    "note": "ボカロカラオケランキング879位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11436,7 +11436,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "恋スルVOC＠LOID / OSTER project feat.初音ミク",
-    "note": "ボカロカラオケランキング880位 at 2020/10/8",
+    "note": "ボカロカラオケランキング880位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11449,7 +11449,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "灯火 / syudou feat.初音ミク",
-    "note": "ボカロカラオケランキング881位 at 2020/10/8",
+    "note": "ボカロカラオケランキング881位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11462,7 +11462,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パーフェクト生命 / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング882位 at 2020/10/8",
+    "note": "ボカロカラオケランキング882位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11475,7 +11475,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "禁断少女プラスA / るなちゅ feat.鏡音リン",
-    "note": "ボカロカラオケランキング883位 at 2020/10/8",
+    "note": "ボカロカラオケランキング883位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11488,7 +11488,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "イヱスマン / 煮ル果実",
-    "note": "ボカロカラオケランキング884位 at 2020/10/8",
+    "note": "ボカロカラオケランキング884位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11501,7 +11501,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "毒林檎とシンデレラ / 青田 新名 a.k.a ゆずひこ feat.巡音ルカ",
-    "note": "ボカロカラオケランキング885位 at 2020/10/8",
+    "note": "ボカロカラオケランキング885位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11514,7 +11514,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "マイナスレッテル / かいりきベア",
-    "note": "ボカロカラオケランキング886位 at 2020/10/8",
+    "note": "ボカロカラオケランキング886位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11527,7 +11527,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "野良猫の侵略 / ナナホシ管弦楽団 feat.IA",
-    "note": "ボカロカラオケランキング887位 at 2020/10/8",
+    "note": "ボカロカラオケランキング887位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11540,7 +11540,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "StargazeR / 骨盤P feat.初音ミク",
-    "note": "ボカロカラオケランキング888位 at 2020/10/8",
+    "note": "ボカロカラオケランキング888位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11553,7 +11553,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "インタビュー ウィズ ルシファー / じょるじん",
-    "note": "ボカロカラオケランキング889位 at 2020/10/8",
+    "note": "ボカロカラオケランキング889位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11566,7 +11566,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "オズノカイタイショー / じょるじん",
-    "note": "ボカロカラオケランキング890位 at 2020/10/8",
+    "note": "ボカロカラオケランキング890位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11579,7 +11579,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "愛言葉II / DECO*27",
-    "note": "ボカロカラオケランキング891位 at 2020/10/8",
+    "note": "ボカロカラオケランキング891位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11592,7 +11592,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "スターナイトスノウ / n−buna/Orangestar feat.初音ミク",
-    "note": "ボカロカラオケランキング892位 at 2020/10/8",
+    "note": "ボカロカラオケランキング892位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11605,7 +11605,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "クランベリー / 蝶々P feat.GUMI",
-    "note": "ボカロカラオケランキング893位 at 2020/10/8",
+    "note": "ボカロカラオケランキング893位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11618,7 +11618,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "アイロニックメタファー / 蝶々P feat.初音ミク",
-    "note": "ボカロカラオケランキング894位 at 2020/10/8",
+    "note": "ボカロカラオケランキング894位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11631,7 +11631,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "セフレ / ナナホシ管弦楽団 feat.GUMI",
-    "note": "ボカロカラオケランキング895位 at 2020/10/8",
+    "note": "ボカロカラオケランキング895位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11644,7 +11644,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "colors / 大沼 パセリ",
-    "note": "ボカロカラオケランキング896位 at 2020/10/8",
+    "note": "ボカロカラオケランキング896位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11657,7 +11657,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ストラトステラ / ナユタン星人 feat.初音ミク",
-    "note": "ボカロカラオケランキング897位 at 2020/10/8",
+    "note": "ボカロカラオケランキング897位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11670,7 +11670,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "橙ゲノム / つなまる feat.初音ミク",
-    "note": "ボカロカラオケランキング898位 at 2020/10/8",
+    "note": "ボカロカラオケランキング898位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11683,7 +11683,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "夜になったら耿十八は / Peg feat.初音ミク",
-    "note": "ボカロカラオケランキング899位 at 2020/10/8",
+    "note": "ボカロカラオケランキング899位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11696,7 +11696,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "Arrest Rose / SCL Project（natsuP）feat.VanaN'Ice",
-    "note": "ボカロカラオケランキング900位 at 2020/10/8",
+    "note": "ボカロカラオケランキング900位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11709,7 +11709,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "惑星のダンスフロア / サンリオ",
-    "note": "ボカロカラオケランキング901位 at 2020/10/8",
+    "note": "ボカロカラオケランキング901位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11722,7 +11722,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "シスター＝セクトルージュ / nyanyannya feat.巡音ルカ",
-    "note": "ボカロカラオケランキング902位 at 2020/10/8",
+    "note": "ボカロカラオケランキング902位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11735,7 +11735,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "群青レイン / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング903位 at 2020/10/8",
+    "note": "ボカロカラオケランキング903位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11748,7 +11748,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "白雪赤花 / じょるじん",
-    "note": "ボカロカラオケランキング904位 at 2020/10/8",
+    "note": "ボカロカラオケランキング904位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11761,7 +11761,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Caseaman / vataco（バタパンP） feat.GUMI",
-    "note": "ボカロカラオケランキング905位 at 2020/10/8",
+    "note": "ボカロカラオケランキング905位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11774,7 +11774,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "MISTAKE / ナナホシ管弦楽団 feat.初音ミク",
-    "note": "ボカロカラオケランキング906位 at 2020/10/8",
+    "note": "ボカロカラオケランキング906位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11787,7 +11787,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://yurrycanon.blogspot.com/p/blog-page_4.html",
     "credit": "ユーベルコード / ユリイ・カノン feat.GUMI",
-    "note": "ボカロカラオケランキング907位 at 2020/10/8",
+    "note": "ボカロカラオケランキング907位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11800,7 +11800,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "極楽鳥花 / 煮ル果実",
-    "note": "ボカロカラオケランキング908位 at 2020/10/8",
+    "note": "ボカロカラオケランキング908位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11813,7 +11813,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ドリームレス・ドリームス / はるまきごはん feat.初音ミク",
-    "note": "ボカロカラオケランキング909位 at 2020/10/8",
+    "note": "ボカロカラオケランキング909位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11826,7 +11826,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ドレミファロンド（「少年と魔法のロボット」背景） / 40mP feat.初音ミク",
-    "note": "ボカロカラオケランキング910位 at 2020/10/8",
+    "note": "ボカロカラオケランキング910位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11839,7 +11839,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ミリオンダラードリーマー / 奏音69 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング911位 at 2020/10/8",
+    "note": "ボカロカラオケランキング911位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11852,7 +11852,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "平成時代の妖怪事情 / 606 feat.初音 ミク",
-    "note": "ボカロカラオケランキング912位 at 2020/10/8",
+    "note": "ボカロカラオケランキング912位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11865,7 +11865,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "帰巣本能−少年 by the mile− / ナナホシ管弦楽団 feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング913位 at 2020/10/8",
+    "note": "ボカロカラオケランキング913位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11878,7 +11878,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "404：虚像 / しとお feat.初音ミク",
-    "note": "ボカロカラオケランキング914位 at 2020/10/8",
+    "note": "ボカロカラオケランキング914位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11891,7 +11891,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "シロクロリバーシ / しとお feat.初音ミク/flower",
-    "note": "ボカロカラオケランキング915位 at 2020/10/8",
+    "note": "ボカロカラオケランキング915位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11904,7 +11904,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "星の唄 / buzzG feat.GUMI",
-    "note": "ボカロカラオケランキング916位 at 2020/10/8",
+    "note": "ボカロカラオケランキング916位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11917,7 +11917,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "最後の女王 / WhiteFlame feat.巡音ルカ",
-    "note": "ボカロカラオケランキング917位 at 2020/10/8",
+    "note": "ボカロカラオケランキング917位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11930,7 +11930,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "はやくそれになりたい! / キノシタ feat.音街ウナ",
-    "note": "ボカロカラオケランキング918位 at 2020/10/8",
+    "note": "ボカロカラオケランキング918位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11943,7 +11943,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "バベル / ATOLS feat.初音ミク",
-    "note": "ボカロカラオケランキング919位 at 2020/10/8",
+    "note": "ボカロカラオケランキング919位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11956,7 +11956,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "透明アンサー / じん（自然の敵P） feat.IA",
-    "note": "ボカロカラオケランキング920位 at 2020/10/8",
+    "note": "ボカロカラオケランキング920位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11969,7 +11969,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "幸せになれる隠しコマンドがあるらしい / うたたP feat.結月ゆかり",
-    "note": "ボカロカラオケランキング921位 at 2020/10/8",
+    "note": "ボカロカラオケランキング921位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11982,7 +11982,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "余所事 / におP feat.鏡音リン",
-    "note": "ボカロカラオケランキング922位 at 2020/10/8",
+    "note": "ボカロカラオケランキング922位",
     "updated_at": "2020/11/17"
   },
   {
@@ -11995,7 +11995,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "飴か夢 / doriko feat.初音ミク",
-    "note": "ボカロカラオケランキング923位 at 2020/10/8",
+    "note": "ボカロカラオケランキング923位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12008,7 +12008,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://natsukiaoya.wixsite.com/the-artist-jp/blank",
     "credit": "UFO / 青屋 夏生 feat.初音ミク",
-    "note": "ボカロカラオケランキング924位 at 2020/10/8",
+    "note": "ボカロカラオケランキング924位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12021,7 +12021,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "なないろの朝 / Wato feat.初音ミク",
-    "note": "ボカロカラオケランキング925位 at 2020/10/8",
+    "note": "ボカロカラオケランキング925位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12034,7 +12034,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "DECORATOR / livetune feat.初音ミク",
-    "note": "ボカロカラオケランキング926位 at 2020/10/8",
+    "note": "ボカロカラオケランキング926位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12047,7 +12047,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Strangers / ヘブンズP feat.初音ミク",
-    "note": "ボカロカラオケランキング927位 at 2020/10/8",
+    "note": "ボカロカラオケランキング927位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12060,7 +12060,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "送墓唄 / mayuko",
-    "note": "ボカロカラオケランキング928位 at 2020/10/8",
+    "note": "ボカロカラオケランキング928位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12073,7 +12073,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "http://chemsys.cc/contact.html",
     "credit": "R.I.P.ゴシップの海 / cosMo＠暴走P feat.GUMI",
-    "note": "ボカロカラオケランキング929位 at 2020/10/8",
+    "note": "ボカロカラオケランキング929位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12086,7 +12086,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ジュブナイル / Dixie Flatline feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング930位 at 2020/10/8",
+    "note": "ボカロカラオケランキング930位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12099,7 +12099,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "カラフル×メロディ（Game Version） / ちーむMOER feat.初音ミク/鏡音リン",
-    "note": "ボカロカラオケランキング931位 at 2020/10/8",
+    "note": "ボカロカラオケランキング931位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12112,7 +12112,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "人造エネミー / じん feat.初音ミク",
-    "note": "ボカロカラオケランキング932位 at 2020/10/8",
+    "note": "ボカロカラオケランキング932位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12125,7 +12125,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "DLファイルに同梱",
     "credit": "勘違い性反希望症 / DECO*27",
-    "note": "ボカロカラオケランキング933位 at 2020/10/8",
+    "note": "ボカロカラオケランキング933位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12138,7 +12138,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Love Me If You Can / 梅とら feat.巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
-    "note": "ボカロカラオケランキング934位 at 2020/10/8",
+    "note": "ボカロカラオケランキング934位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12151,7 +12151,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ルートスフィア / Last Note.feat.GUMI",
-    "note": "ボカロカラオケランキング935位 at 2020/10/8",
+    "note": "ボカロカラオケランキング935位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12164,7 +12164,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "或る街のギギ / sasakure.UK",
-    "note": "ボカロカラオケランキング936位 at 2020/10/8",
+    "note": "ボカロカラオケランキング936位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12177,7 +12177,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "HEAVEN / Harry（はりーP） feat.初音ミク",
-    "note": "ボカロカラオケランキング937位 at 2020/10/8",
+    "note": "ボカロカラオケランキング937位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12190,7 +12190,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "シュガーバイン / Dixie Flatline feat.巡音ルカ",
-    "note": "ボカロカラオケランキング938位 at 2020/10/8",
+    "note": "ボカロカラオケランキング938位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12203,7 +12203,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://com.nicovideo.jp/community/co212608",
     "credit": "M.S.S.Planet（「M.S.S.Planet」背景） / M.S.S Project feat.初音ミク＆GUMI",
-    "note": "ボカロカラオケランキング939位 at 2020/10/8",
+    "note": "ボカロカラオケランキング939位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12216,7 +12216,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ルービックキューブ / otetsu feat.GUMI",
-    "note": "ボカロカラオケランキング940位 at 2020/10/8",
+    "note": "ボカロカラオケランキング940位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12229,7 +12229,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "探偵弱音ハクの憂鬱 / オワタP feat.弱音ハク/亞北ネル",
-    "note": "ボカロカラオケランキング941位 at 2020/10/8",
+    "note": "ボカロカラオケランキング941位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12242,7 +12242,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "命短し恋せよ乙女 / デスおはぎ（松任谷P） feat.重音テト",
-    "note": "ボカロカラオケランキング942位 at 2020/10/8",
+    "note": "ボカロカラオケランキング942位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12255,7 +12255,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "わたしライス定食たべにきた / まこ猫 feat.GUMI",
-    "note": "ボカロカラオケランキング943位 at 2020/10/8",
+    "note": "ボカロカラオケランキング943位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12268,7 +12268,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "ラグトレイン / 稲葉 曇 feat.歌愛ユキ",
-    "note": "ボカロカラオケランキング944位 at 2020/10/8",
+    "note": "ボカロカラオケランキング944位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12281,7 +12281,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "アイボリー / Aqu3ra",
-    "note": "ボカロカラオケランキング945位 at 2020/10/8",
+    "note": "ボカロカラオケランキング945位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12294,7 +12294,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://com.nicovideo.jp/community/co212608",
     "credit": "THE WORLDS / M.S.S Project feat.初音ミク",
-    "note": "ボカロカラオケランキング946位 at 2020/10/8",
+    "note": "ボカロカラオケランキング946位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12307,7 +12307,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "春に一番近い街 / 40mP feat.GUMI",
-    "note": "ボカロカラオケランキング947位 at 2020/10/8",
+    "note": "ボカロカラオケランキング947位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12320,7 +12320,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "だから言ったでしょ？ / EasyPop",
-    "note": "ボカロカラオケランキング948位 at 2020/10/8",
+    "note": "ボカロカラオケランキング948位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12333,7 +12333,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "クラウドライダー / 田中 隼人 x Jane Su feat.IA",
-    "note": "ボカロカラオケランキング949位 at 2020/10/8",
+    "note": "ボカロカラオケランキング949位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12346,7 +12346,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "八月のレイニー / はるまきごはん feat.初音ミク",
-    "note": "ボカロカラオケランキング950位 at 2020/10/8",
+    "note": "ボカロカラオケランキング950位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12359,7 +12359,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "IMAWANOKIWA / いよわ feat.初音ミク",
-    "note": "ボカロカラオケランキング951位 at 2020/10/8",
+    "note": "ボカロカラオケランキング951位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12372,7 +12372,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "ラズベリーポイズン / john feat.初音ミク",
-    "note": "ボカロカラオケランキング952位 at 2020/10/8",
+    "note": "ボカロカラオケランキング952位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12385,7 +12385,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "声 / 針原翼（はりーP） feat.初音ミク",
-    "note": "ボカロカラオケランキング953位 at 2020/10/8",
+    "note": "ボカロカラオケランキング953位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12398,7 +12398,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "無気力クーデター / Last Note.",
-    "note": "ボカロカラオケランキング954位 at 2020/10/8",
+    "note": "ボカロカラオケランキング954位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12411,7 +12411,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "さよならテンダー / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング955位 at 2020/10/8",
+    "note": "ボカロカラオケランキング955位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12424,7 +12424,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "永遠花火 / 謝謝P feat.初音ミク",
-    "note": "ボカロカラオケランキング956位 at 2020/10/8",
+    "note": "ボカロカラオケランキング956位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12437,7 +12437,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "トエト / トラボルタ feat.巡音ルカ",
-    "note": "ボカロカラオケランキング957位 at 2020/10/8",
+    "note": "ボカロカラオケランキング957位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12450,7 +12450,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "椿の花 / デッドボールP feat.初音ミク",
-    "note": "ボカロカラオケランキング958位 at 2020/10/8",
+    "note": "ボカロカラオケランキング958位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12463,7 +12463,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "よっこらせっくす / アゴアニキ",
-    "note": "ボカロカラオケランキング959位 at 2020/10/8",
+    "note": "ボカロカラオケランキング959位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12476,7 +12476,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "四ツ谷さんによろしく / Eight feat. 初音ミク",
-    "note": "ボカロカラオケランキング960位 at 2020/10/8",
+    "note": "ボカロカラオケランキング960位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12489,7 +12489,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "クリプトグラフ / 蝶々P feat.GUMI",
-    "note": "ボカロカラオケランキング961位 at 2020/10/8",
+    "note": "ボカロカラオケランキング961位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12502,7 +12502,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "百鬼祭 / Kanaria",
-    "note": "ボカロカラオケランキング962位 at 2020/10/8",
+    "note": "ボカロカラオケランキング962位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12515,7 +12515,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "ホロン / wotaku",
-    "note": "ボカロカラオケランキング963位 at 2020/10/8",
+    "note": "ボカロカラオケランキング963位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12528,7 +12528,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "君はできない子 / きくお feat.初音ミク",
-    "note": "ボカロカラオケランキング964位 at 2020/10/8",
+    "note": "ボカロカラオケランキング964位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12541,7 +12541,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "HYBRID / niki feat.Lily",
-    "note": "ボカロカラオケランキング965位 at 2020/10/8",
+    "note": "ボカロカラオケランキング965位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12554,7 +12554,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "狼煙 / john feat.初音ミク",
-    "note": "ボカロカラオケランキング966位 at 2020/10/8",
+    "note": "ボカロカラオケランキング966位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12567,7 +12567,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "少女自傷癖 / PolyphonicBranch feat.IA",
-    "note": "ボカロカラオケランキング967位 at 2020/10/8",
+    "note": "ボカロカラオケランキング967位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12580,7 +12580,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "僕は空気が嫁ない / cosMo＠暴走P feat.GUMI",
-    "note": "ボカロカラオケランキング968位 at 2020/10/8",
+    "note": "ボカロカラオケランキング968位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12593,7 +12593,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ReAct / 黒うさP feat.初音ミク＆鏡音リン＆鏡音レン",
-    "note": "ボカロカラオケランキング969位 at 2020/10/8",
+    "note": "ボカロカラオケランキング969位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12606,7 +12606,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "もぬけのからだ / MI8k feat.GUMI",
-    "note": "ボカロカラオケランキング970位 at 2020/10/8",
+    "note": "ボカロカラオケランキング970位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12619,7 +12619,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "チョコレート・トレイン / PENGUINS PROJECT",
-    "note": "ボカロカラオケランキング971位 at 2020/10/8",
+    "note": "ボカロカラオケランキング971位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12632,7 +12632,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "それがあなたの幸せとしても / Heavenz feat.巡音ルカ",
-    "note": "ボカロカラオケランキング972位 at 2020/10/8",
+    "note": "ボカロカラオケランキング972位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12645,7 +12645,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "チェリーハント / Citruscat（巡音ルカ×奏音69）",
-    "note": "ボカロカラオケランキング973位 at 2020/10/8",
+    "note": "ボカロカラオケランキング973位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12658,7 +12658,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "Not Found",
     "credit": "スリープ・スカイ・ウォーク / ゆうゆ feat.GUMI",
-    "note": "ボカロカラオケランキング974位 at 2020/10/8",
+    "note": "ボカロカラオケランキング974位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12671,7 +12671,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "東京ゾンビランド / じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン/鏡音レン",
-    "note": "ボカロカラオケランキング975位 at 2020/10/8",
+    "note": "ボカロカラオケランキング975位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12684,7 +12684,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "愛言葉メドレー （愛言葉1・2・3） / DECO*27",
-    "note": "ボカロカラオケランキング976位 at 2020/10/8",
+    "note": "ボカロカラオケランキング976位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12697,7 +12697,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "未来景イノセンス / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング977位 at 2020/10/8",
+    "note": "ボカロカラオケランキング977位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12710,7 +12710,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "名探偵連続殺人事件 / てにをはP feat.初音ミク",
-    "note": "ボカロカラオケランキング978位 at 2020/10/8",
+    "note": "ボカロカラオケランキング978位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12723,7 +12723,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "SCREAM / 梅とら",
-    "note": "ボカロカラオケランキング979位 at 2020/10/8",
+    "note": "ボカロカラオケランキング979位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12736,7 +12736,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "故にユーエンミ— / ただのCo",
-    "note": "ボカロカラオケランキング980位 at 2020/10/8",
+    "note": "ボカロカラオケランキング980位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12749,7 +12749,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "モルモットと傭兵 / くるりんご feat.GUMI",
-    "note": "ボカロカラオケランキング981位 at 2020/10/8",
+    "note": "ボカロカラオケランキング981位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12762,7 +12762,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "悪ノ召使 −Classical version− / mothy/てとてと（情熱P） feat.鏡音 レン",
-    "note": "ボカロカラオケランキング982位 at 2020/10/8",
+    "note": "ボカロカラオケランキング982位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12775,7 +12775,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ハッピーエンダー / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング983位 at 2020/10/8",
+    "note": "ボカロカラオケランキング983位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12788,7 +12788,7 @@ const datas = [
     "lisence_link": true,
     "lisence": "https://twitter.com/MikanseiP/status/826591461713997824?s=20",
     "credit": "濫觴生命 / Orangestar feat.IA",
-    "note": "ボカロカラオケランキング984位 at 2020/10/8",
+    "note": "ボカロカラオケランキング984位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12801,7 +12801,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "フィクションブルー / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング985位 at 2020/10/8",
+    "note": "ボカロカラオケランキング985位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12814,7 +12814,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "ヴァイオレッタ / Ayase feat.初音ミク",
-    "note": "ボカロカラオケランキング986位 at 2020/10/8",
+    "note": "ボカロカラオケランキング986位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12827,7 +12827,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "どぅーまいべすと! / キノシタ feat.音街ウナ",
-    "note": "ボカロカラオケランキング987位 at 2020/10/8",
+    "note": "ボカロカラオケランキング987位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12840,7 +12840,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "リスキーゲーム / 黒うさP feat.初音ミク",
-    "note": "ボカロカラオケランキング988位 at 2020/10/8",
+    "note": "ボカロカラオケランキング988位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12853,7 +12853,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "君はただ二回飛べばいい / mothy＿悪ノP",
-    "note": "ボカロカラオケランキング989位 at 2020/10/8",
+    "note": "ボカロカラオケランキング989位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12866,7 +12866,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "逆罪行進曲 / マチゲリータ feat.KAITO",
-    "note": "ボカロカラオケランキング990位 at 2020/10/8",
+    "note": "ボカロカラオケランキング990位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12879,7 +12879,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "Lap Tap Love / koyori（電ポルP）feat.初音ミク",
-    "note": "ボカロカラオケランキング991位 at 2020/10/8",
+    "note": "ボカロカラオケランキング991位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12892,7 +12892,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "ビーストインザビューティ / 奏音69 feat.巡音ルカ",
-    "note": "ボカロカラオケランキング992位 at 2020/10/8",
+    "note": "ボカロカラオケランキング992位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12905,7 +12905,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "パレットには君がいっぱい / 椎名 もた（ぽわぽわP） feat.初音ミク",
-    "note": "ボカロカラオケランキング993位 at 2020/10/8",
+    "note": "ボカロカラオケランキング993位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12918,7 +12918,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "アンチグラビティーズ / sasakure.UK",
-    "note": "ボカロカラオケランキング994位 at 2020/10/8",
+    "note": "ボカロカラオケランキング994位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12931,7 +12931,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "骸Attack!!（「悪巫山戯」背景） / 鬱P",
-    "note": "ボカロカラオケランキング995位 at 2020/10/8",
+    "note": "ボカロカラオケランキング995位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12944,7 +12944,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ニコニコモンズ内ライセンス表記を参照",
     "credit": "マギサ / wotaku",
-    "note": "ボカロカラオケランキング996位 at 2020/10/8",
+    "note": "ボカロカラオケランキング996位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12957,7 +12957,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "音源配布URLを参照",
     "credit": "恋愛フィロソフィア / nero project",
-    "note": "ボカロカラオケランキング997位 at 2020/10/8",
+    "note": "ボカロカラオケランキング997位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12970,7 +12970,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "男の娘メモラブル / さつき が てんこもり feat.鏡音レン",
-    "note": "ボカロカラオケランキング998位 at 2020/10/8",
+    "note": "ボカロカラオケランキング998位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12983,7 +12983,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "",
     "credit": "潜水艦トロイメライ / トーマ feat.GUMI",
-    "note": "ボカロカラオケランキング999位 at 2020/10/8",
+    "note": "ボカロカラオケランキング999位",
     "updated_at": "2020/11/17"
   },
   {
@@ -12996,7 +12996,7 @@ const datas = [
     "lisence_link": false,
     "lisence": "ピアプロ内ライセンス表記を参照",
     "credit": "空中分解 / すりぃ feat.鏡音レン",
-    "note": "ボカロカラオケランキング1000位 at 2020/10/8",
+    "note": "ボカロカラオケランキング1000位",
     "updated_at": "2020/11/17"
   }
 ]
