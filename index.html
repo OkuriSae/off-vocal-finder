@@ -58,10 +58,8 @@
 
     <div class="ui main text container">
         <h1 class="ui header">ボカロ系公式音源データベース</h1>
-        <p>公式音源やライセンスの有無がわかるボーカロイド系楽曲の検索システムです。<br>
-            <a href="https://www.karatetsu.com/vocala/pickup/ranking.php">カラ鉄ボカロランキング(2020年10月08日付)</a> の上位1000件の楽曲を収録しています。</p>
-        <p>データの 修正 / 更新 / 追加 などは
-            <a href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a> よりお願いします。</p>
+        <p>公式配布音源の検索やライセンスの確認を手早く行うための検索サービスです。<br>歌ってみた制作やカラオケ配信をする時などにご利用ください。</p>
+            <p><a href="https://www.karatetsu.com/vocala/pickup/ranking.php">カラ鉄ボカロランキング(2020年10月08日付)</a> の上位1000件の楽曲を収録しています。</p>
             
         <h3>データの絞り込み</h3>
 
@@ -114,7 +112,7 @@
                             <template v-if="data.inst_found">
                                 <a v-bind:href="data.inst_url" target="_blank">
                                     <button class="ui blue basic button">
-                                        <i class="linkify icon"></i>公式音源
+                                        <i class="linkify icon"></i>公式音源あり
                                     </button>
                                 </a>
                             </template>
