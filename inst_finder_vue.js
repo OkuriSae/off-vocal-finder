@@ -2,13 +2,33 @@ $(document).ready(() => {
     $('.ui.dropdown').dropdown(); 
 });
 
+function makeRecommend() {
+    return [
+        datas[Math.floor(Math.random()*datas.length)],
+        datas[Math.floor(Math.random()*datas.length)],
+        datas[Math.floor(Math.random()*datas.length)],
+    ];
+}
+
+const recommend = new Vue({
+    el: '#recommend',
+    data: {
+        recommends: makeRecommend()
+    },
+    methods: {
+        reflesh : function () {
+            this.recommends = makeRecommend();
+        }
+    }
+});
+
 const list = new Vue({
     el: '#list',
     data: {
         counter: 0,
         datas,
         start: 1,
-        end: 20,
+        end: 20
     },
     methods: {
         filtering: function (type, word, hasInst, hasLisence, start, end) {
@@ -29,6 +49,10 @@ const list = new Vue({
                     return i.lisence.indexOf("Not Found") == -1
                 }, this);
             }
+
+            recommend.reflesh();
+
+            console.log(this.recommends);
 
             this.datas = result;
             this.paging(start, end);

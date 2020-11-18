@@ -169,6 +169,61 @@
             </div>
         </div>
 
+        <div class="ui horizontal divider" style="margin-top: 2em; margin-bottom: 2em;">
+            <i class="gift icon"></i>
+            あなたへのオススメ
+            <i class="gift icon"></i>
+        </div>
+
+        <div id="recommend">
+            <div class="ui divided items">
+                <div class="item" v-for="data in recommends">
+                    <div class="content">
+                        <div class="header">
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} / ${data.artist}`"
+                                target="_blank">
+                                {{data.song_name}} / {{data.artist}}
+                            </a>
+                        </div>
+                        <div class="description">
+                            <template v-if="data.inst_found">
+                                <a v-bind:href="data.inst_url" target="_blank">
+                                    <button class="ui blue basic button">
+                                        <i class="linkify icon"></i>公式音源あり
+                                    </button>
+                                </a>
+                            </template>
+                            <template v-else>
+                                <button class="ui gray basic button">
+                                    Inst Not Found
+                                </button>
+                            </template>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} ニコカラ`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>ニコカラ検索
+                                </button>
+                            </a>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} 歌詞`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>歌詞検索
+                                </button>
+                            </a>
+                        </div>
+                        <div class="description">音源利用規約/許諾：
+                            <template v-if="data.lisence_link">
+                                <a v-bind:href="data.lisence" target="_blank">{{data.lisence}}</a>
+                            </template>
+                            <template v-else>
+                                {{data.lisence}}
+                            </template>
+                        </div>
+                        <div class="extra">{{data.note}}</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
     <div class="ui inverted vertical footer segment">
