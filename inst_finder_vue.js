@@ -1,21 +1,20 @@
-$(document).ready(function() { 
+$(document).ready(() => { 
     $('.ui.dropdown').dropdown(); 
 });
 
-var list = new Vue({
+const list = new Vue({
     el: '#list',
     data: {
         counter: 0,
         datas,
-        count: datas.length
+        start: 1,
+        end: 20,
     },
     methods: {
-        filtering: function (type, word, hasInst, hasLisence) {
+        filtering: function (type, word, hasInst, hasLisence, start, end) {
             let result = datas;
-            console.log(type);
 
             result = datas.filter( i => { 
-                console.log(i.artist);
                 return (type == 0 ? i.song_name : i.artist).indexOf(word) != -1
             }, this);
             
@@ -30,18 +29,40 @@ var list = new Vue({
                     return i.lisence.indexOf("Not Found") == -1
                 }, this);
             }
-            this.count = result.length
-            
+
             this.datas = result;
+            this.paging(start, end);
+        },
+        paging: function (start, end) {
+            start = (start < 1) ? 1 : start;
+            end = (end < 1) ? 1 : end;
+            end = (this.datas.length < end) ? this.datas.length : end;
+            this.start = start;
+            this.end = end;
+        } 
+    }
+});
+
+const search = new Vue({
+    el: '#search',
+    methods: {
+        search: function (event) {
+            list.filtering(
+                this.$refs.type.value, 
+                this.$refs.word.value, 
+                this.$refs.hasInst.checked, 
+                this.$refs.hasLisence.checked,
+                paging.$refs.start.value,
+                paging.$refs.end.value);
         }
     }
 });
 
-var search = new Vue({
-    el: '#search',
+const paging = new Vue({
+    el: '#paging',
     methods: {
-        search: function (event) {
-            list.filtering(this.$refs.type.value, this.$refs.word.value, this.$refs.hasInst.checked, this.$refs.hasLisence.checked);
+        paging: function (event) {
+            list.paging(this.$refs.start.value, this.$refs.end.value);
         }
     }
 });
