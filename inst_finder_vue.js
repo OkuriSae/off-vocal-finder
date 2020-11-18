@@ -49,18 +49,15 @@ const list = new Vue({
                     return i.lisence.indexOf("Not Found") == -1
                 }, this);
             }
-
-            recommend.reflesh();
-
-            console.log(this.recommends);
-
+            
             this.datas = result;
             this.paging(start, end);
+            recommend.reflesh();
         },
         paging: function (start, end) {
             start = (start < 1) ? 1 : start;
-            end = (end < 1) ? 1 : end;
             end = (this.datas.length < end) ? this.datas.length : end;
+            end = (end < 1) ? 1 : end;
             this.start = start;
             this.end = end;
         } 
