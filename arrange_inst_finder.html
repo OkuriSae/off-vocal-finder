@@ -5,9 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
+    <link rel="icon" href="favicon.ico" />
+    
     <!-- Site Properties -->
-    <title>アレンジ音源データベース</title>
+    <title>アレンジ音源検索 | Off-Vocal Finder</title>
     <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -71,8 +72,10 @@
 
     <div class="ui main text container">
         <h1 class="ui header">アレンジ音源検索</h1>
-        <p>歌ってみたなどに利用可能なアレンジ音源を見つけるための検索サービスです。</p>
-
+        <p>歌ってみたなどに利用できるアレンジ音源を検索できます。<br>
+            商業楽曲等、原盤音源が提供されにくい楽曲の二次利用可能なカラオケ音源 1,776 曲が検索可能です。</p>
+        <p>楽曲データや権利情報の修正/追加のリクエストは<a>こちら</a>からお願いします。</p>
+        
         <h3>データの絞り込み</h3>
 
         <div class="ui grid" id="search">
@@ -101,7 +104,7 @@
                 </div>
             </div>
 
-            <div class="six wide column">
+            <div class="sixteen wide column">
                 <div class="ui checkbox item">
                     <input type="checkbox" name="isJasracOrNexTone" ref="isJasracOrNexTone" v-on:change="search">
                     <label>JASRAC / NexTone 管理楽曲のみ</label>
@@ -133,10 +136,7 @@
                         </div>
 
                         <div class="extra">
-                            <div class="right floated" style="padding-top: .5em;">
-                                最終更新日: {{data.updated_at}}
-                            </div>
-                            <div style="padding-bottom: .5em;">
+                            <div class="left floated" style="padding-bottom: .5em;">
                                 <template v-if="data.rigths_holder=='JASRAC'">
                                     <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
                                         JASRAC管理楽曲
@@ -153,6 +153,9 @@
                                 <a class="ui label" v-bind:href="data.inst_license" target="_blank">
                                     <i class="linkify icon"></i>音源利用規約
                                 </a>
+                            </div>
+                            <div class="right floated" style="padding-top: .5em;">
+                                最終更新日: {{data.updated_at}}
                             </div>
                         </div>
                     </div>
@@ -200,10 +203,7 @@
                         </div>
 
                         <div class="extra">
-                            <div class="right floated" style="padding-top: .5em;">
-                                最終更新日: {{data.updated_at}}
-                            </div>
-                            <div style="padding-bottom: .5em;">
+                            <div class="left floated" style="padding-bottom: .5em;">
                                 <template v-if="data.rigths_holder=='JASRAC'">
                                     <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
                                         JASRAC管理楽曲
@@ -221,6 +221,9 @@
                                     <i class="linkify icon"></i>音源利用規約
                                 </a>
                             </div>
+                            <div class="right floated" style="padding-top: .5em;">
+                                最終更新日: {{data.updated_at}}
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -231,10 +234,11 @@
 
     <div class="ui inverted vertical footer segment">
         <div class="ui center aligned container">
-            <h5>免責事項</h5>
-            <p>本サイトを利用、または本サイトの提供する情報を利用した際のトラブルに関しては一切の責任を負いかねます。</p>
-            <p>本サイトの情報は管理人が手動で更新しているため、古くなる場合があります。データの 修正 / 更新 / 追加 などは <a
-                    href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a>。
+            <h3>免責事項</h3>
+            <p>
+                本サービスを利用、または本サービスの提供する情報を利用した際のいかなるトラブルに関しても、管理人は一切の責任を負いかねます。<br>
+                検索結果は二次創作に利用可能なことを保証するものではありません。必ずご利用の前に該当楽曲のライセンスを確認してください。<br>
+                本サービスの楽曲データ、URL、および権利情報は古くなる場合があります。
             </p>
             <div class="ui divider"></div>
             <div class="ui horizontal inverted small divided link list">

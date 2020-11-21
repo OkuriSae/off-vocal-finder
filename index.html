@@ -5,9 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="icon" href="favicon.ico" />
 
     <!-- Site Properties -->
-    <title>カラオケ音源データベース</title>
+    <title>TOPページ | Off-Vocal Finder</title>
     <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -137,7 +138,11 @@
                     <h1 class="ui header">
                         <img src="off-vocal_finder.png" class="ui centered image" style="width:80%;">
                     </h1>
-                    <h1>歌ってみたやカラオケ配信のための音源検索サービス</h1>
+                    <h1 class="ui header">
+                        楽曲カバーやカラオケ配信のための音源検索サービス
+                        <div class="sub header" style="margin-top: .5em;">歌ってみたや歌枠配信をもっと簡単に。</div>
+                    </h1>
+                    
                 </div>
             </div>
         </div>
@@ -147,26 +152,29 @@
                 <div class="center aligned row">
                     <div class="column">
                         <h2 class="ui header">
-                            <a href="official_inst_finder.html">
-                                <i class="search icon"></i>公式音源検索（ボカロ系）
-                            </a>
+                            公式音源検索（ボカロ系）
                         </h2>
                         <p style="width:80%; margin: auto;">
                             ボーカロイド系楽曲における、著作者が公開しているOff-Vocal音源を検索できるサービスです。
                             <a href="https://www.karatetsu.com/vocala/pickup/ranking.php">ボカロ月間カラオケランキング(2020年10月8日時点)</a>
                             の上位1,000件の楽曲を収録しています。
                         </p>
+                        <a class="ui item primary button" href="official_inst_finder.html" style="margin-top: 15px;">
+                            <i class="search icon"></i>公式音源音源を探す<i class="right chevron icon"></i>
+                        </a>
                     </div>
+
                     <div class="column">
                         <h2 class="ui header">
-                            <a href="arrange_inst_finder.html">
-                                <i class="search icon"></i>アレンジ音源検索
-                            </a>
+                            アレンジ音源検索
                         </h2>
                         <p style="width:80%; margin: auto;">
-                            歌ってみたなどに利用できるアレンジ音源を検索できます。<br>
+                            歌ってみたなどに利用できるアレンジ音源を検索できます。
                             商業作品など原盤音源が提供されにくい楽曲の二次創作用音源を探している場合はこちらをお使いください。
                         </p>
+                        <a class="ui item primary button" href="arrange_inst_finder.html" style="margin-top: 15px;">
+                            <i class="search icon"></i>アレンジ音源を探す<i class="right chevron icon"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -180,9 +188,7 @@
                 <ul class="list">
                     <li>本サービスを利用、または本サービスの提供する情報を利用した際のいかなるトラブルに関しても、管理人は一切の責任を負いかねます。</li>
                     <li>検索結果は二次創作に利用可能なことを保証するものではありません。必ずご利用の前に該当楽曲のライセンスを確認してください。</li>
-                    <li>本サービスの楽曲データ、権利情報は管理人が手動で更新しているため、古くなる場合があります。データの 修正 / 更新 / 追加 などは <a
-                            href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a>。
-                    </li>
+                    <li>本サービスの楽曲データ、権利情報は管理人が手動で更新しているため、古くなる場合があります。</li>
                 </ul>
             </div>
         </div>
@@ -196,10 +202,6 @@
             </div>
         </div>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="data_official.js"></script>
-    <script src="official_inst_finder.js"></script>
 
 </body>
 

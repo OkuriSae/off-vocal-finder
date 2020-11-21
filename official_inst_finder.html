@@ -5,9 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
+    <link rel="icon" href="favicon.ico" />
+    
     <!-- Site Properties -->
-    <title>カラオケ音源データベース</title>
+    <title>公式音源検索（ボカロ系） | Off-Vocal Finder</title>
     <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -71,9 +72,12 @@
 
     <div class="ui main text container">
         <h1 class="ui header">ボカロ系公式音源検索</h1>
-        <p>公式配布音源の検索やライセンスの確認を手早く行うための検索サービスです。<br>歌ってみた制作やカラオケ配信をする時などにご利用ください。</p>
-        <p><a href="https://www.karatetsu.com/vocala/pickup/ranking.php">カラ鉄ボカロランキング(2020年10月08日付)</a>
-            の上位1000件の楽曲を収録しています。</p>
+        <p>
+            ボーカロイド系楽曲における、著作者が公開しているOff-Vocal音源を検索できるサービスです。
+            <a href="https://www.karatetsu.com/vocala/pickup/ranking.php">ボカロ月間カラオケランキング(2020年10月8日時点)</a>
+            の上位1,000件の楽曲を収録しています。
+        </p>
+        <p>楽曲データや権利情報の修正/追加のリクエストは<a>こちら</a>からお願いします。</p>
 
         <h3>データの絞り込み</h3>
 
@@ -151,7 +155,7 @@
 
                         <div class="description">音源利用規約/許諾：
                             <template v-if="data.lisence_link">
-                                <a v-bind:href="data.lisence" target="_blank">{{data.lisence}}</a>
+                                <a v-bind:href="data.lisence" target="_blank" style="word-break: break-all;">{{data.lisence}}</a>
                             </template>
                             <template v-else>
                                 {{data.lisence}}
@@ -245,10 +249,11 @@
 
     <div class="ui inverted vertical footer segment">
         <div class="ui center aligned container">
-            <h5>免責事項</h5>
-            <p>本サイトを利用、または本サイトの提供する情報を利用した際のトラブルに関しては一切の責任を負いかねます。</p>
-            <p>本サイトの情報は管理人が手動で更新しているため、古くなる場合があります。データの 修正 / 更新 / 追加 などは <a
-                    href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a>。
+            <h3>免責事項</h3>
+            <p>
+                本サービスを利用、または本サービスの提供する情報を利用した際のいかなるトラブルに関しても、管理人は一切の責任を負いかねます。<br>
+                検索結果は二次創作に利用可能なことを保証するものではありません。必ずご利用の前に該当楽曲のライセンスを確認してください。<br>
+                本サービスの楽曲データ、URL、および権利情報は古くなる場合があります。
             </p>
             <div class="ui divider"></div>
             <div class="ui horizontal inverted small divided link list">
