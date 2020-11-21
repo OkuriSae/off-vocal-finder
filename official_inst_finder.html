@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properties -->
+    <title>カラオケ音源データベース</title>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+
+    <style type="text/css">
+        body {
+            background-color: #FFFFFF;
+        }
+
+        .ui.menu .item img.logo {
+            margin-right: 1.5em;
+        }
+
+        .main.container {
+            margin-top: 7em;
+            margin-bottom: 2em;
+        }
+
+        .wireframe {
+            margin-top: 2em;
+        }
+
+        .ui.grid>.column:not(.row) {
+            padding-bottom: 0em;
+        }
+
+        .ui.grid {
+            padding-bottom: 1em;
+        }
+
+        .ui.selection.dropdown {
+            min-width: 10em;
+        }
+
+        table {
+            width: 100%;
+            table-layout: fixed;
+            word-break: break-all;
+            word-wrap: break-all;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="ui fixed inverted menu">
+        <div class="ui container">
+            <a href="index.html" class="header item" >
+                Off-Vocal Finder
+            </a>
+            <a href="official_inst_finder.html" class="header item">
+                公式音源検索（ボカロ系）
+            </a>
+            <a href="arrange_inst_finder.html" class="header item">
+                アレンジ音源検索
+            </a>
+        </div>
+    </div>
+
+    <div class="ui main text container">
+        <h1 class="ui header">ボカロ系公式音源検索</h1>
+        <p>公式配布音源の検索やライセンスの確認を手早く行うための検索サービスです。<br>歌ってみた制作やカラオケ配信をする時などにご利用ください。</p>
+        <p><a href="https://www.karatetsu.com/vocala/pickup/ranking.php">カラ鉄ボカロランキング(2020年10月08日付)</a>
+            の上位1000件の楽曲を収録しています。</p>
+
+        <h3>データの絞り込み</h3>
+
+        <div class="ui grid" id="search">
+
+            <div class="four wide column">
+                <select class="ui dropdown item" ref="type" v-on:change="search">
+                    <option value="0">楽曲名</option>
+                    <option value="1">アーティスト</option>
+                </select>
+            </div>
+
+            <div class="twelve wide column">
+                <div class="ui search item">
+                    <div class="ui icon input">
+                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word">
+                        <i class="search icon"></i>
+                    </div>
+                    <div class="results"></div>
+                </div>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui checkbox item">
+                    <input type="checkbox" name="hasInst" ref="hasInst" v-on:change="search">
+                    <label>音源が公開されているもののみ</label>
+                </div>
+            </div>
+
+            <div class="ten wide column">
+                <div class="ui checkbox item">
+                    <input type="checkbox" name="hasLisence" ref="hasLisence" v-on:change="search">
+                    <label>ライセンスが明確なもののみ</label>
+                </div>
+            </div>
+        </div>
+
+        <div id="list">
+            <div class="ui horizontal divider">検索結果: {{datas.length}} 件中 {{start}} - {{end}} 件を表示</div>
+
+            <div class="ui divided items">
+                <div class="item" v-for="data in datas.slice(start-1, end)" style="padding-bottom: 0;">
+                    <div class="content">
+                        <div class="header">
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} / ${data.artist}`"
+                                target="_blank">
+                                {{data.song_name}} / {{data.artist}}
+                            </a>
+                        </div>
+
+                        <div class="description">
+                            <template v-if="data.inst_found">
+                                <a v-bind:href="data.inst_url" target="_blank">
+                                    <button class="ui blue basic button">
+                                        <i class="linkify icon"></i>公式音源あり
+                                    </button>
+                                </a>
+                            </template>
+                            <template v-else>
+                                <button class="ui gray basic button">
+                                    Inst Not Found
+                                </button>
+                            </template>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} カラオケ`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>カラオケ検索
+                                </button>
+                            </a>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} 歌詞`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>歌詞検索
+                                </button>
+                            </a>
+                        </div>
+
+                        <div class="description">音源利用規約/許諾：
+                            <template v-if="data.lisence_link">
+                                <a v-bind:href="data.lisence" target="_blank">{{data.lisence}}</a>
+                            </template>
+                            <template v-else>
+                                {{data.lisence}}
+                            </template>
+                        </div>
+
+                        <div class="extra">
+                            <div class="right floated">最終更新日: {{data.updated_at}}</div>
+                            <div>{{data.note}}</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ui center aligned grid" id="paging" style="margin-top: 1em;">
+            <div class="ten wide column">
+                <div class="ui mini input">
+                    <input type="text" style="width:50px" ref="start" value="1" v-on:change="paging">
+                </div>
+                -
+                <div class="ui mini input">
+                    <input type="text" style="width:50px" ref="end" value="20" v-on:change="paging">
+                </div>
+                件を表示
+            </div>
+        </div>
+
+        <div class="ui horizontal divider" style="margin-top: 2em; margin-bottom: 2em;">
+            <i class="gift icon"></i>
+            あなたへのオススメ
+            <i class="gift icon"></i>
+        </div>
+
+        <div id="recommend">
+            <div class="ui divided items">
+                <div class="item" v-for="data in recommends" style="padding-bottom: 0;">
+                    <div class="content">
+                        <div class="header">
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} / ${data.artist}`"
+                                target="_blank">
+                                {{data.song_name}} / {{data.artist}}
+                            </a>
+                        </div>
+
+                        <div class="description">
+                            <template v-if="data.inst_found">
+                                <a v-bind:href="data.inst_url" target="_blank">
+                                    <button class="ui blue basic button">
+                                        <i class="linkify icon"></i>公式音源あり
+                                    </button>
+                                </a>
+                            </template>
+                            <template v-else>
+                                <button class="ui gray basic button">
+                                    Inst Not Found
+                                </button>
+                            </template>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} カラオケ`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>カラオケ検索
+                                </button>
+                            </a>
+                            <a v-bind:href="`https://www.google.com/search?q=${data.song_name} 歌詞`" target="_blank">
+                                <button class="ui green basic button">
+                                    <i class="search icon"></i>歌詞検索
+                                </button>
+                            </a>
+                        </div>
+
+                        <div class="description">音源利用規約/許諾：
+                            <template v-if="data.lisence_link">
+                                <a v-bind:href="data.lisence" target="_blank">{{data.lisence}}</a>
+                            </template>
+                            <template v-else>
+                                {{data.lisence}}
+                            </template>
+                        </div>
+
+                        <div class="extra">
+                            <div class="right floated">最終更新日: {{data.updated_at}}</div>
+                            <div>{{data.note}}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+            <h5>免責事項</h5>
+            <p>本サイトを利用、または本サイトの提供する情報を利用した際のトラブルに関しては一切の責任を負いかねます。</p>
+            <p>本サイトの情報は管理人が手動で更新しているため、古くなる場合があります。データの 修正 / 更新 / 追加 などは <a
+                    href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a>。
+            </p>
+            <div class="ui divider"></div>
+            <div class="ui horizontal inverted small divided link list">
+                <a class="item" href="https://twitter.com/OkuriSae">©︎ 2020 Okuri Sae《VSinger》</a>
+                <a class="item" href="https://github.com/OkuriSae/karaoke-inst-finder">Powered by GitHub Pages</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="official_inst_data.js"></script>
+    <script src="official_inst_finder.js"></script>
+
+</body>
+
+</html>

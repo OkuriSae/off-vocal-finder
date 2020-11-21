@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properties -->
+    <title>アレンジ音源データベース</title>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+
+    <style type="text/css">
+        body {
+            background-color: #FFFFFF;
+        }
+
+        .ui.menu .item img.logo {
+            margin-right: 1.5em;
+        }
+
+        .main.container {
+            margin-top: 7em;
+            margin-bottom: 2em;
+        }
+
+        .wireframe {
+            margin-top: 2em;
+        }
+
+        .ui.grid>.column:not(.row) {
+            padding-bottom: 0em;
+        }
+
+        .ui.grid {
+            padding-bottom: 1em;
+        }
+
+        .ui.selection.dropdown {
+            min-width: 10em;
+        }
+
+        table {
+            width: 100%;
+            table-layout: fixed;
+            word-break: break-all;
+            word-wrap: break-all;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="ui fixed inverted menu">
+        <div class="ui container">
+            <a href="index.html" class=" header item" >
+                Off-Vocal Finder
+            </a>
+            <a href="official_inst_finder.html" class="header item">
+                公式音源検索（ボカロ系）
+            </a>
+            <a href="arrange_inst_finder.html" class="header item">
+                アレンジ音源検索
+            </a>
+        </div>
+    </div>
+
+    <div class="ui main text container">
+        <h1 class="ui header">アレンジ音源検索</h1>
+        <p>歌ってみたなどに利用可能なアレンジ音源を見つけるための検索サービスです。</p>
+
+        <h3>データの絞り込み</h3>
+
+        <div class="ui grid" id="search">
+
+            <div class="six wide column">
+                <select class="ui dropdown fluid" ref="category" v-on:change="search">
+                    <option value="">ジャンル</option>
+                    <option value="all">全て</option>
+                    <option value="アニメ・ゲーム">アニメ・ゲーム</option>
+                    <option value="アイドル">アイドル</option>
+                    <option value="ボカロ系">ボカロ系</option>
+                    <option value="邦楽 2010年～">邦楽 2010年～</option>
+                    <option value="邦楽 2000年～2010年">邦楽 2000年～2010年</option>
+                    <option value="邦楽 ～2000年">邦楽 ～2000年</option>
+                    <option value="K-POP">K-POP</option>
+                    <option value="洋楽">洋楽</option>
+                </select>
+            </div>
+
+            <div class="ten wide column">
+                <div class="ui search item">
+                    <div class="ui icon input">
+                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word">
+                        <i class="search icon"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui checkbox item">
+                    <input type="checkbox" name="isJasracOrNexTone" ref="isJasracOrNexTone" v-on:change="search">
+                    <label>JASRAC / NexTone 管理楽曲のみ</label>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="list">
+            <div class="ui horizontal divider">検索結果: {{datas.length}} 件中 {{start}} - {{end}} 件を表示</div>
+
+            <div class="ui divided items">
+                <div class="item" v-for="data in datas.slice(start-1, end)" style="padding-bottom: 0;">
+                    <div class="content">
+                        <div class="header">
+                            {{data.song_name}} / {{data.artist}}
+                        </div>
+
+                        <div class="extra" style="margin-top: 0; margin-left: 1em;">
+                            : Arranged by {{data.inst_creator}}
+                        </div>
+
+                        <div class="description item" style="margin-bottom: .75em;">
+                            <p>
+                                <a v-bind:href="data.content_url" target="_blank">
+                                    <u><b>{{data.content_name}}</b></u>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="extra">
+                            <div class="right floated" style="padding-top: .5em;">
+                                最終更新日: {{data.updated_at}}
+                            </div>
+                            <div style="padding-bottom: .5em;">
+                                <template v-if="data.rigths_holder=='JASRAC'">
+                                    <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
+                                        JASRAC管理楽曲
+                                    </a>
+                                </template>
+                                <template v-if="data.rigths_holder=='NexTone'">
+                                    <a class="ui teal label" href="https://www.nex-tone.co.jp/YouTube_FAQ/" target="_blank">
+                                        NexTone管理楽曲
+                                    </a>
+                                </template>
+                                <div class="ui label">
+                                    {{data.category}}
+                                </div>
+                                <a class="ui label" v-bind:href="data.inst_license" target="_blank">
+                                    <i class="linkify icon"></i>音源利用規約
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ui center aligned grid" id="paging" style="margin-top: 1em;">
+            <div class="ten wide column">
+                <div class="ui mini input">
+                    <input type="text" style="width:50px" ref="start" value="1" v-on:change="paging">
+                </div>
+                -
+                <div class="ui mini input">
+                    <input type="text" style="width:50px" ref="end" value="20" v-on:change="paging">
+                </div>
+                件を表示
+            </div>
+        </div>
+
+        <div class="ui horizontal divider" style="margin-top: 2em; margin-bottom: 2em;">
+            <i class="gift icon"></i>
+            あなたへのオススメ
+            <i class="gift icon"></i>
+        </div>
+
+        <div id="recommend">
+            <div class="ui divided items">
+                <div class="item" v-for="data in recommends" style="padding-bottom: 0;">
+                    <div class="content">
+                        <div class="header">
+                            {{data.song_name}} / {{data.artist}}
+                        </div>
+
+                        <div class="extra" style="margin-top: 0; margin-left: 1em;">
+                            : Arranged by {{data.inst_creator}}
+                        </div>
+
+                        <div class="description item" style="margin-bottom: .75em;">
+                            <p>
+                                <a v-bind:href="data.content_url" target="_blank">
+                                    <u><b>{{data.content_name}}</b></u>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="extra">
+                            <div class="right floated" style="padding-top: .5em;">
+                                最終更新日: {{data.updated_at}}
+                            </div>
+                            <div style="padding-bottom: .5em;">
+                                <template v-if="data.rigths_holder=='JASRAC'">
+                                    <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
+                                        JASRAC管理楽曲
+                                    </a>
+                                </template>
+                                <template v-if="data.rigths_holder=='NexTone'">
+                                    <a class="ui teal label" href="https://www.nex-tone.co.jp/YouTube_FAQ/" target="_blank">
+                                        NexTone管理楽曲
+                                    </a>
+                                </template>
+                                <div class="ui label">
+                                    {{data.category}}
+                                </div>
+                                <a class="ui label" v-bind:href="data.inst_license" target="_blank">
+                                    <i class="linkify icon"></i>音源利用規約
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+            <h5>免責事項</h5>
+            <p>本サイトを利用、または本サイトの提供する情報を利用した際のトラブルに関しては一切の責任を負いかねます。</p>
+            <p>本サイトの情報は管理人が手動で更新しているため、古くなる場合があります。データの 修正 / 更新 / 追加 などは <a
+                    href="https://github.com/OkuriSae/karaoke-inst-finder/issues/new?assignees=&labels=&template=request-template.md&title=%E9%9F%B3%E6%BA%90%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%AE%E6%AD%A3%E3%83%BB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88">こちら</a>。
+            </p>
+            <div class="ui divider"></div>
+            <div class="ui horizontal inverted small divided link list">
+                <a class="item" href="https://twitter.com/OkuriSae">©︎ 2020 Okuri Sae《VSinger》</a>
+                <a class="item" href="https://github.com/OkuriSae/karaoke-inst-finder">Powered by GitHub Pages</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="arrange_inst_data.js"></script>
+    <script src="arrange_inst_finder.js"></script>
+
+</body>
+
+</html>
