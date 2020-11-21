@@ -83,14 +83,14 @@
 
         <div class="ui grid" id="search">
 
-            <div class="four wide column">
+            <div class="four wide column" style="min-width: 180px;">
                 <select class="ui dropdown item" ref="type" v-on:change="search">
                     <option value="0">楽曲名</option>
                     <option value="1">アーティスト</option>
                 </select>
             </div>
 
-            <div class="twelve wide column">
+            <div class="nine wide column">
                 <div class="ui search item">
                     <div class="ui icon input">
                         <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word">
