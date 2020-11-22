@@ -41,7 +41,7 @@ const list = new Vue({
             }
 
             result = result.filter( i => { 
-                return (i.song_name + i.artist).indexOf(word) != -1
+                return (i.song_name + i.artist).match(new RegExp(word, 'i'));
             }, this);
             
             if (isJasracOrNexTone) {

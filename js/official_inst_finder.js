@@ -35,7 +35,7 @@ const list = new Vue({
             let result = datas;
 
             result = datas.filter( i => { 
-                return (type == 0 ? i.song_name : i.artist).indexOf(word) != -1
+                return (type == 0 ? i.song_name : i.artist).match(new RegExp(word, 'i'));
             }, this);
             
             if (hasInst || hasLisence) {
