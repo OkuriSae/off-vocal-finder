@@ -1,5 +1,15 @@
 $(document).ready(() => { 
     $('.ui.dropdown').dropdown(); 
+
+    decodeURIComponent(window.location.search)
+    .split('&')
+    .forEach((qs) => {
+        if (qs.split('q=')[1]){
+            search.q = qs.split('q=')[1];
+            search.$refs.word.value = search.q;
+            search.search();
+        }
+    });
 });
 
 function makeRecommend() {
@@ -35,7 +45,15 @@ const list = new Vue({
             let result = datas;
 
             result = datas.filter( i => { 
-                return (type == 0 ? i.song_name : i.artist).match(new RegExp(word, 'i'));
+                switch (type) {
+                    case "":
+                    case "0":
+                        return `${i.song_name} / ${i.artist}`.match(new RegExp(word.replace(/[\\^$.*+?()[\]{}|]/g, '\\$&'), 'i'));
+                    case "1":
+                        return i.song_name.match(new RegExp(word, 'i'));
+                    case "2":
+                        return i.artist.match(new RegExp(word, 'i'));
+                }
             }, this);
             
             if (hasInst || hasLisence) {
@@ -66,6 +84,9 @@ const list = new Vue({
 
 const search = new Vue({
     el: '#search',
+    data: {
+        q: ""
+    },
     methods: {
         search: function (event) {
             list.filtering(

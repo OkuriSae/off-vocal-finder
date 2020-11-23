@@ -128,7 +128,7 @@
             <div class="ten wide column">
                 <div class="ui search item">
                     <div class="ui icon input">
-                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word">
+                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word" v-bind:value="q">
                         <i class="search icon"></i>
                     </div>
                 </div>
@@ -168,12 +168,24 @@
                         <div class="extra">
                             <div class="left floated" style="padding-bottom: .5em;">
                                 <template v-if="data.rigths_holder=='JASRAC'">
-                                    <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
+                                    <a
+                                        class="ui teal label"
+                                        v-bind:data-tooltip="'作品コード: ' + data.rights_code"
+                                        data-position="bottom left"
+                                        data-inverted=""
+                                        href="https://www.jasrac.or.jp/news/20/interactive.html"
+                                        target="_blank">
                                         JASRAC管理楽曲
                                     </a>
                                 </template>
                                 <template v-if="data.rigths_holder=='NexTone'">
-                                    <a class="ui teal label" href="https://www.nex-tone.co.jp/YouTube_FAQ/" target="_blank">
+                                    <a
+                                        class="ui teal label"
+                                        v-bind:data-tooltip="'作品コード: ' + data.rights_code"
+                                        data-position="bottom left"
+                                        data-inverted=""
+                                        href="https://www.nex-tone.co.jp/YouTube_FAQ/"
+                                        target="_blank">
                                         NexTone管理楽曲
                                     </a>
                                 </template>
@@ -182,6 +194,12 @@
                                 </div>
                                 <a class="ui label" v-bind:href="data.inst_license" target="_blank">
                                     <i class="linkify icon"></i>音源利用規約
+                                </a>
+                                <a class="ui label"
+                                    v-bind:href="`arrange_inst_finder.html?q=${data.song_name} / ${data.artist}`"
+                                    data-tooltip="右クリックでアドレスをコピーしてね"
+                                    data-position="bottom left">
+                                    <i class="paper plane outline icon"></i>リクエスト
                                 </a>
                             </div>
                             <div class="right floated" style="padding-top: .5em;">
@@ -235,12 +253,24 @@
                         <div class="extra">
                             <div class="left floated" style="padding-bottom: .5em;">
                                 <template v-if="data.rigths_holder=='JASRAC'">
-                                    <a class="ui teal label" href="https://www.jasrac.or.jp/news/20/interactive.html" target="_blank">
+                                    <a
+                                        class="ui teal label"
+                                        v-bind:data-tooltip="'作品コード: ' + data.rights_code"
+                                        data-position="bottom left"
+                                        data-inverted=""
+                                        href="https://www.jasrac.or.jp/news/20/interactive.html"
+                                        target="_blank">
                                         JASRAC管理楽曲
                                     </a>
                                 </template>
                                 <template v-if="data.rigths_holder=='NexTone'">
-                                    <a class="ui teal label" href="https://www.nex-tone.co.jp/YouTube_FAQ/" target="_blank">
+                                    <a
+                                        class="ui teal label"
+                                        v-bind:data-tooltip="'作品コード: ' + data.rights_code"
+                                        data-position="bottom left"
+                                        data-inverted=""
+                                        href="https://www.nex-tone.co.jp/YouTube_FAQ/"
+                                        target="_blank">
                                         NexTone管理楽曲
                                     </a>
                                 </template>

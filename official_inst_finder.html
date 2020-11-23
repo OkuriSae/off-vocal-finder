@@ -105,15 +105,17 @@
 
             <div class="four wide column" style="min-width: 180px;">
                 <select class="ui dropdown item" ref="type" v-on:change="search">
-                    <option value="0">楽曲名</option>
-                    <option value="1">アーティスト</option>
+                    <option value="">検索種別</option>
+                    <option value="0">全て</option>
+                    <option value="1">楽曲名</option>
+                    <option value="2">アーティスト</option>
                 </select>
             </div>
 
             <div class="nine wide column">
                 <div class="ui search item">
                     <div class="ui icon input">
-                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word">
+                        <input class="prompt" type="text" placeholder="Search" v-on:keyup="search" ref="word" v-bind:value="q">
                         <i class="search icon"></i>
                     </div>
                     <div class="results"></div>
@@ -169,6 +171,13 @@
                             <a v-bind:href="`https://www.google.com/search?q=${data.song_name} 歌詞`" target="_blank">
                                 <button class="ui green basic button">
                                     <i class="search icon"></i>歌詞検索
+                                </button>
+                            </a>
+                            <a v-bind:href="`official_inst_finder.html?q=${data.song_name} / ${data.artist}`">
+                                <button class="ui pink basic button"
+                                    data-tooltip="右クリックでアドレスをコピーしてね"
+                                    data-position="bottom left">
+                                    <i class="paper plane outline icon"></i>リクエスト
                                 </button>
                             </a>
                         </div>
