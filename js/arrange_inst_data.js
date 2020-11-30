@@ -21312,7 +21312,79 @@ const datas = [
     "updated_at": "2020年11月1日"
   },
   {
-    "category": "邦楽 2000年～2010年",
+    "category": "アニメ・ゲーム",
+    "song_name": "happily ever after",
+    "artist": "中川翔子",
+    "rigths_holder": "JASRAC",
+    "rights_code": "141-5665-2",
+    "content_name": "【自作カラオケ音源】中川翔子 - happily ever after",
+    "content_url": "https://www.youtube.com/watch?v=tw_esMhpaMQ",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=tw_esMhpaMQ",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
+    "song_name": "花ざかりWeekend✿ Game Size",
+    "artist": "4Luxury",
+    "rigths_holder": "JASRAC",
+    "rights_code": "237-8649-3",
+    "content_name": "【自作カラオケ音源】花ざかりWeekend✿ Game Size",
+    "content_url": "https://www.youtube.com/watch?v=x_tIo73x1_I",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=x_tIo73x1_I",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
+    "song_name": "Catch You Catch Me",
+    "artist": "グミ",
+    "rigths_holder": "JASRAC",
+    "rights_code": "057-5607-3",
+    "content_name": "【自作カラオケ音源】Catch You Catch Me",
+    "content_url": "https://www.youtube.com/watch?v=4XjbBv3UAVc",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=4XjbBv3UAVc",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
+    "song_name": "SMILES and TEARS",
+    "artist": "MOTHER2",
+    "rigths_holder": "JASRAC",
+    "rights_code": "027-8104-2",
+    "content_name": "【自作カラオケ音源】SMILES and TEARS / MOTHER2より",
+    "content_url": "https://www.youtube.com/watch?v=jY7SwE_kDzE",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=jY7SwE_kDzE",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
+    "song_name": "嵐の中で輝いて",
+    "artist": "米倉千尋",
+    "rigths_holder": "JASRAC",
+    "rights_code": "037-5081-7",
+    "content_name": "【自作カラオケ音源】嵐の中で輝いて / 機動戦士ガンダム 第08MS小隊 より",
+    "content_url": "https://www.youtube.com/watch?v=4Ac56YSuZ0U",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=4Ac56YSuZ0U",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
+    "song_name": "10 YEARS AFTER",
+    "artist": "米倉千尋",
+    "rigths_holder": "JASRAC",
+    "rights_code": "037-5082-5",
+    "content_name": "【自作カラオケ音源】10 YEARS AFTER / 機動戦士ガンダム 第08MS小隊 より",
+    "content_url": "https://www.youtube.com/watch?v=zxn_wGi4e58",
+    "inst_creator": "祭前完理",
+    "inst_license": "https://www.youtube.com/watch?v=zxn_wGi4e58",
+    "updated_at": "2020年11月30日"
+  },
+  {
+    "category": "アニメ・ゲーム",
     "song_name": "微笑みの爆弾",
     "artist": "馬渡松子",
     "rigths_holder": "JASRAC",
@@ -21324,7 +21396,7 @@ const datas = [
     "updated_at": "2020年11月29日"
   },
   {
-    "category": "邦楽 2000年～2010年",
+    "category": "アニメ・ゲーム",
     "song_name": "あんなに一緒だったのに",
     "artist": "See-Saw",
     "rigths_holder": "JASRAC",
@@ -21336,7 +21408,7 @@ const datas = [
     "updated_at": "2020年11月29日"
   },
   {
-    "category": "邦楽 2000年～2010年",
+    "category": "アニメ・ゲーム",
     "song_name": "Precious",
     "artist": "伊藤由奈",
     "rigths_holder": "JASRAC",
@@ -21348,7 +21420,7 @@ const datas = [
     "updated_at": "2020年11月29日"
   },
   {
-    "category": "邦楽 2010年～",
+    "category": "アニメ・ゲーム",
     "song_name": "狂乱 Hey Kids!!",
     "artist": "THE ORAL CIGARETTES",
     "rigths_holder": "JASRAC",
